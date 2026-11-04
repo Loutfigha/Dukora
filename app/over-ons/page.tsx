@@ -1,5 +1,7 @@
 import type { Metadata } from 'next';
 import Frame from '@/components/Frame';
+import Voordelen from '@/components/Voordelen';
+import HulpBand from '@/components/HulpBand';
 
 export const metadata: Metadata = {
   title: 'Over ons — vijftien jaar kozijnen plaatsen',
@@ -34,6 +36,8 @@ export default function OverOns() {
         </div>
       </section>
 
+      <Voordelen border={false} />
+
       <section>
         <div className="wrap grid items-center gap-[clamp(40px,6vw,110px)] py-[clamp(64px,8vw,128px)] nav:grid-cols-[1fr_1.1fr]">
           <div>
@@ -50,6 +54,7 @@ export default function OverOns() {
           <Frame src="/img/foto/hero-woning.webp" alt="Moderne vrijstaande woning met grote ramen en een groen gazon" aspect="aspect-[3/2]" sizes="(min-width:961px) 45vw, 90vw" />
         </div>
       </section>
+      <HulpBand titel="Benieuwd hoe wij werken?" tekst="Plan een vrijblijvend gesprek. We komen langs, meten in en vertellen eerlijk wat er mogelijk is." />
     </main>
   );
 }

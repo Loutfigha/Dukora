@@ -6,7 +6,7 @@ import { validateContact } from '@/lib/offerte';
 const lbl = 'mb-2 block text-[15px] font-medium';
 
 /** Kort adviesformulier voor in de hero. Gebruikt dezelfde API als het contactformulier. */
-export default function AdviesForm() {
+export default function AdviesForm({ compact = false, onderwerp = 'de homepage', titel = 'Plan een gratis adviesgesprek', intro = 'Laat uw gegevens achter. Een specialist belt u binnen één werkdag.' }: { compact?: boolean; onderwerp?: string; titel?: string; intro?: string }) {
   const [errors, setErrors] = useState<Record<string, string>>({});
   const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'failed'>('idle');
 
@@ -17,7 +17,7 @@ export default function AdviesForm() {
     const v = (k: string) => String(fd.get(k) ?? '');
     const data = {
       naam: v('naam'), tel: v('tel'), email: v('email'), website: v('website'),
-      bericht: `Adviesgesprek aangevraagd via de homepage. Woonplaats: ${v('plaats').trim() || 'niet opgegeven'}`,
+      bericht: `Adviesgesprek aangevraagd via ${onderwerp}. Woonplaats: ${v('plaats').trim() || 'niet opgegeven'}`,
     };
     const fouten: Record<string, string> = { ...(validateContact(data) ?? {}) };
     if (!v('plaats').trim()) fouten.plaats = 'Vul uw woonplaats in.';
@@ -31,7 +31,7 @@ export default function AdviesForm() {
     try {
       const res = await fetch('/api/contact', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(data) });
       if (!res.ok) throw new Error();
-      push({ event: 'contact_submit', bron: 'hero_adviesgesprek' });
+      push({ event: 'contact_submit', bron: compact ? 'product_adviesgesprek' : 'hero_adviesgesprek' });
       setStatus('sent');
     } catch {
       setStatus('failed');
@@ -56,10 +56,10 @@ export default function AdviesForm() {
   );
 
   return (
-    <form id="adviesgesprek" onSubmit={onSubmit} noValidate className="scroll-mt-32 bg-white p-[clamp(28px,3vw,44px)]">
-      <h2 className="t-sub">Plan een gratis adviesgesprek</h2>
-      <p className="mt-3 text-[16px] leading-[1.55] text-steen">Laat uw gegevens achter. Een specialist belt u binnen één werkdag.</p>
-      <div className="mt-7 grid gap-4 sm:grid-cols-2">
+    <form id="adviesgesprek" onSubmit={onSubmit} noValidate className={`scroll-mt-32 bg-white ${compact ? 'border border-lijn p-7' : 'p-[clamp(28px,3vw,44px)]'}`}>
+      <h2 className="t-sub">{titel}</h2>
+      <p className="mt-3 text-[16px] leading-[1.55] text-steen">{intro}</p>
+      <div className={`mt-7 grid gap-4 ${compact ? '' : 'sm:grid-cols-2'}`}>
         {veld('naam', 'Naam', 'text', 'name')}
         {veld('plaats', 'Woonplaats', 'text', 'address-level2')}
         {veld('tel', 'Telefoonnummer', 'tel', 'tel')}

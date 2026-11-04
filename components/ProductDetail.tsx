@@ -7,6 +7,7 @@ import Blocks from './Blocks';
 import JsonLd from './JsonLd';
 import ProductCard from './ProductCard';
 import { Breadcrumb } from './CategoryHero';
+import AdviesForm from './AdviesForm';
 
 const DISCLAIMER = 'Deze pagina is geen commercieel aanbod. Het getoonde beeldmateriaal dient ter referentie; werkelijke kleuren en texturen kunnen afwijken. Renderings tonen voorbeelden van profiel- en beglazingscombinaties.';
 
@@ -59,6 +60,7 @@ export default function ProductDetail({ p }: { p: Product }) {
               <h2 className="t-section !text-[clamp(30px,3.6vw,52px)]">Over dit product</h2>
               <div className="mt-8"><Blocks blocks={p.desc} /></div>
             </div>
+            <div className="space-y-6 nav:sticky nav:top-[120px]">
             <div className="bg-white p-[clamp(28px,3vw,48px)]">
               {p.bullets.length > 0 && (<>
                 <h2 className="t-sub">Kenmerken</h2>
@@ -73,6 +75,8 @@ export default function ProductDetail({ p }: { p: Product }) {
                   {p.pdfs.map((d) => <TLink key={d.u} href={d.u} className="link-cta">{pdfLabel(d.t)}</TLink>)}
                 </div>
               )}
+            </div>
+            <AdviesForm compact onderwerp={`de productpagina ${p.title}`} titel="Vragen over dit product?" intro="Laat uw gegevens achter voor een gratis adviesgesprek. We bellen u binnen één werkdag." />
             </div>
           </div>
 

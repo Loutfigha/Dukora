@@ -10,6 +10,8 @@ import Blocks from '@/components/Blocks';
 import ModelGrid from '@/components/ModelGrid';
 import JsonLd from '@/components/JsonLd';
 import { Breadcrumb } from '@/components/CategoryHero';
+import AdviesForm from '@/components/AdviesForm';
+import HulpBand from '@/components/HulpBand';
 
 const cat = CATEGORIES['pvc-deuren'];
 export const dynamicParams = false;
@@ -61,6 +63,7 @@ export default function Page({ params }: { params: { collectie: string } }) {
               <h2 className="t-section !text-[clamp(30px,3.6vw,52px)]">Over deze collectie</h2>
               <div className="mt-8"><Blocks blocks={c.desc} /></div>
             </div>
+            <div className="space-y-6 nav:sticky nav:top-[120px]">
             <div className="bg-white p-[clamp(28px,3vw,48px)]">
               {c.bullets.length > 0 && (<>
                 <h2 className="t-sub">Kenmerken</h2>
@@ -75,6 +78,8 @@ export default function Page({ params }: { params: { collectie: string } }) {
                   {c.pdfs.map((d) => <TLink key={d.u} href={d.u} className="link-cta">{pdfLabel(d.t)}</TLink>)}
                 </div>
               )}
+            </div>
+            <AdviesForm compact onderwerp={`de collectie ${c.title}`} titel="Vragen over deze collectie?" intro="Laat uw gegevens achter voor een gratis adviesgesprek. We bellen u binnen één werkdag." />
             </div>
           </div>
         </div>

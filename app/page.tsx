@@ -6,7 +6,7 @@ import { CATEGORIES, DEUREN, productBySlug } from '@/lib/catalogus';
 import TLink from '@/components/TLink';
 import Frame from '@/components/Frame';
 import AdviesForm from '@/components/AdviesForm';
-import { IconTeam, IconAdvies, IconPlanning, IconGarantie } from '@/components/Icons';
+import Voordelen from '@/components/Voordelen';
 import JsonLd from '@/components/JsonLd';
 
 export const metadata: Metadata = {
@@ -22,13 +22,6 @@ const ASSORTIMENT = [
   { cat: 'pvc-deuren' as const, img: DEUREN.find((d) => d.slug === 'model-pvc-deuren')!.image, tekst: 'Buitendeuren in zes collecties en honderden modellen, passend bij uw ramen en bij uw gevel.' },
   { cat: 'pvc-schuifsystemen' as const, img: productBySlug('pvc-schuifsystemen', 'synego-slide')!.image, tekst: 'Vijftien systemen voor schuifpuien en hefschuifdeuren: veel daglicht, een soepele bediening en goede isolatie.' },
   { cat: 'horren' as const, img: productBySlug('horren', 'jolly')!.image, tekst: 'Vaste en uitschuifbare horren en deurklamboes, zodat de ramen open kunnen en insecten buiten blijven.' },
-];
-
-const VOORDELEN = [
-  { icon: <IconTeam />, t: 'Eigen montageteams', s: 'Geen onderaannemers. Dezelfde mensen meten in, plaatsen en leveren op.' },
-  { icon: <IconAdvies />, t: 'Persoonlijk advies', s: 'Een specialist die bij u thuis meet en meedenkt, en pas daarna een prijs noemt.' },
-  { icon: <IconPlanning />, t: 'Een planning die klopt', s: 'Productie en montage liggen bij één partij, dus u weet wie er komt en wanneer.' },
-  { icon: <IconGarantie />, t: 'Garantie op papier', s: 'Bij de oplevering lopen we alles samen na en laten we de garantie achter.' },
 ];
 
 const BELOFTEN = [
@@ -77,20 +70,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Vier voordelen met icoon */}
-      <section className="border-y border-lijn bg-white">
-        <div className="wrap">
-          <ul className="m-0 grid list-none gap-x-10 gap-y-10 p-0 py-[clamp(48px,6vw,88px)] sm:grid-cols-2 nav:grid-cols-4">
-            {VOORDELEN.map((v) => (
-              <li key={v.t}>
-                <span className="flex h-14 w-14 items-center justify-center border border-dennen/25 text-dennen">{v.icon}</span>
-                <h2 className="t-sub mt-6 !text-[24px]">{v.t}</h2>
-                <p className="mt-3 text-[16px] leading-[1.6] text-steen">{v.s}</p>
-              </li>
-            ))}
-          </ul>
-        </div>
-      </section>
+      <Voordelen />
 
       {/* Assortiment */}
       <section>

@@ -1,6 +1,8 @@
 import type { Metadata } from 'next';
 import { CATEGORIES, HORREN_GROEPEN, PRODUCTS } from '@/lib/catalogus';
 import CategoryHero from '@/components/CategoryHero';
+import Voordelen from '@/components/Voordelen';
+import HulpBand from '@/components/HulpBand';
 import ProductCard from '@/components/ProductCard';
 
 const cat = CATEGORIES.horren;
@@ -10,6 +12,7 @@ export default function Page() {
   return (
     <main>
       <CategoryHero crumbs={[{ label: cat.naam }]} eyebrow="Assortiment" title={cat.h1} intro={cat.intro} />
+      <Voordelen border={false} />
       {HORREN_GROEPEN.map((g, i) => {
         const items = PRODUCTS.filter((p) => p.cat === 'horren' && p.sub === g.sub);
         return (
@@ -23,6 +26,7 @@ export default function Page() {
           </section>
         );
       })}
+      <HulpBand />
     </main>
   );
 }
