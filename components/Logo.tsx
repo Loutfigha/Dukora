@@ -1,25 +1,13 @@
-import { useId } from 'react';
+import { BEELDMERK, BEELDMERK_KLEIN, GESTAPELD, HORIZONTAAL } from './logo-data';
 
 /**
- * Dukora-beeldmerk: de verstek-D, gebouwd volgens de brand guide (raster 48 × 48,
- * profielbreedte 9, hoeken van 45°). De vier dunne voegen zijn de verstekverbindingen
- * en zijn echt doorzichtig, zodat het merk op elke achtergrond werkt.
- * Onder 32 px vervallen de voegen (guide: "gebruik dan de massieve versie").
+ * Dukora-beeldmerk (de verstek-D) uit de aangeleverde logobestanden.
+ * Onder 32 px gebruiken we de massieve versie zonder verstekvoegen, zoals de brand guide voorschrijft.
  */
-export function DMark({ size = 32, className = '', solid = false }: { size?: number; className?: string; solid?: boolean }) {
-  const id = useId().replace(/:/g, '');
-  const voegen = size >= 32 && !solid;
+export function DMark({ size = 32, className = '' }: { size?: number; className?: string }) {
   return (
-    <svg width={size} height={size} viewBox="0 0 48 48" aria-hidden focusable="false" className={className} fill="currentColor">
-      {voegen && (
-        <defs>
-          <mask id={`d-${id}`} maskUnits="userSpaceOnUse" x="-2" y="-2" width="52" height="52">
-            <rect x="-2" y="-2" width="52" height="52" fill="#fff" />
-            <path d="M-.5 -.5L9.5 9.5M34.4 -.9L29.6 9.9M34.4 48.9L29.6 38.1M-.7 48.7L9.7 38.3" stroke="#000" strokeWidth=".6" fill="none" />
-          </mask>
-        </defs>
-      )}
-      <path fillRule="evenodd" mask={voegen ? `url(#d-${id})` : undefined} d="M0 0H34L48 14V34L34 48H0Z M9 9H30L39 18V30L30 39H9Z" />
+    <svg width={size} height={size} viewBox="0 0 48 48" aria-hidden focusable="false" className={className} fill="currentColor" fillRule="evenodd">
+      <path d={size < 32 ? BEELDMERK_KLEIN : BEELDMERK} />
     </svg>
   );
 }
@@ -27,25 +15,21 @@ export function DMark({ size = 32, className = '', solid = false }: { size?: num
 type Variant = 'primair' | 'gestapeld' | 'beeldmerk';
 
 /**
- * Logo volgens de brand guide. Kleur komt van de tekstkleur van de ouder:
- * Bos op licht (primair), wit op Bos (negatief), Salie op Nacht (gestapeld).
- * Woordmerk: Inter Semibold, kapitalen, spatiëring +160.
+ * Logo volgens de brand guide. De kleur komt van de tekstkleur van de ouder:
+ * Bos op licht (primair), wit op Bos (negatief), Salie op Nacht (gestapeld, met wit woordmerk).
+ * `size` is de totale hoogte van het logo in px (bij `beeldmerk` de zijde).
  */
-export default function Logo({ variant = 'primair', className = '', size = 30 }: { variant?: Variant; className?: string; size?: number }) {
+export default function Logo({ variant = 'primair', className = '', size = 32, woordKleur }: { variant?: Variant; className?: string; size?: number; woordKleur?: string }) {
   if (variant === 'beeldmerk') return <DMark size={size} className={className} />;
-  const woord = 'font-sans font-semibold uppercase leading-none tracking-[.16em]';
-  if (variant === 'gestapeld') {
-    return (
-      <span className={`inline-flex flex-col items-center gap-4 ${className}`}>
-        <DMark size={size * 1.6} />
-        <span className={woord} style={{ fontSize: size * 0.66 }}>Dukora</span>
-      </span>
-    );
-  }
+  const g = variant === 'gestapeld';
+  const l = g ? GESTAPELD : HORIZONTAAL;
+  const [, , w, h] = l.viewBox.split(' ').map(Number);
+  const hoogte = size;
+  const breedte = hoogte * (w / h);
   return (
-    <span className={`inline-flex items-center ${className}`} style={{ gap: size * 0.4 }}>
-      <DMark size={size} />
-      <span className={woord} style={{ fontSize: size * 0.7 }}>Dukora</span>
-    </span>
+    <svg width={breedte} height={hoogte} viewBox={l.viewBox} role="img" aria-label="Dukora" className={className}>
+      <path d={l.merk} fill="currentColor" fillRule="evenodd" />
+      <path d={l.woord} fill={woordKleur ?? 'currentColor'} />
+    </svg>
   );
 }

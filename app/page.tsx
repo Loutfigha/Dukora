@@ -98,27 +98,28 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Maak kennis: de zin, het verhaal, de foto en drie feiten */}
+      {/* Maak kennis: veel beeld, weinig tekst. Twee foto's overlappen in het kozijnframe. */}
       <section className="bg-white">
         <div className="wrap py-[clamp(72px,9vw,150px)]">
-          <div className="grid items-center gap-[clamp(40px,6vw,110px)] nav:grid-cols-[1.15fr_1fr]">
-            <div className="order-2 nav:order-1">
-              <h2 className="display max-w-[24ch] text-[clamp(30px,3.4vw,50px)] leading-[1.12] [text-wrap:pretty]">Wij zijn geen tussenhandel. We meten zelf in, we plaatsen zelf en we zijn er zelf als er iets nagekeken moet worden.</h2>
-              <p className="body-l mt-8">Dukora begon vijftien jaar geleden met één bus en twee monteurs. Inmiddels werken we door heel Nederland, met vaste teams die elkaars werk kennen. Wat niet veranderde: bij elk project komt er eerst iemand kijken, niet om te verkopen maar om te meten.</p>
-              <TLink href="/over-ons" className="link-cta mt-8">Lees meer over ons</TLink>
+          <div className="grid items-center gap-[clamp(40px,6vw,100px)] nav:grid-cols-[1fr_1.25fr]">
+            <div>
+              <h2 className="display max-w-[16ch] text-[clamp(32px,3.8vw,56px)] leading-[1.08]">Wij zijn geen tussenhandel.</h2>
+              <p className="lede mt-6 max-w-[34ch]">We meten zelf in, we plaatsen zelf en we zijn er zelf als er iets nagekeken moet worden.</p>
+              <TLink href="/over-ons" className="link-cta mt-9">Lees meer over ons</TLink>
             </div>
-            <div className="order-1 nav:order-2">
-              <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" aspect="aspect-[4/5]" sizes="(min-width:961px) 40vw, 90vw" className="mx-auto max-w-[500px] nav:mr-0" />
+            <div className="relative mx-auto aspect-square w-full max-w-[680px] nav:mr-0">
+              <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" aspect="aspect-[4/5]" sizes="(min-width:961px) 28vw, 55vw" className="absolute left-0 top-0 w-[58%]" />
+              <Frame src="/img/foto/hero-woning.webp" alt="Moderne vrijstaande woning met grote ramen en een groen gazon" aspect="aspect-[3/2]" sizes="(min-width:961px) 30vw, 60vw" className="absolute bottom-0 right-0 w-[64%]" />
             </div>
           </div>
-          <dl className="m-0 mt-[clamp(56px,7vw,104px)] grid gap-x-10 gap-y-10 sm:grid-cols-3">
+          <dl className="m-0 mt-[clamp(64px,8vw,120px)] grid gap-x-10 gap-y-10 sm:grid-cols-3">
             {FEITEN.map(([n, t, s]) => (
               <div key={t} className="border-t-2 border-antraciet pt-6">
-                <dt className="display text-[clamp(44px,4.6vw,68px)] leading-none">{n}</dt>
-                <dd className="m-0 mt-4">
-                  <span className="block text-[17px] font-semibold">{t}</span>
-                  <span className="mt-1 block text-[15.5px] leading-[1.55] text-leisteen">{s}</span>
-                </dd>
+                <dt className="flex items-baseline gap-3">
+                  <span className="display text-[clamp(56px,6vw,96px)] leading-none">{n}</span>
+                  <span className="text-[17px] font-semibold">{t}</span>
+                </dt>
+                <dd className="m-0 mt-3 text-[15.5px] leading-[1.55] text-leisteen">{s}</dd>
               </div>
             ))}
           </dl>

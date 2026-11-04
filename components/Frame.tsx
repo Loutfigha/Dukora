@@ -6,7 +6,7 @@ export default function Frame({ src, alt, aspect = 'aspect-[4/5]', priority, siz
   src: string; alt: string; aspect?: string; priority?: boolean; sizes?: string; children?: ReactNode; className?: string;
 }) {
   return (
-    <div className={`relative ${className}`}>
+    <div className={`${/\b(absolute|fixed|sticky)\b/.test(className) ? '' : 'relative'} ${className}`}>
       <div className="border border-ink/[.14] bg-white p-3 sm:p-4">
         <div className={`relative overflow-hidden ${aspect}`}>
           <Image src={src} alt={alt} fill priority={priority} sizes={sizes ?? '(min-width:961px) 40vw, 90vw'} className="object-cover" />

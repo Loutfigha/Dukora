@@ -14,7 +14,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-[60] border-b border-lijn bg-glas/90 backdrop-blur-[18px]">
       <div className="wrap flex h-[84px] items-center justify-between gap-8">
-        <Link href="/" aria-label="Dukora, naar de homepage" className="flex-none text-dennen hover:text-dennen"><Logo size={32} /></Link>
+        <Link href="/" aria-label="Dukora, naar de homepage" className="flex-none text-dennen hover:text-dennen"><Logo size={38} /></Link>
         <nav aria-label="Hoofdmenu" className="mx-auto hidden items-center gap-1 nav:flex">
           {NAV.map((n) => {
             const actief = pathname === n.href || pathname.startsWith(n.href + '/');

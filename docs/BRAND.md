@@ -3,13 +3,13 @@
 Samenvatting van de brand guide, zodat iedereen die aan de site werkt dezelfde regels volgt.
 
 ## Logo
-- **Beeldmerk:** de verstek-D, een D opgebouwd als kozijnprofiel (raster 48 × 48, profielbreedte 9, hoeken van 45°, vier dunne verstekvoegen). Component: `components/Logo.tsx` (`DMark`).
+- **Beeldmerk:** de verstek-D, een D opgebouwd als kozijnprofiel (raster 48 × 48, profielbreedte 9, hoeken van 45°, vier dunne verstekvoegen). Component: `components/Logo.tsx`.
 - **Woordmerk:** DUKORA in Inter Semibold, kapitalen, spatiëring +160 (`tracking-[.16em]`).
 - **Varianten:** primair (Bos op wit), negatief (wit op Bos), gestapeld (Salie op Nacht), beeldmerk los (favicon, app, social).
 - **Vrije ruimte:** minimaal ¾ van de hoogte van het beeldmerk rondom.
 - **Minimaal formaat:** logo 96 px, beeldmerk 16 px. Onder 32 px vervallen de voegen (massieve versie).
 - **Niet doen:** vervormen, draaien, andere kleuren, laag contrast, schaduwen, verlopen of effecten.
-- De logo's op de site zijn nagebouwd uit de constructietekening. Heeft u de originele SVG-bestanden, vervang dan `DMark` en `app/icon.svg`.
+- **Bestanden:** de officiële logobestanden staan in `public/brand/` (primair, antraciet, wit, gestapeld, beeldmerk in Bos, Salie en wit, klein en app-icoon). De componenten gebruiken dezelfde paden (`components/logo-data.ts`, gegenereerd uit die bestanden). Pas die paden niet met de hand aan.
 
 ## Kleur
 | Naam | Hex | Gebruik |
