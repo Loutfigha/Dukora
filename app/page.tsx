@@ -108,8 +108,8 @@ export default function Home() {
               <TLink href="/over-ons" className="link-cta mt-9">Lees meer over ons</TLink>
             </div>
             <div className="relative mx-auto aspect-square w-full max-w-[680px] nav:mr-0">
-              <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" aspect="aspect-[4/5]" sizes="(min-width:961px) 28vw, 55vw" className="absolute left-0 top-0 w-[58%]" />
-              <Frame src="/img/foto/hero-woning.webp" alt="Moderne vrijstaande woning met grote ramen en een groen gazon" aspect="aspect-[3/2]" sizes="(min-width:961px) 30vw, 60vw" className="absolute bottom-0 right-0 w-[64%]" />
+              <Frame src="/img/foto/monteur-portret.webp" alt="Dukora-monteur met gekruiste armen voor een grote schuifpui" aspect="aspect-[4/5]" sizes="(min-width:961px) 28vw, 55vw" className="absolute left-0 top-0 w-[58%]" />
+              <Frame src="/img/foto/monteurs-team.webp" alt="Drie Dukora-monteurs plaatsen samen een raam in een stenen gevel" aspect="aspect-[3/2]" sizes="(min-width:961px) 32vw, 64vw" className="absolute bottom-0 right-0 w-[66%]" />
             </div>
           </div>
           <dl className="m-0 mt-[clamp(64px,8vw,120px)] grid gap-x-10 gap-y-10 sm:grid-cols-3">
@@ -123,6 +123,16 @@ export default function Home() {
               </div>
             ))}
           </dl>
+        </div>
+      </section>
+
+      {/* Bus en slogan naast elkaar: de tekst staat op eigen vlak, zodat de belettering op de bus vrij blijft */}
+      <section className="grid bg-nacht nav:grid-cols-[minmax(0,.9fr)_minmax(0,1.7fr)]">
+        <div className="flex items-center px-5 py-14 nav:px-12 nav:py-0 nav:pl-[max(48px,calc((100vw-1360px)/2+48px))] nav:pr-12">
+          <p className="display max-w-[11ch] text-[clamp(36px,4vw,60px)] leading-[1.06] text-white">Eigen monteurs. Eigen bus. Heel Nederland.</p>
+        </div>
+        <div className="relative aspect-[16/10] w-full nav:aspect-auto nav:min-h-[560px]">
+          <Image src="/img/foto/bedrijfsbus.webp" alt="Groene Dukora-bedrijfsbus voor een moderne woning" fill sizes="(min-width:961px) 65vw, 100vw" className="object-cover object-[60%_55%]" />
         </div>
       </section>
 
@@ -151,6 +161,7 @@ export default function Home() {
           <div className="nav:sticky nav:top-[130px] nav:self-start">
             <h2 className="t-section max-w-[10ch]">Van eerste gesprek tot oplevering.</h2>
             <p className="body-l mt-6">Zes stappen, één aanspreekpunt. U weet steeds wie er komt en wanneer.</p>
+            <Frame src="/img/foto/monteur-montage.webp" alt="Dukora-monteur plaatst een raam in een witte gevel" aspect="aspect-[4/3]" sizes="(min-width:961px) 34vw, 90vw" className="mt-10 hidden max-w-[460px] nav:block" />
           </div>
           <ol className="m-0 list-none p-0">
             {STAPPEN.map(([t, s], i) => (

@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import Image from 'next/image';
 import Frame from '@/components/Frame';
 import Voordelen from '@/components/Voordelen';
 import HulpBand from '@/components/HulpBand';
@@ -24,6 +25,10 @@ export default function OverOns() {
           <p className="label opkomst mb-6">Over Dukora</p>
           <h1 className="t-page opkomst max-w-[16ch]">Vijftien jaar kozijnen plaatsen leert je waar het misgaat.</h1>
         </div>
+      </section>
+
+      <section className="relative aspect-[16/8] min-h-[260px] w-full bg-nacht">
+        <Image src="/img/foto/bedrijfspand.webp" alt="Het Dukora-bedrijfspand met de bus ervoor" fill priority sizes="100vw" className="object-cover object-[50%_40%]" />
       </section>
 
       <section className="bg-white">
@@ -52,7 +57,7 @@ export default function OverOns() {
               ))}
             </dl>
           </div>
-          <Frame src="/img/foto/hero-woning.webp" alt="Moderne vrijstaande woning met grote ramen en een groen gazon" aspect="aspect-[3/2]" sizes="(min-width:961px) 45vw, 90vw" />
+          <Frame src="/img/foto/monteur-portret.webp" alt="Dukora-monteur met gekruiste armen voor een grote schuifpui" aspect="aspect-[3/2]" sizes="(min-width:961px) 45vw, 90vw" />
         </div>
       </section>
       <HulpBand titel="Benieuwd hoe wij werken?" tekst="Plan een vrijblijvend gesprek. We komen langs, meten in en vertellen eerlijk wat er mogelijk is." />
