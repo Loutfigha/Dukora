@@ -24,10 +24,11 @@ const ASSORTIMENT = [
   { cat: 'horren' as const, img: productBySlug('horren', 'jolly')!.image, tekst: 'Vaste en uitschuifbare horren en deurklamboes, zodat de ramen open kunnen en insecten buiten blijven.' },
 ];
 
-const BELOFTEN = [
-  ['Eigen montageteams', 'Geen onderaannemers die u nooit eerder zag. Dezelfde mensen meten in, plaatsen en leveren op.'],
-  ['Advies, geen verkoop', 'Een specialist die bij u thuis meet en meedenkt, en pas daarna een prijs noemt.'],
-  ['Eén partij, van productie tot montage', 'Daardoor kunnen we een planning afgeven die klopt, en die we nakomen.'],
+
+const FEITEN = [
+  ['15', 'jaar ervaring', 'Met kozijnen en montage, bij huizen door heel Nederland.'],
+  ['1', 'aanspreekpunt', 'Van het eerste bezoek tot en met de oplevering.'],
+  ['1', 'werkdag', 'Zo lang duurt het tot een specialist u terugbelt.'],
 ];
 
 const VERSCHIL = [
@@ -97,36 +98,30 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Belofte */}
-      <section className="bg-nacht text-white">
+      {/* Maak kennis: de zin, het verhaal, de foto en drie feiten */}
+      <section className="bg-white">
         <div className="wrap py-[clamp(72px,9vw,150px)]">
-          <p className="display max-w-[24ch] text-[clamp(30px,4vw,62px)] leading-[1.08] text-white">Wij zijn geen tussenhandel. We meten zelf in, we plaatsen zelf en we zijn er zelf als er iets nagekeken moet worden.</p>
-          <div className="mt-[clamp(48px,6vw,96px)] grid gap-x-12 gap-y-10 border-t border-white/20 pt-10 nav:grid-cols-3">
-            {BELOFTEN.map(([t, s]) => (
-              <div key={t}>
-                <h3 className="t-sub text-white">{t}</h3>
-                <p className="mt-3 max-w-[34ch] text-[16.5px] leading-[1.6] text-white/70">{s}</p>
+          <div className="grid items-center gap-[clamp(40px,6vw,110px)] nav:grid-cols-[1.15fr_1fr]">
+            <div className="order-2 nav:order-1">
+              <h2 className="display max-w-[24ch] text-[clamp(30px,3.4vw,50px)] leading-[1.12] [text-wrap:pretty]">Wij zijn geen tussenhandel. We meten zelf in, we plaatsen zelf en we zijn er zelf als er iets nagekeken moet worden.</h2>
+              <p className="body-l mt-8">Dukora begon vijftien jaar geleden met één bus en twee monteurs. Inmiddels werken we door heel Nederland, met vaste teams die elkaars werk kennen. Wat niet veranderde: bij elk project komt er eerst iemand kijken, niet om te verkopen maar om te meten.</p>
+              <TLink href="/over-ons" className="link-cta mt-8">Lees meer over ons</TLink>
+            </div>
+            <div className="order-1 nav:order-2">
+              <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" aspect="aspect-[4/5]" sizes="(min-width:961px) 40vw, 90vw" className="mx-auto max-w-[500px] nav:mr-0" />
+            </div>
+          </div>
+          <dl className="m-0 mt-[clamp(56px,7vw,104px)] grid gap-x-10 gap-y-10 sm:grid-cols-3">
+            {FEITEN.map(([n, t, s]) => (
+              <div key={t} className="border-t-2 border-antraciet pt-6">
+                <dt className="display text-[clamp(44px,4.6vw,68px)] leading-none">{n}</dt>
+                <dd className="m-0 mt-4">
+                  <span className="block text-[17px] font-semibold">{t}</span>
+                  <span className="mt-1 block text-[15.5px] leading-[1.55] text-leisteen">{s}</span>
+                </dd>
               </div>
             ))}
-          </div>
-          <div className="mt-12 flex flex-wrap items-center gap-x-6 gap-y-4">
-            <TLink href="/#adviesgesprek" className="btn-primary-dark px-8 py-[18px]">Plan een adviesgesprek</TLink>
-            <TLink href="/offerte-aanvragen" track="cta_offerte_band" className="btn-ghost-dark px-8 py-[18px]">Vraag een offerte aan</TLink>
-          </div>
-        </div>
-      </section>
-
-      {/* Maak kennis met Dukora */}
-      <section className="bg-white">
-        <div className="wrap grid items-center gap-[clamp(40px,6vw,110px)] py-[clamp(72px,9vw,150px)] nav:grid-cols-[1fr_1fr]">
-          <div className="order-2 nav:order-1">
-            <h2 className="t-section max-w-[13ch]">Maak kennis met Dukora.</h2>
-            <p className="body-l mt-6">Dukora begon vijftien jaar geleden met één bus en twee monteurs. Inmiddels werken we door heel Nederland, met vaste teams die elkaars werk kennen. Wat niet veranderde: bij elk project komt er eerst iemand kijken, niet om te verkopen maar om te meten.</p>
-            <TLink href="/over-ons" className="link-cta mt-8">Lees meer over ons</TLink>
-          </div>
-          <div className="order-1 nav:order-2">
-            <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" aspect="aspect-[4/5]" sizes="(min-width:961px) 40vw, 90vw" className="mx-auto max-w-[520px] nav:mr-0" />
-          </div>
+          </dl>
         </div>
       </section>
 
