@@ -52,7 +52,7 @@ const STAPPEN = [
 export default function Home() {
   return (
     <main>
-      <JsonLd data={{ '@context': 'https://schema.org', '@type': 'HomeAndConstructionBusiness', name: 'Dukora', url: SITE.url, telephone: SITE.phone, email: SITE.email, areaServed: 'NL', description: SITE.description }} />
+      <JsonLd data={{ '@context': 'https://schema.org', '@type': 'HomeAndConstructionBusiness', name: 'Dukora', url: SITE.url, logo: `${SITE.url}/brand/png/dukora-logo-bos-1024px.png`, image: `${SITE.url}/opengraph-image.png`, telephone: SITE.phone, email: SITE.email, areaServed: 'NL', description: SITE.description }} />
 
       {/* Hero: kop links, het adviesformulier rechts. De enige beweging op de pagina. */}
       <section>

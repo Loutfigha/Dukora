@@ -9,6 +9,7 @@ Samenvatting van de brand guide, zodat iedereen die aan de site werkt dezelfde r
 - **Vrije ruimte:** minimaal ¾ van de hoogte van het beeldmerk rondom.
 - **Minimaal formaat:** logo 96 px, beeldmerk 16 px. Onder 32 px vervallen de voegen (massieve versie).
 - **Niet doen:** vervormen, draaien, andere kleuren, laag contrast, schaduwen, verlopen of effecten.
+- **PNG-versies** (512, 1024 en 2048 px) staan in `public/brand/png/`. Op de pagina gebruiken we de SVG (scherper en lichter); de PNG's zijn voor het app-icoon, het favicon, de manifest en het logo in de zoekresultaten.
 - **Bestanden:** de officiële logobestanden staan in `public/brand/` (primair, antraciet, wit, gestapeld, beeldmerk in Bos, Salie en wit, klein en app-icoon). De componenten gebruiken dezelfde paden (`components/logo-data.ts`, gegenereerd uit die bestanden). Pas die paden niet met de hand aan.
 
 ## Kleur
