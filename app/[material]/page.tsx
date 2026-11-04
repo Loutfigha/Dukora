@@ -8,6 +8,8 @@ import Arrow from '@/components/Arrow';
 import Photo from '@/components/Photo';
 import Reveal from '@/components/Reveal';
 import JsonLd from '@/components/JsonLd';
+import { IDEAL_7000_NL } from '@/lib/profielen';
+import Image from 'next/image';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => PRODUCTS.map((p) => ({ material: p.slug }));
@@ -104,6 +106,28 @@ export default function ProductPage({ params }: { params: { material: string } }
           </div>
         </div>
       </section>
+
+      {p.slug === 'kunststof-kozijnen' && (
+        <section className="border-t border-line-2">
+          <div className="wrap py-[clamp(64px,7vw,100px)]">
+            <p className="eyebrow">Profielen</p>
+            <h2 className="mt-5 max-w-[640px] text-[clamp(28px,3.6vw,44px)] font-semibold leading-[1.04] tracking-[-.04em]">Kies uw kunststof profiel.</h2>
+            <div className="mt-10 grid gap-[clamp(24px,3vw,40px)] sm:grid-cols-2 nav:grid-cols-3">
+              <Link href={IDEAL_7000_NL.path} className="group block text-ink hover:text-ink">
+                <div className="relative aspect-[4/3] w-full overflow-hidden bg-white">
+                  <Image src={IDEAL_7000_NL.afbeelding.src} alt={IDEAL_7000_NL.afbeelding.alt} fill sizes="(min-width:961px) 33vw, 100vw" className="object-contain" />
+                </div>
+                <div className="mt-[22px] flex items-baseline justify-between gap-3 border-b border-line pb-[14px]">
+                  <h3 className="text-[clamp(22px,2.4vw,28px)] font-semibold tracking-[-.03em]">{IDEAL_7000_NL.naam}</h3>
+                  <span className="text-[13px] font-semibold text-accent">KOMO</span>
+                </div>
+                <p className="mt-4 text-base leading-[1.6] text-text-3">{IDEAL_7000_NL.tagline}</p>
+                <span className="mt-5 inline-flex items-center gap-[9px] text-[15px] font-semibold text-accent">Bekijk dit profiel<Arrow size={13} /></span>
+              </Link>
+            </div>
+          </div>
+        </section>
+      )}
 
       <section id="veelgestelde-vragen" className="wrap scroll-mt-24 py-[clamp(64px,8vw,110px)]">
         <div className="grid items-start gap-[clamp(32px,5vw,72px)] nav:grid-cols-[1fr_1.4fr]">
