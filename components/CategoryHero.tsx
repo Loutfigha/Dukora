@@ -16,7 +16,7 @@ export function Breadcrumb({ items }: { items: { label: string; href?: string }[
   );
 }
 
-export default function CategoryHero({ crumbs, title, intro, children }: {
+export default function CategoryHero({ crumbs, eyebrow, title, intro, children }: {
   crumbs: { label: string; href?: string }[]; eyebrow?: string; title: string; intro: string; children?: ReactNode;
 }) {
   return (
@@ -24,7 +24,10 @@ export default function CategoryHero({ crumbs, title, intro, children }: {
       <div className="wrap pb-[clamp(48px,6vw,96px)] pt-[clamp(40px,5vw,72px)]">
         <Breadcrumb items={crumbs} />
         <div className="grid items-end gap-[clamp(28px,4vw,72px)] nav:grid-cols-[1.25fr_1fr]">
-          <h1 className="t-page">{title}</h1>
+          <div>
+            {eyebrow && <p className="label mb-6">{eyebrow}</p>}
+            <h1 className="t-page">{title}</h1>
+          </div>
           <div>
             <p className="lede">{intro}</p>
             <div className="mt-8 flex flex-wrap gap-3">

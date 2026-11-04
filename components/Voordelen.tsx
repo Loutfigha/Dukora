@@ -2,7 +2,7 @@ import { IconTeam, IconAdvies, IconPlanning, IconGarantie } from './Icons';
 
 export const VOORDELEN = [
   { icon: <IconTeam />, t: 'Eigen montageteams', s: 'Geen onderaannemers. Dezelfde mensen meten in, plaatsen en leveren op.' },
-  { icon: <IconAdvies />, t: 'Persoonlijk advies', s: 'Een specialist die bij u thuis meet en meedenkt, en pas daarna een prijs noemt.' },
+  { icon: <IconAdvies />, t: 'Persoonlijk advies', s: 'Onze specialist komt bij u thuis, meet alles in en geeft eerlijk advies. Zonder verkooppraatje.' },
   { icon: <IconPlanning />, t: 'Een planning die klopt', s: 'Productie en montage liggen bij één partij, dus u weet wie er komt en wanneer.' },
   { icon: <IconGarantie />, t: 'Garantie op papier', s: 'Bij de oplevering lopen we alles samen na en laten we de garantie achter.' },
 ];

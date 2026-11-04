@@ -21,6 +21,7 @@ export default function OverOns() {
     <main>
       <section>
         <div className="wrap pb-[clamp(56px,7vw,112px)] pt-[clamp(56px,8vw,128px)]">
+          <p className="label opkomst mb-6">Over Dukora</p>
           <h1 className="t-page opkomst max-w-[16ch]">Vijftien jaar kozijnen plaatsen leert je waar het misgaat.</h1>
         </div>
       </section>

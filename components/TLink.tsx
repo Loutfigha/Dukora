@@ -4,16 +4,16 @@ import type { ComponentProps, ReactNode } from 'react';
 import { trackCta } from '@/lib/track';
 import WhatsAppIcon from './WhatsAppIcon';
 
-type Props = Omit<ComponentProps<'a'>, 'href'> & { href: string; track?: string; children: ReactNode };
+type Props = Omit<ComponentProps<'a'>, 'href'> & { href: string; track?: string; noIcon?: boolean; children: ReactNode };
 
 /** Link met optionele dataLayer-tracking. Externe/tel/mailto-links worden gewone <a>'s. */
-export default function TLink({ href, track, onClick, children, ...rest }: Props) {
+export default function TLink({ href, track, noIcon, onClick, children, ...rest }: Props) {
   const handle: ComponentProps<'a'>['onClick'] = (e) => {
     if (track) trackCta(track);
     onClick?.(e);
   };
   const external = /^(https?:|tel:|mailto:)/.test(href);
-  const whatsapp = href.startsWith('https://wa.me');
+  const whatsapp = href.startsWith('https://wa.me') && !noIcon;
   const inhoud = whatsapp ? <span className="inline-flex items-center gap-2"><WhatsAppIcon />{children}</span> : children;
   if (external) {
     const blank = href.startsWith('http');

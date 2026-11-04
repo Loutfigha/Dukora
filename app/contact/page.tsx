@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import { SITE } from '@/lib/site';
 import TLink from '@/components/TLink';
 import ContactForm from '@/components/ContactForm';
+import WhatsAppIcon from '@/components/WhatsAppIcon';
 import JsonLd from '@/components/JsonLd';
 
 export const metadata: Metadata = {
@@ -34,7 +35,7 @@ export default function Contact() {
         <div className="mt-[clamp(44px,5vw,72px)] grid items-start gap-[clamp(36px,5vw,80px)] nav:grid-cols-2">
           <div>
             <TLink href={SITE.phoneHref} track="tel_contact" className={blok}><span className={lab}>Telefoon</span><span className={val}>{SITE.phone}</span></TLink>
-            <TLink href={SITE.whatsapp} track="whatsapp_contact" className={blok}><span className={lab}>WhatsApp</span><span className={val}>Stuur een bericht</span></TLink>
+            <TLink href={SITE.whatsapp} track="whatsapp_contact" noIcon className={blok}><span className={`${lab} flex items-center gap-2`}><WhatsAppIcon />WhatsApp</span><span className={val}>Stuur een bericht</span></TLink>
             <TLink href={`mailto:${SITE.email}`} className={blok}><span className={lab}>E-mail</span><span className={val}>{SITE.email}</span></TLink>
             <div className="border-t border-lijn py-7">
               <span className={lab}>Openingstijden</span>

@@ -98,7 +98,7 @@ export default function Home() {
       </section>
 
       {/* Belofte */}
-      <section className="bg-dennen text-white">
+      <section className="bg-nacht text-white">
         <div className="wrap py-[clamp(72px,9vw,150px)]">
           <p className="display max-w-[24ch] text-[clamp(30px,4vw,62px)] leading-[1.08] text-white">Wij zijn geen tussenhandel. We meten zelf in, we plaatsen zelf en we zijn er zelf als er iets nagekeken moet worden.</p>
           <div className="mt-[clamp(48px,6vw,96px)] grid gap-x-12 gap-y-10 border-t border-white/20 pt-10 nav:grid-cols-3">

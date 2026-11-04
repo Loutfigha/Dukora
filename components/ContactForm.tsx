@@ -3,7 +3,7 @@ import { useState, type FormEvent } from 'react';
 import { push } from '@/lib/track';
 import { validateContact } from '@/lib/offerte';
 
-const lbl = 'mb-2 block text-[14px] font-medium text-white/80';
+const lbl = 'mb-2 block text-[15px] font-medium';
 
 export default function ContactForm() {
   const [errors, setErrors] = useState<Record<string, string>>({});
@@ -32,37 +32,37 @@ export default function ContactForm() {
 
   if (status === 'sent') {
     return (
-      <div role="status" className="bg-dennen p-[clamp(28px,3.5vw,52px)] text-white">
-        <h2 className="t-sub text-white">Bedankt, we hebben uw bericht ontvangen.</h2>
-        <p className="mt-[14px] text-[15.5px] leading-[1.6] text-white/[.66]">We bellen u binnen één werkdag terug.</p>
+      <div role="status" className="bg-white p-[clamp(28px,3.5vw,52px)]">
+        <h2 className="t-sub">Bedankt, we hebben uw bericht ontvangen.</h2>
+        <p className="mt-[14px] text-[15.5px] leading-[1.6] text-leisteen">We bellen u binnen één werkdag terug.</p>
       </div>
     );
   }
 
   return (
-    <form onSubmit={onSubmit} noValidate className="bg-dennen p-[clamp(28px,3.5vw,52px)] text-white">
-      <h2 className="t-sub text-white">Laat uw gegevens achter</h2>
-      <p className="mt-[14px] text-[15.5px] leading-[1.6] text-white/[.66]">We bellen u binnen één werkdag terug. Wilt u direct een prijsindicatie? Gebruik dan de <a href="/offerte-aanvragen" className="text-salie underline hover:text-white">offerteaanvraag</a>.</p>
+    <form onSubmit={onSubmit} noValidate className="bg-white p-[clamp(28px,3.5vw,52px)]">
+      <h2 className="t-sub">Laat uw gegevens achter</h2>
+      <p className="mt-[14px] text-[15.5px] leading-[1.6] text-leisteen">We bellen u binnen één werkdag terug. Wilt u direct een prijsindicatie? Gebruik dan de <a href="/offerte-aanvragen" className="text-dennen underline">offerteaanvraag</a>.</p>
       <div className="mt-7 flex flex-col gap-[14px]">
         {[['naam', 'Naam', 'text'], ['tel', 'Telefoonnummer', 'tel'], ['email', 'E-mailadres', 'email']].map(([n, l, t]) => (
           <label key={n} className="block">
             <span className={lbl}>{l}</span>
-            <input name={n} type={t} autoComplete={n === 'naam' ? 'name' : n} aria-invalid={!!errors[n]} aria-describedby={errors[n] ? `err-${n}` : undefined} className="input-dark" />
-            {errors[n] && <p id={`err-${n}`} className="mt-2 text-[14.5px] font-medium text-[#F2B3A8]">{errors[n]}</p>}
+            <input name={n} type={t} autoComplete={n === 'naam' ? 'name' : n} aria-invalid={!!errors[n]} aria-describedby={errors[n] ? `err-${n}` : undefined} className="input" />
+            {errors[n] && <p id={`err-${n}`} className="mt-2 text-[14.5px] font-medium text-error">{errors[n]}</p>}
           </label>
         ))}
         <label className="block">
           <span className={lbl}>Waar gaat het over?</span>
-          <textarea name="bericht" rows={4} className="input-dark resize-y" />
+          <textarea name="bericht" rows={4} className="input resize-y" />
         </label>
         {/* Honeypot tegen spam */}
         <input name="website" tabIndex={-1} autoComplete="off" aria-hidden className="absolute -left-[9999px] h-0 w-0 opacity-0" />
       </div>
-      <button type="submit" disabled={status === 'sending'} className="btn-primary-dark mt-6 w-full py-[18px] text-base disabled:opacity-60">
+      <button type="submit" disabled={status === 'sending'} className="btn-primary mt-6 w-full py-[18px] text-base disabled:opacity-60">
         {status === 'sending' ? 'Versturen…' : 'Verstuur bericht'}
       </button>
-      {status === 'failed' && <p role="alert" className="mt-[14px] text-[14.5px] font-medium text-[#F2B3A8]">Versturen is niet gelukt. Probeer het opnieuw of bel ons.</p>}
-      <p className="mt-[14px] text-[13px] leading-[1.55] text-white/45">Uw gegevens gebruiken we alleen om contact met u op te nemen.</p>
+      {status === 'failed' && <p role="alert" className="mt-[14px] text-[14.5px] font-medium text-error">Versturen is niet gelukt. Probeer het opnieuw of bel ons.</p>}
+      <p className="mt-[14px] text-[13px] leading-[1.55] text-leisteen">Uw gegevens gebruiken we alleen om contact met u op te nemen.</p>
     </form>
   );
 }

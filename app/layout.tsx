@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import localFont from 'next/font/local';
 import './globals.css';
 import { SITE } from '@/lib/site';
@@ -11,7 +11,7 @@ import Footer from '@/components/Footer';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
 
 const body = localFont({
-  src: './fonts/HankenGrotesk-Variable.woff2',
+  src: './fonts/Inter-Variable.woff2',
   weight: '400 600',
   variable: '--font-body',
   display: 'swap',
@@ -24,6 +24,8 @@ const display = localFont({
   display: 'swap',
   fallback: ['Georgia', 'Times New Roman', 'serif'],
 });
+
+export const viewport: Viewport = { themeColor: '#263B31' };
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),

@@ -10,20 +10,29 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        glas: '#F3F5F4',
+        // Brand guide v1.0: Bos, Antraciet, Mist, Wit, Nacht, Grafiet, Leisteen, Salie, Lijn
+        bos: '#263B31',
+        antraciet: '#1F2427',
+        mist: '#F3F5F4',
         wit: '#FFFFFF',
+        nacht: '#161B1D',
+        grafiet: '#3A4540',
+        leisteen: '#58635D',
+        salie: '#B8CFC0',
+        lijn: '#D6DDD9',
+        // eigen afgeleiden
+        'bos-diep': '#1B2B24',
+        // aliassen die in de code al gebruikt worden
+        glas: '#F3F5F4',
         ink: '#1F2427',
         'ink-deep': '#161B1D',
         dennen: '#263B31',
         'dennen-diep': '#1B2B24',
         'dennen-licht': '#34503F',
-        salie: '#B8CFC0',
-        mist: '#E8EDEA',
-        lijn: '#D6DDD9',
         steen: '#58635D',
         // legacy aliassen
         paper: '#F3F5F4',
-        'paper-2': '#E8EDEA',
+        'paper-2': '#EBEFED',
         field: '#FFFFFF',
         line: '#D6DDD9',
         'line-2': '#DDE3E0',

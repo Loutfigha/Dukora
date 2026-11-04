@@ -41,6 +41,7 @@ export default function Page({ params }: { params: { collectie: string } }) {
           <Breadcrumb items={[{ label: cat.naam, href: cat.path }, { label: c.title }]} />
           <div className="grid items-center gap-[clamp(32px,5vw,96px)] nav:grid-cols-[1fr_1.1fr]">
             <div>
+              <p className="label opkomst mb-6">PVC deuren · {c.title}</p>
               <h1 className="t-page opkomst">{c.title}</h1>
               <p className="lede opkomst mt-7 max-w-[36ch]" style={{ ['--i' as string]: 1 }}>{firstSentence(c.desc, 160)}</p>
               <p className="opkomst mt-5 text-[15.5px] text-steen" style={{ ['--i' as string]: 2 }}>{modelCount(c)} modellen om uit te kiezen</p>

@@ -24,6 +24,7 @@ export default function ProductDetail({ p }: { p: Product }) {
           <Breadcrumb items={[{ label: cat.naam, href: cat.path }, { label: p.title }]} />
           <div className="grid items-center gap-[clamp(32px,5vw,96px)] nav:grid-cols-[1fr_1.1fr]">
             <div>
+              <p className="label opkomst mb-6">{cat.naam} · {p.title}</p>
               <h1 className="t-page opkomst">{p.title}</h1>
               {lede && <p className="lede opkomst mt-7 max-w-[36ch]" style={{ ['--i' as string]: 1 }}>{lede}</p>}
               <div className="opkomst mt-9 flex flex-wrap items-center gap-x-8 gap-y-4" style={{ ['--i' as string]: 2 }}>

@@ -13,7 +13,7 @@ export default function Footer() {
       <div className="wrap pb-10 pt-[clamp(64px,7vw,104px)]">
         <div className="grid gap-[clamp(36px,4vw,64px)] nav:grid-cols-[1.5fr_1fr_1fr_1fr_1fr]">
           <div>
-            <Link href="/" aria-label="Dukora, naar de homepage" className="text-white hover:text-white"><Logo /></Link>
+            <Link href="/" aria-label="Dukora, naar de homepage" className="text-salie hover:text-salie"><Logo variant="gestapeld" size={30} /></Link>
             <p className="mt-6 max-w-[320px] text-[16px] leading-[1.65]">PVC ramen, deuren, schuifsystemen en horren. Ingemeten, geleverd en geplaatst door onze eigen mensen, in heel Nederland.</p>
             <TLink href={SITE.phoneHref} track="tel_footer" className="mt-6 block font-display text-[28px] font-light tracking-[-.02em] text-white hover:text-salie">{SITE.phone}</TLink>
           </div>
