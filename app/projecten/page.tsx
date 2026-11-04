@@ -6,6 +6,7 @@ export const metadata: Metadata = {
   title: 'Projecten — woningen met nieuwe kozijnen',
   description: 'Bekijk projecten van Dukora: PVC ramen, deuren en schuifsystemen in vrijstaande woningen, jaren-30 huizen, aanbouwen en tussenwoningen.',
   alternates: { canonical: '/projecten' },
+  robots: { index: false, follow: false },
 };
 
 type Rij = [string, string];

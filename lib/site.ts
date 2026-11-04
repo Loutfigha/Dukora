@@ -14,7 +14,17 @@ export const NAV = [
   { href: '/pvc-deuren', label: 'PVC deuren', long: 'PVC deuren' },
   { href: '/pvc-schuifsystemen', label: 'Schuifsystemen', long: 'PVC schuifsystemen' },
   { href: '/horren', label: 'Horren', long: 'Horren' },
-  { href: '/projecten', label: 'Projecten', long: 'Projecten' },
   { href: '/over-ons', label: 'Over ons', long: 'Over ons' },
   { href: '/contact', label: 'Contact', long: 'Contact' },
 ] as const;
+
+/**
+ * Inhoud die pas live gaat als er echte gegevens zijn. Zolang ze op false staan, verschijnt er
+ * niets met [placeholders] op de site. Zet NEXT_PUBLIC_KVK / NEXT_PUBLIC_BTW in de omgeving
+ * zodra de bedrijfsgegevens bekend zijn.
+ */
+export const LIVE = {
+  projecten: false,
+  kvk: process.env.NEXT_PUBLIC_KVK ?? '',
+  btw: process.env.NEXT_PUBLIC_BTW ?? '',
+};

@@ -14,8 +14,8 @@ const ONDERDELEN = ['Ramen', 'Deuren', 'Schuifsysteem', 'Horren', 'Meerdere onde
 const AANTAL = ['1 tot 5', '6 tot 10', '11 tot 20', 'Meer dan 20', 'Weet ik niet'];
 const WONING = ['Tussenwoning', 'Hoekwoning', 'Twee onder een kap', 'Vrijstaand', 'Appartement', 'Anders'];
 
-const legend = 'p-0 text-[clamp(22px,2.6vw,30px)] font-semibold leading-[1.15] tracking-[-.03em]';
-const hint = 'mt-3 text-[15.5px] text-text-4b';
+const legend = 't-sub p-0 !text-[clamp(28px,3vw,40px)]';
+const hint = 'mt-3 text-[16px] text-steen';
 
 function Options({ name, type, values, labels, selected, onChange, min, errId }: {
   name: string; type: 'radio' | 'checkbox'; values: string[]; labels?: Record<string, string>;
@@ -39,7 +39,7 @@ function Field({ label, name, type = 'text', value, onChange, placeholder, error
 }) {
   return (
     <label className="block">
-      <span className="mb-2 block text-[13.5px] font-semibold">{label}</span>
+      <span className="mb-2 block text-[15px] font-medium">{label}</span>
       <input
         className="input" type={type} name={name} value={value} placeholder={placeholder} autoComplete={autoComplete}
         onChange={(e) => onChange(e.target.value)} aria-invalid={!!error} aria-describedby={error ? `err-${name}` : undefined}
@@ -122,17 +122,17 @@ export default function OfferteFormView() {
   };
 
   const aside = (
-    <aside className="border border-line bg-paper-2 p-[clamp(26px,3vw,38px)] nav:sticky nav:top-[98px]">
-      <h2 className="text-[19px] font-semibold tracking-[-.025em]">Wat u van ons kunt verwachten</h2>
+    <aside className="bg-white p-[clamp(28px,3vw,44px)] nav:sticky nav:top-[98px]">
+      <h2 className="t-sub !text-[26px]">Wat u van ons kunt verwachten</h2>
       <ul className="m-0 mt-[22px] flex list-none flex-col gap-[14px] p-0">
         {['Vrijblijvend, u zit nergens aan vast', 'Persoonlijk advies van een specialist', 'Transparante offerte, alles gespecificeerd', 'Geen verplichtingen en geen naverkoop'].map((t) => (
           <li key={t} className="flex gap-3 text-[15.5px] leading-[1.5] text-text-2"><span aria-hidden className="font-bold text-accent">✓</span>{t}</li>
         ))}
       </ul>
-      <div className="my-[26px] h-px bg-[#DCD6CB]" />
+      <div className="my-[26px] h-px bg-lijn" />
       <p className="text-[15px] leading-[1.6] text-text-3">Liever direct iemand spreken?</p>
-      <TLink href={SITE.phoneHref} track="tel_offerte_aside" className="mt-[10px] block text-[21px] font-semibold tracking-[-.03em] text-ink hover:text-accent">{SITE.phone}</TLink>
-      <TLink href={SITE.whatsapp} track="whatsapp_offerte_aside" className="mt-3 inline-flex items-center gap-[9px] text-[15px] font-semibold text-accent">WhatsApp ons<Arrow size={13} /></TLink>
+      <TLink href={SITE.phoneHref} track="tel_offerte_aside" className="display mt-2 block text-[30px] text-ink hover:text-dennen">{SITE.phone}</TLink>
+      <TLink href={SITE.whatsapp} track="whatsapp_offerte_aside" className="mt-3 inline-flex items-center gap-[9px] text-[15px] font-medium text-dennen">WhatsApp ons<Arrow size={13} /></TLink>
     </aside>
   );
 
@@ -140,12 +140,11 @@ export default function OfferteFormView() {
   if (sent) {
     body = (
       <div className="border-t-[3px] border-accent pt-9" role="status">
-        <p className="eyebrow">Aanvraag ontvangen</p>
-        <h1 className="mt-5 max-w-[620px] text-[clamp(30px,4.2vw,52px)] font-semibold leading-[1.04] tracking-[-.045em]">Dank u. We nemen binnen twee werkdagen contact op.</h1>
+        <h1 className="t-page !text-[clamp(38px,5vw,72px)] max-w-[16ch]">Dank u. We nemen binnen twee werkdagen contact op.</h1>
         <p className="body-l mt-5 max-w-[540px] !text-[17px]">U ontvangt een bevestiging per e-mail. Wil het sneller? Stuur een bericht via WhatsApp, dan kijken we vandaag nog naar uw aanvraag.</p>
         <div className="mt-[30px] flex flex-wrap gap-3">
           <TLink href={SITE.whatsapp} track="whatsapp_bedankt" className="btn bg-ink px-[26px] py-[18px] text-base text-white hover:bg-accent hover:text-white">WhatsApp ons</TLink>
-          <TLink href="/projecten" className="btn-ghost px-6 py-[18px] text-base">Bekijk onze projecten</TLink>
+          <TLink href="/pvc-ramen" className="btn-ghost px-6 py-[18px] text-base">Bekijk het assortiment</TLink>
         </div>
       </div>
     );
@@ -153,14 +152,13 @@ export default function OfferteFormView() {
     const err = (k: keyof OfferteForm) => errors[k];
     body = (
       <div>
-        <p className="eyebrow">Offerte aanvragen</p>
-        <h1 className="mt-5 max-w-[640px] text-[clamp(30px,4.4vw,54px)] font-semibold leading-[1.02] tracking-[-.045em]">Zeven korte vragen. Daarna weten we genoeg.</h1>
+        <h1 className="t-page !text-[clamp(38px,5vw,72px)] max-w-[16ch]">Zeven korte vragen. Daarna weten we genoeg.</h1>
         <p className="body-l mt-5 max-w-[560px] !text-[17px] !leading-[1.6]">U ontvangt geen automatische prijslijst, maar een offerte die past bij uw woning. Duurt ongeveer twee minuten.</p>
 
         <div className="mt-[clamp(36px,4vw,52px)]">
           <div className="flex items-baseline justify-between gap-4">
-            <span className="text-[13px] font-semibold tracking-[.06em]" aria-live="polite">Stap {step} van {TOTAL}</span>
-            <span className="text-[13px] text-text-5">Vrijblijvend · geen verplichtingen</span>
+            <span className="text-[15px] font-semibold" aria-live="polite">Stap {step} van {TOTAL}</span>
+            <span className="text-[14px] text-steen">Vrijblijvend, geen verplichtingen</span>
           </div>
           <div className="mt-3 h-[3px] bg-line" role="progressbar" aria-valuemin={1} aria-valuemax={TOTAL} aria-valuenow={step}>
             <div className="h-[3px] bg-accent transition-[width] duration-[450ms] ease-[cubic-bezier(.22,.7,.2,1)]" style={{ width: `${Math.round((step / TOTAL) * 100)}%` }} />
@@ -241,7 +239,7 @@ export default function OfferteFormView() {
               <button type="button" onClick={() => { setErrors({}); goto(step - 1); }} className="btn-ghost cursor-pointer bg-transparent px-6 py-[17px] text-[15.5px]">Vorige</button>
             )}
             {step < TOTAL ? (
-              <button type="button" onClick={next} className="btn cursor-pointer bg-ink px-7 py-[18px] text-base text-white hover:bg-accent">Volgende<Arrow /></button>
+              <button type="button" onClick={next} className="btn cursor-pointer bg-ink px-8 py-[18px] text-base text-white hover:bg-dennen">Volgende<Arrow /></button>
             ) : (
               <button type="submit" disabled={sending} data-track="offerte_submit" onClick={() => push({ event: 'cta_click', cta: 'offerte_submit' })} className="btn-primary cursor-pointer border-0 px-7 py-[18px] text-base disabled:opacity-60">
                 {sending ? 'Versturen…' : 'Vraag mijn vrijblijvende offerte aan'}<Arrow />

@@ -1,3 +1,4 @@
-export default function Arrow({ size = 14 }: { size?: number }) {
-  return <span aria-hidden style={{ fontSize: size }}>→</span>;
+/** Bewust leeg: knoppen en links zeggen wat ze doen, zonder pijltje erachter. */
+export default function Arrow(_props: { size?: number }) {
+  return null;
 }

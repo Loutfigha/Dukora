@@ -5,53 +5,57 @@
 @layer base {
   html { scroll-behavior: smooth; }
   body {
-    @apply bg-paper font-sans text-ink antialiased;
+    @apply bg-glas font-sans text-[17px] leading-[1.6] text-ink antialiased;
     text-wrap: pretty;
   }
   @media (max-width: 960px) { body { padding-bottom: 74px; } }
-  a { @apply text-accent no-underline; }
-  a:hover { @apply text-accent-hover; }
+  a { @apply text-dennen no-underline; }
   h1, h2, h3, h4, p, figure, blockquote { margin: 0; }
+  h1, h2 { font-family: var(--font-display), Georgia, serif; font-weight: 300; letter-spacing: -.02em; text-wrap: balance; }
   input, textarea, button, select { font: inherit; color: inherit; border-radius: 0; }
-  ::selection { @apply bg-accent text-white; }
-  :focus-visible { outline: 2px solid #101215; outline-offset: 2px; }
+  ::selection { @apply bg-dennen text-white; }
+  :focus-visible { outline: 2px solid #263B31; outline-offset: 3px; }
   summary::-webkit-details-marker { display: none; }
 }
 
 @layer components {
-  .wrap { @apply mx-auto w-full max-w-site px-5 nav:px-8; }
-  .eyebrow { @apply text-[11.5px] font-semibold uppercase tracking-[.18em] text-accent; }
-  .eyebrow-dark { @apply text-[11.5px] font-semibold uppercase tracking-[.18em] text-accent-light; }
-  .h2-xl { @apply text-[clamp(30px,4.4vw,56px)] font-semibold leading-[1.02] tracking-[-.04em]; }
-  .lede { @apply text-[clamp(19px,2.2vw,25px)] leading-[1.35] tracking-[-.025em] text-text-2; }
-  .body-l { @apply text-[16.5px] leading-[1.62] text-text-3; }
+  .wrap { @apply mx-auto w-full max-w-site px-5 nav:px-12; }
 
-  .btn { @apply inline-flex items-center gap-[10px] font-semibold tracking-[-.015em] transition-colors; }
-  .btn-primary { @apply btn bg-accent text-white hover:bg-accent-hover hover:text-white; }
-  .btn-primary-dark { @apply btn bg-accent text-white hover:bg-accent-hover-dark hover:text-white; }
-  .btn-ghost-dark { @apply btn border border-white/40 text-white hover:border-white hover:bg-white/10 hover:text-white; }
-  .btn-ghost { @apply btn border border-[#CFC9BE] text-ink hover:bg-paper-2 hover:text-ink; }
-  .link-cta { @apply inline-flex items-center gap-[10px] border-b-2 border-accent pb-[5px] text-base font-semibold text-ink hover:text-accent; }
+  /* Koppen: Newsreader Light, groot en rustig */
+  .display { font-family: var(--font-display), Georgia, serif; font-weight: 300; letter-spacing: -.025em; line-height: 1.02; }
+  .t-hero { @apply display text-[clamp(46px,7.4vw,112px)]; line-height: .98; }
+  .t-page { @apply display text-[clamp(42px,6vw,92px)]; }
+  .t-section { @apply display text-[clamp(34px,4.4vw,66px)]; line-height: 1.04; }
+  .t-sub { font-family: var(--font-display), Georgia, serif; font-weight: 400; letter-spacing: -.015em; @apply text-[clamp(24px,2.4vw,32px)] leading-[1.15]; }
+  .lede { @apply text-[clamp(19px,1.7vw,22px)] leading-[1.55] text-text-3; }
+  .body-l { @apply text-[17px] leading-[1.7] text-text-3; max-width: 62ch; }
+  /* Kleine kop boven een lijst of tabel, in gewone zinsopbouw, niet in hoofdletters */
+  .eyebrow { @apply text-[14px] font-semibold leading-none text-ink; }
+  .eyebrow-dark { @apply text-[14px] font-semibold leading-none text-salie; }
+
+  .btn { @apply inline-flex items-center justify-center gap-[10px] text-[15.5px] font-medium transition-colors; }
+  .btn-primary { @apply btn bg-dennen text-white hover:bg-dennen-diep hover:text-white; }
+  .btn-primary-dark { @apply btn bg-white text-ink hover:bg-mist hover:text-ink; }
+  .btn-ghost-dark { @apply btn border border-white/45 text-white hover:border-white hover:bg-white/10 hover:text-white; }
+  .btn-ghost { @apply btn border border-line-3 bg-transparent text-ink hover:border-ink hover:text-ink; }
+  .link-cta { @apply inline-flex items-center gap-2 border-b border-ink pb-[3px] text-[16px] font-medium text-ink transition-colors hover:border-dennen hover:text-dennen; }
 
   .opt { @apply relative block cursor-pointer; }
   .opt input { @apply absolute h-0 w-0 opacity-0; }
-  .opt .face {
-    @apply block border border-line-3 bg-field px-[18px] py-4 text-[15.5px] font-medium transition-[border-color,background];
-  }
-  .opt .face:hover { border-color: #B7AE9F; }
-  .opt input:checked ~ .face { @apply border-accent bg-white; box-shadow: inset 0 0 0 1px #A9713F; }
-  .opt input:focus-visible ~ .face { outline: 2px solid #101215; outline-offset: 2px; }
+  .opt .face { @apply block border border-line-3 bg-white px-5 py-[18px] text-[16px] font-medium transition-[border-color,background]; }
+  .opt .face:hover { border-color: #263B31; }
+  .opt input:checked ~ .face { @apply border-dennen bg-white; box-shadow: inset 0 0 0 1px #263B31; }
+  .opt input:focus-visible ~ .face { outline: 2px solid #263B31; outline-offset: 3px; }
 
-  .input { @apply w-full border border-line-3 bg-field p-4 text-[16.5px]; }
-  .input-dark { @apply w-full border border-white/20 bg-[#191D22] px-4 py-[15px] text-base text-white; }
+  .input { @apply w-full border border-line-3 bg-white p-4 text-[17px] transition-colors focus:border-dennen; }
+  .input-dark { @apply w-full border border-white/25 bg-white/[.06] px-4 py-[15px] text-base text-white transition-colors focus:border-salie; }
   .field-err { @apply mt-[14px] text-[14.5px] font-medium text-error; }
 }
 
-/* Scroll-reveal: zichtbaar zonder JS; verborgen-state wordt pas door <Reveal> gezet. */
-.rv-hidden { opacity: 0; transform: translateY(16px); }
-.rv-in { opacity: 1; transform: none; transition: opacity .8s cubic-bezier(.22,.7,.2,1), transform .8s cubic-bezier(.22,.7,.2,1); }
+/* Eén georkestreerd moment bij het laden van de pagina: de hero komt in vier stappen binnen. */
+@keyframes opkomst { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+.opkomst { animation: opkomst .9s cubic-bezier(.22,.7,.2,1) both; animation-delay: calc(var(--i, 0) * 110ms); }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
-  .rv-hidden { opacity: 1; transform: none; }
-  .rv-in { transition: none; }
+  .opkomst { animation: none; }
 }

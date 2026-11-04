@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
 import { NAV, SITE } from '@/lib/site';
 import TLink from './TLink';
-import Arrow from './Arrow';
+import Logo from './Logo';
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -12,47 +12,45 @@ export default function Header() {
   useEffect(() => { setOpen(false); }, [pathname]);
 
   return (
-    <header className="sticky top-0 z-[60] border-b border-line-2 bg-paper/90 backdrop-blur-[16px]">
-      <div className="wrap flex h-[74px] items-center justify-between gap-7">
-        <Link href="/" className="flex-none text-[20px] font-bold tracking-[-.04em] text-ink hover:text-ink">Dukora</Link>
-        <nav aria-label="Hoofdmenu" className="ml-[14px] mr-auto hidden items-center gap-[2px] nav:flex">
-          {NAV.map((n) => (
-            <Link
-              key={n.href}
-              href={n.href}
-              aria-current={pathname === n.href ? 'page' : undefined}
-              className="whitespace-nowrap px-2 py-[9px] text-[14px] font-medium text-[#3A3F45] hover:text-ink aria-[current=page]:text-ink [@media(min-width:1180px)]:px-[13px] [@media(min-width:1180px)]:text-[14.5px]"
-            >
-              {n.label}
-            </Link>
-          ))}
+    <header className="sticky top-0 z-[60] border-b border-lijn bg-glas/90 backdrop-blur-[18px]">
+      <div className="wrap flex h-[84px] items-center justify-between gap-8">
+        <Link href="/" aria-label="Dukora, naar de homepage" className="flex-none text-ink hover:text-ink"><Logo /></Link>
+        <nav aria-label="Hoofdmenu" className="mx-auto hidden items-center gap-1 nav:flex">
+          {NAV.map((n) => {
+            const actief = pathname === n.href || pathname.startsWith(n.href + '/');
+            return (
+              <Link
+                key={n.href}
+                href={n.href}
+                aria-current={actief ? 'page' : undefined}
+                className={`relative whitespace-nowrap px-3 py-2 text-[15px] font-medium transition-colors [@media(min-width:1180px)]:px-4 ${actief ? 'text-ink' : 'text-steen hover:text-ink'}`}
+              >
+                {n.label}
+                {actief && <span className="absolute inset-x-3 -bottom-[1px] h-[2px] bg-dennen [@media(min-width:1180px)]:inset-x-4" />}
+              </Link>
+            );
+          })}
         </nav>
-        <div className="hidden flex-none items-center gap-[18px] nav:flex">
-          <TLink href={SITE.phoneHref} track="tel_click" className="hidden text-[14.5px] font-medium tracking-[-.01em] text-ink hover:text-accent [@media(min-width:1180px)]:inline">{SITE.phone}</TLink>
-          <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary gap-[9px] whitespace-nowrap px-4 py-[13px] text-[14.5px] [@media(min-width:1180px)]:px-5">
-            Offerte aanvragen<Arrow size={13} />
-          </TLink>
+        <div className="hidden flex-none items-center gap-6 nav:flex">
+          <TLink href={SITE.phoneHref} track="tel_click" className="hidden text-[15px] font-medium text-ink hover:text-dennen [@media(min-width:1180px)]:inline">{SITE.phone}</TLink>
+          <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary whitespace-nowrap px-6 py-[13px]">Offerte aanvragen</TLink>
         </div>
         <button
           type="button"
           onClick={() => setOpen((o) => !o)}
           aria-expanded={open}
           aria-controls="mobiel-menu"
-          className="flex items-center gap-[9px] border border-[#D8D3C9] px-[15px] py-[11px] text-sm font-semibold nav:hidden"
+          className="border border-line-3 px-4 py-[11px] text-[15px] font-medium nav:hidden"
         >
-          Menu
+          {open ? 'Sluiten' : 'Menu'}
         </button>
       </div>
       {open && (
-        <div id="mobiel-menu" className="border-t border-line-2 bg-paper px-5 pb-[22px] pt-[10px] nav:hidden">
+        <div id="mobiel-menu" className="border-t border-lijn bg-glas px-5 pb-6 pt-3 nav:hidden">
           {NAV.map((n) => (
-            <Link key={n.href} href={n.href} className="block border-b border-[#E9E5DE] px-[2px] py-[15px] text-[19px] font-semibold tracking-[-.02em] text-ink hover:text-ink">
-              {n.long}
-            </Link>
+            <Link key={n.href} href={n.href} className="block border-b border-lijn py-4 font-display text-[26px] font-light tracking-[-.02em] text-ink hover:text-ink">{n.long}</Link>
           ))}
-          <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary mt-[18px] justify-center gap-[9px] px-5 py-[17px] text-base">
-            Offerte aanvragen<Arrow />
-          </TLink>
+          <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary mt-6 w-full py-[17px]">Offerte aanvragen</TLink>
         </div>
       )}
     </header>

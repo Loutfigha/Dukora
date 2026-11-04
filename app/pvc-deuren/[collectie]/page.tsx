@@ -34,68 +34,69 @@ export default function Page({ params }: { params: { collectie: string } }) {
   return (
     <main>
       <JsonLd data={{ '@context': 'https://schema.org', '@type': 'Product', name: c.title, description: firstSentence(c.desc, 300), image: `${SITE.url}${c.image.src}`, category: 'PVC deuren', brand: { '@type': 'Brand', name: 'Dukora' } }} />
-      <section className="border-b border-line-2">
-        <div className="wrap pb-[clamp(40px,4vw,56px)] pt-[clamp(44px,5vw,72px)]">
+      <section>
+        <div className="wrap pb-[clamp(56px,7vw,112px)] pt-[clamp(40px,5vw,72px)]">
           <Breadcrumb items={[{ label: cat.naam, href: cat.path }, { label: c.title }]} />
-          <div className="grid items-center gap-[clamp(32px,5vw,72px)] nav:grid-cols-2">
+          <div className="grid items-center gap-[clamp(32px,5vw,96px)] nav:grid-cols-[1fr_1.1fr]">
             <div>
-              <p className="eyebrow">PVC deuren · {modelCount(c)} modellen</p>
-              <h1 className="mt-[22px] text-[clamp(38px,6vw,78px)] font-semibold leading-none tracking-[-.045em]">{c.title}</h1>
-              <p className="lede mt-6 max-w-[520px]">{firstSentence(c.desc, 160)}</p>
-              <div className="mt-8 flex flex-wrap gap-[10px]">
-                <TLink href="/offerte-aanvragen" track="cta_offerte_pdp" className="btn-primary gap-[9px] px-6 py-[17px] text-[15.5px]">Vraag een offerte aan<Arrow size={13} /></TLink>
-                <TLink href="#modellen-overzicht" className="btn-ghost gap-[9px] px-[22px] py-[17px] text-[15.5px]">Bekijk alle modellen</TLink>
+              <h1 className="t-page opkomst">{c.title}</h1>
+              <p className="lede opkomst mt-7 max-w-[36ch]" style={{ ['--i' as string]: 1 }}>{firstSentence(c.desc, 160)}</p>
+              <p className="opkomst mt-5 text-[15.5px] text-steen" style={{ ['--i' as string]: 2 }}>{modelCount(c)} modellen om uit te kiezen</p>
+              <div className="opkomst mt-8 flex flex-wrap items-center gap-x-8 gap-y-4" style={{ ['--i' as string]: 2 }}>
+                <TLink href="/offerte-aanvragen" track="cta_offerte_pdp" className="btn-primary px-7 py-[17px]">Vraag een offerte aan</TLink>
+                <TLink href="#modellen-overzicht" className="link-cta">Bekijk alle modellen</TLink>
               </div>
             </div>
-            <div className="relative aspect-[4/3] w-full overflow-hidden bg-white">
-              <Image src={c.image.src} alt={c.title} fill priority sizes="(min-width:961px) 50vw, 100vw" className="object-contain" />
+            <div className="opkomst relative aspect-[4/3] w-full bg-white" style={{ ['--i' as string]: 1 }}>
+              <Image src={c.image.src} alt={c.title} fill priority sizes="(min-width:961px) 55vw, 100vw" className="object-contain p-4" />
             </div>
           </div>
         </div>
       </section>
 
-      <section className="wrap py-[clamp(56px,7vw,96px)]">
-        <div className="grid items-start gap-[clamp(36px,5vw,80px)] nav:grid-cols-[1.1fr_1fr]">
-          <div>
-            <p className="eyebrow">Over deze collectie</p>
-            <div className="mt-6"><Blocks blocks={c.desc} /></div>
-          </div>
-          <div>
-            {c.bullets.length > 0 && (<>
-              <p className="eyebrow">Kenmerken</p>
-              <ul className="m-0 mt-5 list-none border-t border-line p-0">
-                {c.bullets.map((b) => (
-                  <li key={b} className="flex gap-[14px] border-b border-line py-[16px] text-[16.5px] leading-[1.5] text-text-2"><span aria-hidden className="font-bold text-accent">✓</span>{b}</li>
-                ))}
-              </ul>
-            </>)}
-            {c.pdfs.length > 0 && (
-              <div className="mt-8 flex flex-col items-start gap-4">
-                {c.pdfs.map((d) => <TLink key={d.u} href={d.u} className="link-cta">{pdfLabel(d.t)}<Arrow size={13} /></TLink>)}
-              </div>
-            )}
+      <section>
+        <div className="wrap pb-[clamp(64px,8vw,128px)]">
+          <div className="grid items-start gap-[clamp(40px,6vw,110px)] nav:grid-cols-[1.15fr_1fr]">
+            <div>
+              <h2 className="t-section !text-[clamp(30px,3.6vw,52px)]">Over deze collectie</h2>
+              <div className="mt-8"><Blocks blocks={c.desc} /></div>
+            </div>
+            <div className="bg-white p-[clamp(28px,3vw,48px)]">
+              {c.bullets.length > 0 && (<>
+                <h2 className="t-sub">Kenmerken</h2>
+                <ul className="m-0 mt-6 list-none space-y-4 p-0">
+                  {c.bullets.map((b) => (
+                    <li key={b} className="flex gap-4 text-[16.5px] leading-[1.5] text-text-3"><span aria-hidden className="mt-[9px] h-[7px] w-[7px] flex-none bg-dennen" />{b}</li>
+                  ))}
+                </ul>
+              </>)}
+              {c.pdfs.length > 0 && (
+                <div className="mt-9 flex flex-col items-start gap-4 border-t border-lijn pt-7">
+                  {c.pdfs.map((d) => <TLink key={d.u} href={d.u} className="link-cta">{pdfLabel(d.t)}</TLink>)}
+                </div>
+              )}
+            </div>
           </div>
         </div>
       </section>
 
-      <section id="modellen-overzicht" className="scroll-mt-24 border-t border-line-2 bg-paper-2">
-        <div className="wrap py-[clamp(56px,7vw,96px)]">
-          <p className="eyebrow">Alle modellen</p>
-          <h2 className="mb-10 mt-5 text-[clamp(28px,3.6vw,44px)] font-semibold leading-[1.04] tracking-[-.04em]">Kies uw paneel.</h2>
+      <section id="modellen-overzicht" className="scroll-mt-28 bg-white">
+        <div className="wrap py-[clamp(64px,8vw,128px)]">
+          <h2 className="t-section !text-[clamp(30px,3.6vw,52px)] mb-10">Kies uw paneel.</h2>
           <ModelGrid variants={c.variants} />
-          <p className="mt-10 text-xs leading-[1.6] text-text-5">Deze pagina is geen commercieel aanbod. De tekeningen dienen ter referentie; werkelijke uitvoeringen en kleuren kunnen afwijken. Welke modellen beschikbaar zijn voor uw deur, bespreken we graag met u.</p>
+          <p className="mt-12 max-w-[80ch] text-[13px] leading-[1.6] text-steen">Deze pagina is geen commercieel aanbod. De tekeningen dienen ter referentie; werkelijke uitvoeringen en kleuren kunnen afwijken. Welke modellen beschikbaar zijn voor uw deur, bespreken we graag met u.</p>
         </div>
       </section>
 
-      <section className="border-t border-line-2">
-        <div className="wrap py-[clamp(56px,6vw,88px)]">
+      <section>
+        <div className="wrap py-[clamp(56px,7vw,104px)]">
           <div className="flex flex-wrap items-end justify-between gap-4">
-            <h2 className="text-[clamp(24px,3vw,36px)] font-semibold tracking-[-.035em]">Andere collecties</h2>
-            <Link href={cat.path} className="text-[15px] font-semibold text-accent">Alle PVC deuren →</Link>
+            <h2 className="t-section !text-[clamp(28px,3.2vw,46px)]">Andere collecties</h2>
+            <Link href={cat.path} className="link-cta">Alle PVC deuren</Link>
           </div>
-          <ul className="m-0 mt-8 grid list-none gap-3 p-0 sm:grid-cols-2 nav:grid-cols-3">
+          <ul className="m-0 mt-10 grid list-none gap-3 p-0 sm:grid-cols-2 nav:grid-cols-3">
             {andere.map((x) => (
-              <li key={x.slug}><Link href={`${cat.path}/${x.slug}`} className="flex items-center justify-between border border-line-3 bg-field px-[18px] py-4 text-[15.5px] font-medium text-ink hover:border-[#B7AE9F] hover:text-ink">{x.title}<span className="text-accent" aria-hidden>→</span></Link></li>
+              <li key={x.slug}><Link href={`${cat.path}/${x.slug}`} className="flex items-center justify-between border border-line-3 bg-white px-6 py-5 text-[16.5px] font-medium text-ink hover:border-ink hover:text-ink">{x.title}<span className="text-dennen" aria-hidden>→</span></Link></li>
             ))}
           </ul>
         </div>

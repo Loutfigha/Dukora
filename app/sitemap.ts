@@ -8,7 +8,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...Object.values(CATEGORIES).map((c) => c.path),
     ...PRODUCTS.map((p) => `${CATEGORIES[p.cat].path}/${p.slug}`),
     ...DEUREN.map((d) => `${CATEGORIES['pvc-deuren'].path}/${d.slug}`),
-    '/projecten', '/offerte-aanvragen', '/over-ons', '/contact',
+    '/offerte-aanvragen', '/over-ons', '/contact',
   ];
   return paden.map((p) => ({ url: `${SITE.url}${p}`, changeFrequency: 'monthly', priority: p === '' ? 1 : 0.7 }));
 }

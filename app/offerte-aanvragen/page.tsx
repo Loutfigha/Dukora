@@ -10,7 +10,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <main>
-      <section className="wrap pb-[clamp(72px,8vw,110px)] pt-[clamp(40px,5vw,68px)]">
+      <section className="wrap pb-[clamp(72px,8vw,128px)] pt-[clamp(48px,6vw,96px)]">
         <OfferteForm />
       </section>
     </main>
