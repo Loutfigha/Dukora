@@ -6,7 +6,7 @@ import HulpBand from '@/components/HulpBand';
 
 export const metadata: Metadata = {
   title: 'Over ons — vijftien jaar kozijnen plaatsen',
-  description: 'Dukora meet zelf in, plaatst zelf en houdt productie, planning en montage in eigen beheer. Lees hoe wij werken en waar we op worden afgerekend.',
+  description: 'Dukora meet zelf in, plaatst zelf en houdt productie, planning en montage in eigen beheer. Lees hoe wij werken en waar u op kunt rekenen.',
   alternates: { canonical: '/over-ons' },
 };
 
@@ -47,7 +47,7 @@ export default function OverOns() {
       <section>
         <div className="wrap grid items-center gap-[clamp(40px,6vw,110px)] py-[clamp(64px,8vw,128px)] nav:grid-cols-[1fr_1.1fr]">
           <div>
-            <h2 className="t-section max-w-[12ch]">Waar we op worden afgerekend.</h2>
+            <h2 className="t-section max-w-[14ch]">Waar u op kunt rekenen.</h2>
             <dl className="mt-10 space-y-7">
               {WAARDEN.map(([t, s]) => (
                 <div key={t} className="border-t border-lijn pt-6">
@@ -57,7 +57,7 @@ export default function OverOns() {
               ))}
             </dl>
           </div>
-          <Frame src="/img/foto/team-werkplaats.webp" alt="Het Dukora-team in de werkplaats: negen mannen in zwarte Dukora-shirts, vijf staand en vier op hun hurken" aspect="aspect-[4/3]" sizes="(min-width:961px) 45vw, 90vw" />
+          <Frame src="/img/foto/team-foto.webp" alt="Acht monteurs in zwarte werkkleding poseren lachend in de werkplaats, vijf staand en drie op hun hurken" aspect="aspect-[16/10]" sizes="(min-width:961px) 45vw, 90vw" />
         </div>
       </section>
       <HulpBand titel="Benieuwd hoe wij werken?" tekst="Plan een vrijblijvend gesprek. We komen langs, meten in en vertellen eerlijk wat er mogelijk is." />
