@@ -2,7 +2,10 @@ import type { Metadata } from 'next';
 import localFont from 'next/font/local';
 import './globals.css';
 import { SITE } from '@/lib/site';
+import UtilityBar from '@/components/UtilityBar';
 import Header from '@/components/Header';
+import TrustBar from '@/components/TrustBar';
+import SideTab from '@/components/SideTab';
 import CtaBand from '@/components/CtaBand';
 import Footer from '@/components/Footer';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
@@ -33,10 +36,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="nl" className={`${body.variable} ${display.variable}`}>
       <body>
+        <UtilityBar />
         <Header />
+        <TrustBar />
         {children}
         <CtaBand />
         <Footer />
+        <SideTab />
         <WhatsAppFloat />
       </body>
     </html>

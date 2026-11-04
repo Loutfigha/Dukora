@@ -11,7 +11,7 @@ export default function Footer() {
   return (
     <footer className="bg-ink-deep text-white/70">
       <div className="wrap pb-10 pt-[clamp(64px,7vw,104px)]">
-        <div className="grid gap-[clamp(36px,4vw,64px)] nav:grid-cols-[1.5fr_1fr_1fr_1fr]">
+        <div className="grid gap-[clamp(36px,4vw,64px)] nav:grid-cols-[1.5fr_1fr_1fr_1fr_1fr]">
           <div>
             <Link href="/" aria-label="Dukora, naar de homepage" className="text-white hover:text-white"><Logo /></Link>
             <p className="mt-6 max-w-[320px] text-[16px] leading-[1.65]">PVC ramen, deuren, schuifsystemen en horren. Ingemeten, geleverd en geplaatst door onze eigen mensen, in heel Nederland.</p>
@@ -24,6 +24,15 @@ export default function Footer() {
               <Link className={linkCls} href="/pvc-deuren">PVC deuren</Link>
               <Link className={linkCls} href="/pvc-schuifsystemen">PVC schuifsystemen</Link>
               <Link className={linkCls} href="/horren">Horren</Link>
+            </div>
+          </div>
+          <div>
+            <h3 className={headCls}>Populair</h3>
+            <div className="flex flex-col gap-3">
+              <Link className={linkCls} href="/pvc-ramen/ideal-7000-nl">Ideal 7000 NL</Link>
+              <Link className={linkCls} href="/pvc-deuren/model-pvc-deuren">Model PVC deuren</Link>
+              <Link className={linkCls} href="/pvc-schuifsystemen/synego-slide">Synego Slide</Link>
+              <Link className={linkCls} href="/horren/jolly">Jolly schuifhor</Link>
             </div>
           </div>
           <div>

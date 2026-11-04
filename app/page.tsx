@@ -5,6 +5,8 @@ import { SITE } from '@/lib/site';
 import { CATEGORIES, DEUREN, productBySlug } from '@/lib/catalogus';
 import TLink from '@/components/TLink';
 import Frame from '@/components/Frame';
+import AdviesForm from '@/components/AdviesForm';
+import { IconTeam, IconAdvies, IconPlanning, IconGarantie } from '@/components/Icons';
 import JsonLd from '@/components/JsonLd';
 
 export const metadata: Metadata = {
@@ -20,6 +22,13 @@ const ASSORTIMENT = [
   { cat: 'pvc-deuren' as const, img: DEUREN.find((d) => d.slug === 'model-pvc-deuren')!.image, tekst: 'Buitendeuren in zes collecties en honderden modellen, passend bij uw ramen en bij uw gevel.' },
   { cat: 'pvc-schuifsystemen' as const, img: productBySlug('pvc-schuifsystemen', 'synego-slide')!.image, tekst: 'Vijftien systemen voor schuifpuien en hefschuifdeuren: veel daglicht, een soepele bediening en goede isolatie.' },
   { cat: 'horren' as const, img: productBySlug('horren', 'jolly')!.image, tekst: 'Vaste en uitschuifbare horren en deurklamboes, zodat de ramen open kunnen en insecten buiten blijven.' },
+];
+
+const VOORDELEN = [
+  { icon: <IconTeam />, t: 'Eigen montageteams', s: 'Geen onderaannemers. Dezelfde mensen meten in, plaatsen en leveren op.' },
+  { icon: <IconAdvies />, t: 'Persoonlijk advies', s: 'Een specialist die bij u thuis meet en meedenkt, en pas daarna een prijs noemt.' },
+  { icon: <IconPlanning />, t: 'Een planning die klopt', s: 'Productie en montage liggen bij één partij, dus u weet wie er komt en wanneer.' },
+  { icon: <IconGarantie />, t: 'Garantie op papier', s: 'Bij de oplevering lopen we alles samen na en laten we de garantie achter.' },
 ];
 
 const BELOFTEN = [
@@ -51,31 +60,40 @@ export default function Home() {
     <main>
       <JsonLd data={{ '@context': 'https://schema.org', '@type': 'HomeAndConstructionBusiness', name: 'Dukora', url: SITE.url, telephone: SITE.phone, email: SITE.email, areaServed: 'NL', description: SITE.description }} />
 
-      {/* Hero: kopregel links, een gekaderde foto rechts. De enige beweging op de pagina. */}
+      {/* Hero: kop links, het adviesformulier rechts. De enige beweging op de pagina. */}
       <section>
-        <div className="wrap grid items-center gap-[clamp(40px,6vw,100px)] pb-[clamp(64px,8vw,128px)] pt-[clamp(40px,6vw,96px)] nav:grid-cols-[1.15fr_1fr]">
+        <div className="wrap grid items-center gap-[clamp(40px,6vw,100px)] pb-[clamp(56px,7vw,112px)] pt-[clamp(40px,6vw,96px)] nav:grid-cols-[1.1fr_1fr]">
           <div>
             <h1 className="t-hero opkomst" style={{ ['--i' as string]: 0 }}>Nieuwe kozijnen.<br />Een beter huis.</h1>
             <p className="lede opkomst mt-8 max-w-[34ch]" style={{ ['--i' as string]: 2 }}>PVC ramen, deuren, schuifsystemen en horren, ingemeten, gemaakt en geplaatst door onze eigen mensen. Beter geïsoleerd, stiller in huis en jaren zonder onderhoud.</p>
             <div className="opkomst mt-10 flex flex-wrap items-center gap-x-8 gap-y-4" style={{ ['--i' as string]: 3 }}>
-              <TLink href="/offerte-aanvragen" track="cta_offerte_hero" className="btn-primary px-8 py-[19px] text-[16.5px]">Vraag een offerte aan</TLink>
+              <TLink href="/offerte-aanvragen" track="cta_offerte_hero" className="btn-ghost px-8 py-[19px] text-[16.5px]">Liever direct een offerte</TLink>
               <TLink href={SITE.whatsapp} track="whatsapp_hero" className="link-cta">Stel uw vraag via WhatsApp</TLink>
             </div>
           </div>
           <div className="opkomst" style={{ ['--i' as string]: 1 }}>
-            <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" priority sizes="(min-width:961px) 38vw, 90vw" className="mx-auto max-w-[560px] nav:mr-0">
-              <Link href="/pvc-ramen/ideal-7000-nl" className="group absolute -bottom-6 left-4 max-w-[270px] border border-ink/[.14] bg-white p-5 text-ink hover:text-ink sm:-left-8">
-                <span className="block text-[13.5px] text-steen">Uitgelicht profiel</span>
-                <span className="t-sub mt-1 block group-hover:text-dennen">Ideal 7000 NL</span>
-                <span className="mt-2 block text-[14.5px] leading-[1.45] text-steen">KOMO-gecertificeerd, inbraakwerend volgens RC2</span>
-              </Link>
-            </Frame>
+            <AdviesForm />
           </div>
         </div>
       </section>
 
+      {/* Vier voordelen met icoon */}
+      <section className="border-y border-lijn bg-white">
+        <div className="wrap">
+          <ul className="m-0 grid list-none gap-x-10 gap-y-10 p-0 py-[clamp(48px,6vw,88px)] sm:grid-cols-2 nav:grid-cols-4">
+            {VOORDELEN.map((v) => (
+              <li key={v.t}>
+                <span className="flex h-14 w-14 items-center justify-center border border-dennen/25 text-dennen">{v.icon}</span>
+                <h2 className="t-sub mt-6 !text-[24px]">{v.t}</h2>
+                <p className="mt-3 text-[16px] leading-[1.6] text-steen">{v.s}</p>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </section>
+
       {/* Assortiment */}
-      <section className="bg-white">
+      <section>
         <div className="wrap py-[clamp(72px,9vw,150px)]">
           <div className="grid items-end gap-8 nav:grid-cols-[1.3fr_1fr]">
             <h2 className="t-section max-w-[17ch]">Vier productgroepen, één aanspreekpunt.</h2>
@@ -86,7 +104,7 @@ export default function Home() {
               const cat = CATEGORIES[a.cat];
               return (
                 <Link key={a.cat} href={cat.path} className="group block text-ink hover:text-ink">
-                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-glas">
+                  <div className="relative aspect-[4/3] w-full overflow-hidden bg-white">
                     <Image src={a.img.src} alt={cat.naam} fill sizes="(min-width:640px) 45vw, 100vw" className="object-contain p-6" />
                   </div>
                   <h3 className="t-sub mt-7 !text-[clamp(28px,3vw,40px)] group-hover:text-dennen">{cat.naam}</h3>
@@ -110,6 +128,24 @@ export default function Home() {
                 <p className="mt-3 max-w-[34ch] text-[16.5px] leading-[1.6] text-white/70">{s}</p>
               </div>
             ))}
+          </div>
+          <div className="mt-12 flex flex-wrap items-center gap-x-6 gap-y-4">
+            <TLink href="/#adviesgesprek" className="btn-primary-dark px-8 py-[18px]">Plan een adviesgesprek</TLink>
+            <TLink href="/offerte-aanvragen" track="cta_offerte_band" className="btn-ghost-dark px-8 py-[18px]">Vraag een offerte aan</TLink>
+          </div>
+        </div>
+      </section>
+
+      {/* Maak kennis met Dukora */}
+      <section className="bg-white">
+        <div className="wrap grid items-center gap-[clamp(40px,6vw,110px)] py-[clamp(72px,9vw,150px)] nav:grid-cols-[1fr_1fr]">
+          <div className="order-2 nav:order-1">
+            <h2 className="t-section max-w-[13ch]">Maak kennis met Dukora.</h2>
+            <p className="body-l mt-6">Dukora begon vijftien jaar geleden met één bus en twee monteurs. Inmiddels werken we door heel Nederland, met vaste teams die elkaars werk kennen. Wat niet veranderde: bij elk project komt er eerst iemand kijken, niet om te verkopen maar om te meten.</p>
+            <TLink href="/over-ons" className="link-cta mt-8">Lees meer over ons</TLink>
+          </div>
+          <div className="order-1 nav:order-2">
+            <Frame src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" aspect="aspect-[4/5]" sizes="(min-width:961px) 40vw, 90vw" className="mx-auto max-w-[520px] nav:mr-0" />
           </div>
         </div>
       </section>

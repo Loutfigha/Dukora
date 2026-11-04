@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
-import { NAV, SITE } from '@/lib/site';
+import { NAV } from '@/lib/site';
 import TLink from './TLink';
 import Logo from './Logo';
 
@@ -32,7 +32,6 @@ export default function Header() {
           })}
         </nav>
         <div className="hidden flex-none items-center gap-6 nav:flex">
-          <TLink href={SITE.phoneHref} track="tel_click" className="hidden text-[15px] font-medium text-ink hover:text-dennen [@media(min-width:1180px)]:inline">{SITE.phone}</TLink>
           <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary whitespace-nowrap px-6 py-[13px]">Offerte aanvragen</TLink>
         </div>
         <button
