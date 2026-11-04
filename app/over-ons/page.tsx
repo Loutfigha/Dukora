@@ -28,7 +28,7 @@ export default function OverOns() {
       </section>
 
       <section className="relative aspect-[16/8] min-h-[260px] w-full bg-nacht">
-        <Image src="/img/foto/bedrijfspand.webp" alt="Het Dukora-bedrijfspand met de bus ervoor" fill priority sizes="100vw" className="object-cover object-[50%_40%]" />
+        <Image src="/img/foto/bedrijfspand-ingang.webp" alt="De ingang van het Dukora-bedrijfspand, met twee mensen die naar buiten lopen en de bedrijfsbus ernaast" fill priority sizes="100vw" className="object-cover object-[50%_30%]" />
       </section>
 
       <section className="bg-white">
@@ -57,7 +57,7 @@ export default function OverOns() {
               ))}
             </dl>
           </div>
-          <Frame src="/img/foto/monteur-portret.webp" alt="Dukora-monteur met gekruiste armen voor een grote schuifpui" aspect="aspect-[3/2]" sizes="(min-width:961px) 45vw, 90vw" />
+          <Frame src="/img/foto/team-werkplaats.webp" alt="Het Dukora-team in de werkplaats: negen mannen in zwarte Dukora-shirts, vijf staand en vier op hun hurken" aspect="aspect-[4/3]" sizes="(min-width:961px) 45vw, 90vw" />
         </div>
       </section>
       <HulpBand titel="Benieuwd hoe wij werken?" tekst="Plan een vrijblijvend gesprek. We komen langs, meten in en vertellen eerlijk wat er mogelijk is." />
