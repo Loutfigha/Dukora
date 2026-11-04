@@ -11,7 +11,7 @@ const font = Schibsted_Grotesk({ subsets: ['latin'], weight: ['400', '500', '600
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE.url),
-  title: { default: 'Dukora — Kunststof, aluminium en houten kozijnen | Heel Nederland', template: '%s | Dukora' },
+  title: { default: 'Dukora — PVC ramen, deuren, schuifsystemen en horren | Heel Nederland', template: '%s | Dukora' },
   description: SITE.description,
   openGraph: { siteName: 'Dukora', locale: 'nl_NL', type: 'website' },
 };

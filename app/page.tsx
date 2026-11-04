@@ -7,9 +7,11 @@ import Photo from '@/components/Photo';
 import Reveal from '@/components/Reveal';
 import BeforeAfter from '@/components/BeforeAfter';
 import JsonLd from '@/components/JsonLd';
+import Image from 'next/image';
+import { CATEGORIES, DEUREN, productBySlug } from '@/lib/catalogus';
 
 export const metadata: Metadata = {
-  title: { absolute: 'Dukora — Kunststof, aluminium en houten kozijnen | Heel Nederland' },
+  title: { absolute: 'Dukora — PVC ramen, deuren, schuifsystemen en horren | Heel Nederland' },
   description: SITE.description,
   alternates: { canonical: '/' },
 };
@@ -30,11 +32,12 @@ const WAAROM = [
   ['Meerwaarde', 'Een beter energielabel telt mee bij verkoop.'],
 ];
 
-const MATERIALEN = [
-  { href: '/kunststof-kozijnen', nr: '01', titel: 'Kunststof kozijnen', tekst: 'Duurzaam, onderhoudsarm en uitstekend isolerend. De meest gekozen oplossing bij een complete vervanging.', link: 'Bekijk kunststof kozijnen', ph: 'Kunststof kozijn — woning of detail, staand' },
-  { href: '/aluminium-kozijnen', nr: '02', titel: 'Aluminium kozijnen', tekst: 'Strak, modern en sterk. Smalle profielen en grote glasvlakken, ook bij brede schuifpuien.', link: 'Bekijk aluminium kozijnen', ph: 'Aluminium kozijn — strak, staand' },
-  { href: '/houten-kozijnen', nr: '03', titel: 'Houten kozijnen', tekst: 'Karakter, authenticiteit en hoogwaardige uitstraling. Passend bij monumenten en jaren-30 woningen.', link: 'Bekijk houten kozijnen', ph: 'Houten kozijn — karakteristieke woning, staand' },
-];
+const ASSORTIMENT = [
+  { cat: 'pvc-ramen', slug: 'ideal-7000-nl', nr: '01', tekst: 'KOMO-gecertificeerd, warm en stil. De Ideal 7000 NL is ontwikkeld voor de Nederlandse markt.' },
+  { cat: 'pvc-deuren', slug: 'model-pvc-deuren', nr: '02', tekst: 'Buitendeuren in zes collecties en honderden modellen, passend bij uw ramen en uw gevel.' },
+  { cat: 'pvc-schuifsystemen', slug: 'synego-slide', nr: '03', tekst: 'Vijftien PVC schuifsystemen voor veel daglicht, soepele bediening en goede isolatie.' },
+  { cat: 'horren', slug: 'jolly', nr: '04', tekst: 'Vaste en uitschuifbare horren en deurklamboes, zodat de ramen open kunnen en insecten buiten blijven.' },
+] as const;
 
 const STAPPEN = [
   ['Advies', 'We bespreken uw woning, wensen en mogelijkheden. Zonder verkoper aan de deur.'],
@@ -85,7 +88,7 @@ export default function Home() {
           <div className="max-w-[760px]">
             <p className="eyebrow-dark mb-[26px]">Kozijnen &amp; montage · Heel Nederland</p>
             <h1 className="text-[clamp(40px,7.2vw,90px)] font-semibold leading-[.98] tracking-[-.045em] text-white">Nieuwe kozijnen.<br />Een beter huis.</h1>
-            <p className="mt-[26px] max-w-[560px] text-[clamp(17px,2vw,20px)] leading-[1.55] text-white/[.82]">Kunststof, aluminium en hout — ingemeten, gemaakt en geplaatst door onze eigen mensen. Beter geïsoleerd, stiller in huis en jaren zonder onderhoud.</p>
+            <p className="mt-[26px] max-w-[560px] text-[clamp(17px,2vw,20px)] leading-[1.55] text-white/[.82]">PVC ramen, deuren, schuifsystemen en horren — ingemeten, gemaakt en geplaatst door onze eigen mensen. Beter geïsoleerd, stiller in huis en jaren zonder onderhoud.</p>
             <div className="mt-[38px] flex flex-wrap gap-3">
               <TLink href="/offerte-aanvragen" track="cta_offerte_hero" className="btn-primary-dark px-7 py-[19px] text-base">Vraag een vrijblijvende offerte aan<Arrow /></TLink>
               <TLink href={SITE.whatsapp} track="whatsapp_hero" className="btn-ghost-dark px-[26px] py-[19px] text-base">WhatsApp ons</TLink>
@@ -143,32 +146,38 @@ export default function Home() {
         </div>
       </section>
 
-      {/* 4. Materialen */}
+      {/* 4. Assortiment */}
       <section className="border-t border-line-2">
         <div className="wrap pt-[clamp(64px,7vw,96px)]">
           <div className="flex flex-wrap items-end justify-between gap-6">
             <div>
-              <p className="eyebrow">Materialen</p>
-              <h2 className="h2-xl mt-[22px] max-w-[640px]">Drie materialen. Eén manier van werken.</h2>
+              <p className="eyebrow">Assortiment</p>
+              <h2 className="h2-xl mt-[22px] max-w-[640px]">Vier productgroepen. Eén manier van werken.</h2>
             </div>
-            <p className="max-w-[340px] text-[16.5px] leading-[1.6] text-text-4b">Welk materiaal past bij uw woning hangt af van de gevel, het onderhoud dat u wilt en de sponning die er nu zit. Daar kijken we bij u thuis naar.</p>
+            <p className="max-w-[340px] text-[16.5px] leading-[1.6] text-text-4b">Welk systeem past bij uw woning hangt af van de gevel, de sponning die er nu zit en wat u wilt vervangen. Daar kijken we bij u thuis naar.</p>
           </div>
         </div>
         <div className="wrap pb-[clamp(72px,8vw,110px)] pt-[clamp(48px,5vw,72px)]">
-          <div className="grid gap-[clamp(24px,3vw,40px)] nav:grid-cols-3">
-            {MATERIALEN.map((m) => (
-              <Reveal key={m.href}>
-                <Link href={m.href} className="group block text-ink hover:text-ink">
-                  <Photo aspect="aspect-[4/5]" placeholder={m.ph} sizes="(min-width:961px) 33vw, 100vw" />
-                  <div className="mt-[22px] flex items-baseline justify-between gap-3 border-b border-line pb-[14px]">
-                    <h3 className="text-[clamp(22px,2.4vw,28px)] font-semibold tracking-[-.03em]">{m.titel}</h3>
-                    <span className="text-[13px] font-semibold text-accent">{m.nr}</span>
-                  </div>
-                  <p className="mt-4 text-base leading-[1.6] text-text-3">{m.tekst}</p>
-                  <span className="mt-5 inline-flex items-center gap-[9px] text-[15px] font-semibold text-accent">{m.link}<Arrow size={13} /></span>
-                </Link>
-              </Reveal>
-            ))}
+          <div className="grid gap-[clamp(24px,3vw,40px)] sm:grid-cols-2 nav:grid-cols-4">
+            {ASSORTIMENT.map((a) => {
+              const cat = CATEGORIES[a.cat];
+              const img = a.cat === 'pvc-deuren' ? DEUREN.find((d) => d.slug === a.slug)!.image : productBySlug(a.cat, a.slug)!.image;
+              return (
+                <Reveal key={a.cat}>
+                  <Link href={cat.path} className="group block text-ink hover:text-ink">
+                    <div className="relative aspect-[4/3] w-full overflow-hidden bg-white">
+                      <Image src={img.src} alt={cat.naam} fill sizes="(min-width:961px) 25vw, (min-width:640px) 50vw, 100vw" className="object-contain" />
+                    </div>
+                    <div className="mt-[22px] flex items-baseline justify-between gap-3 border-b border-line pb-[14px]">
+                      <h3 className="text-[clamp(22px,2.2vw,26px)] font-semibold tracking-[-.03em]">{cat.naam}</h3>
+                      <span className="text-[13px] font-semibold text-accent">{a.nr}</span>
+                    </div>
+                    <p className="mt-4 text-base leading-[1.6] text-text-3">{a.tekst}</p>
+                    <span className="mt-5 inline-flex items-center gap-[9px] text-[15px] font-semibold text-accent">Bekijk {cat.naam.toLowerCase()}<Arrow size={13} /></span>
+                  </Link>
+                </Reveal>
+              );
+            })}
           </div>
         </div>
       </section>

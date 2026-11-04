@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.801" height="165.8" viewBox="0 0 71.801 165.8">
+  <g id="EkoLine_86_INOX" transform="translate(1126.99 2767.75)">
+    <g id="POLYLINE" transform="translate(-1111.583 -2745.271)">
+      <path id="Path_7999" data-name="Path 7999" d="M-588.01-1849.967h16.5V-1970.81h-16.5v120.843" transform="translate(588.01 1970.81)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+    <g id="POLYLINE_1_" transform="translate(-1108.827 -2742.521)">
+      <path id="Path_8000" data-name="Path 8000" d="M-488.8-1756.257h11V-1871.6h-11v115.343" transform="translate(488.8 1871.6)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+    <g id="SPLINE" transform="translate(-1090.245 -2740.558)">
+      <path id="Path_8001" data-name="Path 8001" d="M177.35-1689.356a88.786,88.786,0,0,0,0-111.394" transform="translate(-177.35 1800.75)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+    <g id="POLYLINE_2_" transform="translate(-1090.301 -2740.558)">
+      <line id="Line_4006" data-name="Line 4006" y1="111.394" transform="translate(0 0)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+    <g id="SPLINE_1_" transform="translate(-1087.501 -2732.111)">
+      <path id="Path_8002" data-name="Path 8002" d="M276.56-1401.489a86.036,86.036,0,0,0,0-94.521" transform="translate(-276.56 1496.01)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+    <g id="POLYLINE_3_" transform="translate(-1087.54 -2732.111)">
+      <line id="Line_4007" data-name="Line 4007" y1="94.521" transform="translate(0 0)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+    <g id="POLYLINE_4_" transform="translate(-1126.59 -2767.35)">
+      <path id="Path_8003" data-name="Path 8003" d="M-1126.59-2602.35h71v-165h-71v165" transform="translate(1126.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+    </g>
+  </g>
+</svg>

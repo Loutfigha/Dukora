@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Layer_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 71.8 165.8"
+	 style="enable-background:new 0 0 71.8 165.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#706F6F;stroke-width:0.8;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="165.8" width="71.8" x="0" y="0"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<path class="st0" d="M71.4,165.4L71.4,165.4V0.4l0,0V165.4L71.4,165.4V0.4h-71v165H71.4V0.4h-71v165 M71.4,0.4v165h-71 M0.4,0.4h71
+	v165 M0.4,0.4h71"/>
+<polyline class="st0" points="29.2,24.9 29.2,24.7 29.1,24.6 29,24.5 28.9,24.5 28.8,24.4 28.7,24.4 "/>
+<line class="st0" x1="28.7" y1="24.4" x2="16.7" y2="24.4"/>
+<polyline class="st0" points="16.7,24.4 16.6,24.4 16.5,24.5 16.4,24.5 16.3,24.6 16.2,24.7 16.2,24.9 "/>
+<line class="st0" x1="16.2" y1="24.9" x2="16.2" y2="141"/>
+<polyline class="st0" points="16.2,141 16.2,141.1 16.3,141.2 16.4,141.3 16.5,141.4 16.6,141.5 16.7,141.5 "/>
+<line class="st0" x1="16.7" y1="141.5" x2="28.7" y2="141.5"/>
+<polyline class="st0" points="28.7,141.5 28.8,141.5 28.9,141.4 29,141.3 29.1,141.2 29.2,141.1 29.2,141 "/>
+<path class="st0" d="M29.2,141V24.9 M29.2,141L29.2,141"/>
+<polyline class="st0" points="26,104.5 26,104.3 26,104.2 25.9,104.1 25.8,104.1 25.7,104 25.6,104 "/>
+<line class="st0" x1="25.6" y1="104" x2="19.8" y2="104"/>
+<polyline class="st0" points="19.8,104 19.7,104 19.6,104.1 19.5,104.1 19.4,104.2 19.4,104.3 19.4,104.5 "/>
+<line class="st0" x1="19.4" y1="104.5" x2="19.4" y2="136.4"/>
+<polyline class="st0" points="19.4,136.4 19.4,136.5 19.4,136.6 19.5,136.7 19.6,136.8 19.7,136.9 19.8,136.9 "/>
+<line class="st0" x1="19.8" y1="136.9" x2="25.6" y2="136.9"/>
+<polyline class="st0" points="25.6,136.9 25.7,136.9 25.8,136.8 25.9,136.7 26,136.6 26,136.5 26,136.4 "/>
+<path class="st0" d="M26,136.4v-32 M26,136.4L26,136.4"/>
+<polyline class="st0" points="26,66.9 26,66.8 26,66.7 25.9,66.6 25.8,66.5 25.7,66.5 25.6,66.5 "/>
+<line class="st0" x1="25.6" y1="66.5" x2="19.8" y2="66.5"/>
+<polyline class="st0" points="19.8,66.5 19.7,66.5 19.6,66.5 19.5,66.6 19.4,66.7 19.4,66.8 19.4,66.9 "/>
+<line class="st0" x1="19.4" y1="66.9" x2="19.4" y2="98.9"/>
+<polyline class="st0" points="19.4,98.9 19.4,99.1 19.4,99.2 19.5,99.3 19.6,99.3 19.7,99.4 19.8,99.4 "/>
+<line class="st0" x1="19.8" y1="99.4" x2="25.6" y2="99.4"/>
+<polyline class="st0" points="25.6,99.4 25.7,99.4 25.8,99.3 25.9,99.3 26,99.2 26,99.1 26,98.9 "/>
+<path class="st0" d="M26,98.9v-32 M26,98.9L26,98.9"/>
+<polyline class="st0" points="26,29.4 26,29.3 26,29.2 25.9,29.1 25.8,29 25.7,29 25.6,29 "/>
+<line class="st0" x1="25.6" y1="29" x2="19.8" y2="29"/>
+<polyline class="st0" points="19.8,29 19.7,29 19.6,29 19.5,29.1 19.4,29.2 19.4,29.3 19.4,29.4 "/>
+<line class="st0" x1="19.4" y1="29.4" x2="19.4" y2="61.4"/>
+<polyline class="st0" points="19.4,61.4 19.4,61.5 19.4,61.6 19.5,61.7 19.6,61.8 19.7,61.9 19.8,61.9 "/>
+<line class="st0" x1="19.8" y1="61.9" x2="25.6" y2="61.9"/>
+<polyline class="st0" points="25.6,61.9 25.7,61.9 25.8,61.8 25.9,61.7 26,61.6 26,61.5 26,61.4 "/>
+<path class="st0" d="M26,61.4v-32 M26,61.4L26,61.4"/>
+</svg>

@@ -3,7 +3,7 @@ import OfferteForm from '@/components/OfferteForm';
 
 export const metadata: Metadata = {
   title: 'Offerte aanvragen — vrijblijvend, in zeven korte vragen',
-  description: 'Vraag een vrijblijvende offerte aan voor kunststof, aluminium of houten kozijnen. Zeven korte vragen, binnen twee werkdagen reactie van een specialist.',
+  description: 'Vraag een vrijblijvende offerte aan voor PVC ramen, deuren, schuifsystemen of horren. Zeven korte vragen, binnen twee werkdagen reactie van een specialist.',
   alternates: { canonical: '/offerte-aanvragen' },
 };
 

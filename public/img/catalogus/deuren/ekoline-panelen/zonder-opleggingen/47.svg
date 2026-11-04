@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.801" height="165.8" viewBox="0 0 71.801 165.8">
+  <g id="EkoLine_47_INOX" transform="translate(1126.99 2767.75)">
+    <g id="PANEL" transform="translate(-1126.59 -2767.35)">
+      <g id="SPLINE" transform="translate(0 0)">
+        <path id="Path_7312" data-name="Path 7312" d="M-1126.59-2767.35v165h0v-165Z" transform="translate(1126.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_1_" transform="translate(0 0)">
+        <path id="Path_7313" data-name="Path 7313" d="M-1055.59-2767.35h0Z" transform="translate(1126.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_2_" transform="translate(71 0)">
+        <path id="Path_7314" data-name="Path 7314" d="M1424.59-2602.35v-165h0v165Z" transform="translate(-1424.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_3_" transform="translate(0 165)">
+        <path id="Path_7315" data-name="Path 7315" d="M-1126.59,3185.41h0Z" transform="translate(1126.59 -3185.41)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="POLYLINE" transform="translate(0 0)">
+        <path id="Path_7316" data-name="Path 7316" d="M-1126.59-2602.35h71v-165h-71v165h0" transform="translate(1126.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="POLYLINE_1_" transform="translate(0 0)">
+        <path id="Path_7317" data-name="Path 7317" d="M-1126.59-2602.35v-165h71v165h-71" transform="translate(1126.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="Layer_0" transform="translate(-1126.59 -2767.35)">
+      <g id="POLYLINE_2_" transform="translate(0 0)">
+        <path id="Path_7318" data-name="Path 7318" d="M-1126.59-2602.35h71v-165h-71v165h0" transform="translate(1126.59 2767.35)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_4_" transform="translate(17.429 87.607)">
+        <path id="Path_7319" data-name="Path 7319" d="M-481.775,393.735a.471.471,0,0,0-.471-.455H-502.5a.471.471,0,0,0-.471.471s0,.008,0,.012a140.248,140.248,0,0,0,12.717,54.791.472.472,0,0,0,.429.275H-467.3a.471.471,0,0,0,.471-.471.472.472,0,0,0-.057-.226A122.963,122.963,0,0,1-481.775,393.735Z" transform="translate(502.97 -393.28)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_5_" transform="translate(17.429 84.464)">
+        <path id="Path_7320" data-name="Path 7320" d="M-502.97,280.361a.472.472,0,0,1,.471-.471h35.2a.471.471,0,0,1,.471.471v.629a.471.471,0,0,1-.471.471h-35.2a.471.471,0,0,1-.471-.471Z" transform="translate(502.97 -279.89)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_6_" transform="translate(17.428 21.843)">
+        <path id="Path_7321" data-name="Path 7321" d="M-467.3-1979.32a.473.473,0,0,1,.226.057.471.471,0,0,1,.189.639,122.967,122.967,0,0,0-14.891,54.4.471.471,0,0,1-.471.455h-20.265a.472.472,0,0,1-.459-.484,140.248,140.248,0,0,1,12.717-54.792.472.472,0,0,1,.429-.275Z" transform="translate(502.976 1979.32)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_7_" transform="translate(17.429 81.714)">
+        <path id="Path_7322" data-name="Path 7322" d="M-502.97,181.151a.472.472,0,0,1,.471-.471h35.2a.471.471,0,0,1,.471.471v.629a.471.471,0,0,1-.471.471h-35.2a.471.471,0,0,1-.471-.471Z" transform="translate(502.97 -180.68)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_8_" transform="translate(17.429 78.964)">
+        <path id="Path_7323" data-name="Path 7323" d="M-502.97,81.941a.472.472,0,0,1,.471-.471h35.2a.471.471,0,0,1,.471.471v.629a.471.471,0,0,1-.471.471h-35.2a.471.471,0,0,1-.471-.471Z" transform="translate(502.97 -81.47)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_9_" transform="translate(20.254 90.357)">
+        <path id="Path_7324" data-name="Path 7324" d="M-385.146,492.49H-400.86a137.5,137.5,0,0,0,11.786,50.05h17.286A125.711,125.711,0,0,1-385.146,492.49Z" transform="translate(400.86 -492.49)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="SPLINE_10_" transform="translate(20.254 24.593)">
+        <path id="Path_7325" data-name="Path 7325" d="M-371.788-1880.11a125.713,125.713,0,0,0-13.357,50.05H-400.86a137.5,137.5,0,0,1,11.786-50.05Z" transform="translate(400.86 1880.11)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

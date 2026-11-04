@@ -4,13 +4,13 @@ import Reveal from '@/components/Reveal';
 
 export const metadata: Metadata = {
   title: 'Projecten — woningen met nieuwe kozijnen',
-  description: 'Bekijk projecten van Dukora: kunststof, aluminium en houten kozijnen in vrijstaande woningen, jaren-30 huizen, aanbouwen en tussenwoningen.',
+  description: 'Bekijk projecten van Dukora: PVC ramen, deuren en schuifsystemen in vrijstaande woningen, jaren-30 huizen, aanbouwen en tussenwoningen.',
   alternates: { canonical: '/projecten' },
 };
 
 type Rij = [string, string];
 const PROJECT_1: Rij[] = [['Woningtype', 'Vrijstaand, bouwjaar [jaar]'], ['Materiaal', 'Kunststof, 6-kamer'], ['Kleur', 'Antraciet buiten, wit binnen'], ['Glas', 'HR++'], ['Resultaat', 'Label [X] → label [X]']];
-const PROJECT_2: Rij[] = [['Woningtype', 'Twee-onder-een-kap, 1932'], ['Materiaal', 'Hout (accoya)'], ['Kleur', 'RAL 9010 met [kleur] draaiend werk'], ['Glas', 'Monumentenglas'], ['Resultaat', 'Origineel beeld, moderne isolatie']];
+const PROJECT_2: Rij[] = [['Woningtype', 'Twee-onder-een-kap, 1932'], ['Materiaal', 'PVC, Ideal 7000 NL'], ['Kleur', 'Houtnerf-folie binnen en buiten'], ['Glas', 'HR++'], ['Resultaat', 'Origineel beeld, moderne isolatie']];
 
 function Specs({ rows }: { rows: Rij[] }) {
   return (
@@ -58,7 +58,7 @@ export default function Projecten() {
               <div className="order-2 nav:order-1">
                 <p className={nr}>02</p>
                 <h2 className={h2}>Jaren-30 woning — [Plaats]</h2>
-                <p className="body-l mt-4 !leading-[1.6]">Houten kozijnen met de oorspronkelijke roedeverdeling, opnieuw gemaakt in accoya. Van buiten hetzelfde beeld, van binnen een heel ander huis.</p>
+                <p className="body-l mt-4 !leading-[1.6]">PVC ramen met houtnerf-folie en de oorspronkelijke indeling. Van buiten bijna hetzelfde beeld, van binnen een heel ander huis.</p>
                 <Specs rows={PROJECT_2} />
               </div>
               <div className="order-1 nav:order-2">
@@ -69,10 +69,10 @@ export default function Projecten() {
 
           <div className="grid gap-[clamp(24px,3vw,44px)] pt-[clamp(40px,5vw,64px)] nav:grid-cols-2">
             <Reveal as="article">
-              <Photo aspect="aspect-[4/3]" placeholder="Project 3 — aluminium schuifpui" sizes="(min-width:961px) 50vw, 100vw" />
+              <Photo aspect="aspect-[4/3]" placeholder="Project 3 — PVC schuifsysteem" sizes="(min-width:961px) 50vw, 100vw" />
               <p className={`${nr} mt-5`}>03</p>
               <h2 className="mt-[10px] text-2xl font-semibold tracking-[-.03em]">Aanbouw met schuifpui — [Plaats]</h2>
-              <p className="mt-3 text-[15.5px] leading-[1.6] text-text-4">Aluminium schuifpui van [X] meter in RAL 7016. Twee dagen werk, tuin en keuken lopen nu in elkaar over.</p>
+              <p className="mt-3 text-[15.5px] leading-[1.6] text-text-4">PVC schuifsysteem van [X] meter. Twee dagen werk, tuin en keuken lopen nu in elkaar over.</p>
             </Reveal>
             <Reveal as="article">
               <Photo aspect="aspect-[4/3]" placeholder="Project 4 — tussenwoning voorzijde" sizes="(min-width:961px) 50vw, 100vw" />

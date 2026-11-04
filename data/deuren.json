@@ -1,0 +1,2139 @@
+[
+ {
+  "slug": "ekoline-panelen",
+  "title": "EkoLine panelen",
+  "bullets": [
+   "24, 36 en 48 mm dikke panelen",
+   "vulling in Classic en Plus versies",
+   "panelen van HPL of aluminium plaat",
+   "opleggingen verkrijgbaar in INOX en zwart",
+   "tip: vanwege hun unieke design zijn sommige modellen uitsluitend verkrijgbaar in een uitvoering met of zonder overlay"
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "EkoLine-panelen zijn beschikbaar in een versie zonder opleggingen, met INOX-opleggingen en met zwarte opleggingen."
+   },
+   {
+    "t": "p",
+    "x": "EkoLine is een esthetische collectie van deurpanelen. De klant krijgt onder meer de mogelijkheid deuren te fabriceren volgens zijn eigen ontwerp, waarbij de beste constructieve oplossingen worden aangehouden."
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Binnendeuren catalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Buitendeuren_NL.pdf"
+   },
+   {
+    "t": "EkoLine poster (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Posters/Poster_EkoLine_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/deuren/ekoline-panelen/hero.webp",
+   "w": 1200,
+   "h": 1200
+  },
+  "variants": [
+   {
+    "name": "Zonder opleggingen",
+    "slug": "zonder-opleggingen",
+    "models": [
+     {
+      "code": "01",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/01.svg"
+     },
+     {
+      "code": "02",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/02.svg"
+     },
+     {
+      "code": "03",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/03.svg"
+     },
+     {
+      "code": "04",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/04.svg"
+     },
+     {
+      "code": "05",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/05.svg"
+     },
+     {
+      "code": "06",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/06.svg"
+     },
+     {
+      "code": "07",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/07.svg"
+     },
+     {
+      "code": "08",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/08.svg"
+     },
+     {
+      "code": "09",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/09.svg"
+     },
+     {
+      "code": "10",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/10.svg"
+     },
+     {
+      "code": "11",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/11.svg"
+     },
+     {
+      "code": "12",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/12.svg"
+     },
+     {
+      "code": "13",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/13.svg"
+     },
+     {
+      "code": "14",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/14.svg"
+     },
+     {
+      "code": "15",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/15.svg"
+     },
+     {
+      "code": "16",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/16.svg"
+     },
+     {
+      "code": "17",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/17.svg"
+     },
+     {
+      "code": "18",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/18.svg"
+     },
+     {
+      "code": "19",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/19.svg"
+     },
+     {
+      "code": "20",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/20.svg"
+     },
+     {
+      "code": "21",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/21.svg"
+     },
+     {
+      "code": "22",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/22.svg"
+     },
+     {
+      "code": "23",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/23.svg"
+     },
+     {
+      "code": "24",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/24.svg"
+     },
+     {
+      "code": "25",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/25.svg"
+     },
+     {
+      "code": "26",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/26.svg"
+     },
+     {
+      "code": "27",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/27.svg"
+     },
+     {
+      "code": "28",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/28.svg"
+     },
+     {
+      "code": "29",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/29.svg"
+     },
+     {
+      "code": "30",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/30.svg"
+     },
+     {
+      "code": "31",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/31.svg"
+     },
+     {
+      "code": "32",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/32.svg"
+     },
+     {
+      "code": "33",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/33.svg"
+     },
+     {
+      "code": "34",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/34.svg"
+     },
+     {
+      "code": "35",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/35.svg"
+     },
+     {
+      "code": "36",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/36.svg"
+     },
+     {
+      "code": "37",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/37.svg"
+     },
+     {
+      "code": "38",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/38.svg"
+     },
+     {
+      "code": "39",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/39.svg"
+     },
+     {
+      "code": "40",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/40.svg"
+     },
+     {
+      "code": "41",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/41.svg"
+     },
+     {
+      "code": "42",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/42.svg"
+     },
+     {
+      "code": "43",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/43.svg"
+     },
+     {
+      "code": "44",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/44.svg"
+     },
+     {
+      "code": "45",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/45.svg"
+     },
+     {
+      "code": "46",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/46.svg"
+     },
+     {
+      "code": "47",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/47.svg"
+     },
+     {
+      "code": "48",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/48.svg"
+     },
+     {
+      "code": "49",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/49.svg"
+     },
+     {
+      "code": "50",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/50.svg"
+     },
+     {
+      "code": "51",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/51.svg"
+     },
+     {
+      "code": "52",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/52.svg"
+     },
+     {
+      "code": "53",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/53.svg"
+     },
+     {
+      "code": "54",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/54.svg"
+     },
+     {
+      "code": "55",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/55.svg"
+     },
+     {
+      "code": "56",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/56.svg"
+     },
+     {
+      "code": "57",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/57.svg"
+     },
+     {
+      "code": "58",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/58.svg"
+     },
+     {
+      "code": "62",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/62.svg"
+     },
+     {
+      "code": "72",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/72.svg"
+     },
+     {
+      "code": "73",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/73.svg"
+     },
+     {
+      "code": "74",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/74.svg"
+     },
+     {
+      "code": "75",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/75.svg"
+     },
+     {
+      "code": "76",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/76.svg"
+     },
+     {
+      "code": "77",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/77.svg"
+     },
+     {
+      "code": "78",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/78.svg"
+     },
+     {
+      "code": "79",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/79.svg"
+     },
+     {
+      "code": "80",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/80.svg"
+     },
+     {
+      "code": "81",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/81.svg"
+     },
+     {
+      "code": "82",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/82.svg"
+     },
+     {
+      "code": "83",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/83.svg"
+     },
+     {
+      "code": "84",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/84.svg"
+     },
+     {
+      "code": "85",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/85.svg"
+     },
+     {
+      "code": "86",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/86.svg"
+     },
+     {
+      "code": "87",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/87.svg"
+     },
+     {
+      "code": "88",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/88.svg"
+     },
+     {
+      "code": "89",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/89.svg"
+     },
+     {
+      "code": "90",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/90.svg"
+     },
+     {
+      "code": "91",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/91.svg"
+     },
+     {
+      "code": "92",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/92.svg"
+     },
+     {
+      "code": "94",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/94.svg"
+     },
+     {
+      "code": "95",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/95.svg"
+     },
+     {
+      "code": "97",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/97.svg"
+     },
+     {
+      "code": "98",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/98.svg"
+     },
+     {
+      "code": "99",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/99.svg"
+     },
+     {
+      "code": "100",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/100.svg"
+     },
+     {
+      "code": "101",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/101.svg"
+     },
+     {
+      "code": "102",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/102.svg"
+     },
+     {
+      "code": "103",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/103.svg"
+     },
+     {
+      "code": "104",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/104.svg"
+     },
+     {
+      "code": "105",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/105.svg"
+     },
+     {
+      "code": "106",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/106.svg"
+     },
+     {
+      "code": "107",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/107.svg"
+     },
+     {
+      "code": "108",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/108.svg"
+     },
+     {
+      "code": "109",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/109.svg"
+     },
+     {
+      "code": "110",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/110.svg"
+     },
+     {
+      "code": "111",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/111.svg"
+     },
+     {
+      "code": "112",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/112.svg"
+     },
+     {
+      "code": "113",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/113.svg"
+     },
+     {
+      "code": "114",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/114.svg"
+     },
+     {
+      "code": "115",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/115.svg"
+     },
+     {
+      "code": "116",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/116.svg"
+     },
+     {
+      "code": "117",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/117.svg"
+     },
+     {
+      "code": "118",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/118.svg"
+     },
+     {
+      "code": "119",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/119.svg"
+     },
+     {
+      "code": "121",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/121.svg"
+     },
+     {
+      "code": "122",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/122.svg"
+     },
+     {
+      "code": "123",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/123.svg"
+     },
+     {
+      "code": "124",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/124.svg"
+     },
+     {
+      "code": "125",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/125.svg"
+     },
+     {
+      "code": "126",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/126.svg"
+     },
+     {
+      "code": "127",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/127.svg"
+     },
+     {
+      "code": "128",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/128.svg"
+     },
+     {
+      "code": "129",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/129.svg"
+     },
+     {
+      "code": "130",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/130.svg"
+     },
+     {
+      "code": "131",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/131.svg"
+     },
+     {
+      "code": "132",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/132.svg"
+     },
+     {
+      "code": "133",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/133.svg"
+     },
+     {
+      "code": "134",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/134.svg"
+     },
+     {
+      "code": "135",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/135.svg"
+     },
+     {
+      "code": "136",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/136.svg"
+     },
+     {
+      "code": "138",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/138.svg"
+     },
+     {
+      "code": "139",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/139.svg"
+     },
+     {
+      "code": "140",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/140.svg"
+     },
+     {
+      "code": "141",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/141.svg"
+     },
+     {
+      "code": "142",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/142.svg"
+     },
+     {
+      "code": "143",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/143.svg"
+     },
+     {
+      "code": "144",
+      "img": "/img/catalogus/deuren/ekoline-panelen/zonder-opleggingen/144.svg"
+     }
+    ]
+   },
+   {
+    "name": "Met opleggingen",
+    "slug": "met-opleggingen",
+    "models": [
+     {
+      "code": "01",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/01.svg"
+     },
+     {
+      "code": "02",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/02.svg"
+     },
+     {
+      "code": "03",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/03.svg"
+     },
+     {
+      "code": "04",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/04.svg"
+     },
+     {
+      "code": "05",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/05.svg"
+     },
+     {
+      "code": "06",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/06.svg"
+     },
+     {
+      "code": "07",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/07.svg"
+     },
+     {
+      "code": "08",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/08.svg"
+     },
+     {
+      "code": "10",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/10.svg"
+     },
+     {
+      "code": "12",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/12.svg"
+     },
+     {
+      "code": "13",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/13.svg"
+     },
+     {
+      "code": "14",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/14.svg"
+     },
+     {
+      "code": "15",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/15.svg"
+     },
+     {
+      "code": "16",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/16.svg"
+     },
+     {
+      "code": "17",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/17.svg"
+     },
+     {
+      "code": "18",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/18.svg"
+     },
+     {
+      "code": "19",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/19.svg"
+     },
+     {
+      "code": "20",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/20.svg"
+     },
+     {
+      "code": "21",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/21.svg"
+     },
+     {
+      "code": "22",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/22.svg"
+     },
+     {
+      "code": "23",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/23.svg"
+     },
+     {
+      "code": "24",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/24.svg"
+     },
+     {
+      "code": "25",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/25.svg"
+     },
+     {
+      "code": "26",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/26.svg"
+     },
+     {
+      "code": "27",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/27.svg"
+     },
+     {
+      "code": "28",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/28.svg"
+     },
+     {
+      "code": "29",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/29.svg"
+     },
+     {
+      "code": "31",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/31.svg"
+     },
+     {
+      "code": "32",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/32.svg"
+     },
+     {
+      "code": "33",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/33.svg"
+     },
+     {
+      "code": "34",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/34.svg"
+     },
+     {
+      "code": "35",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/35.svg"
+     },
+     {
+      "code": "36",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/36.svg"
+     },
+     {
+      "code": "37",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/37.svg"
+     },
+     {
+      "code": "38",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/38.svg"
+     },
+     {
+      "code": "39",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/39.svg"
+     },
+     {
+      "code": "40",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/40.svg"
+     },
+     {
+      "code": "41",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/41.svg"
+     },
+     {
+      "code": "42",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/42.svg"
+     },
+     {
+      "code": "43",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/43.svg"
+     },
+     {
+      "code": "44",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/44.svg"
+     },
+     {
+      "code": "45",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/45.svg"
+     },
+     {
+      "code": "46",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/46.svg"
+     },
+     {
+      "code": "47",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/47.svg"
+     },
+     {
+      "code": "48",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/48.svg"
+     },
+     {
+      "code": "49",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/49.svg"
+     },
+     {
+      "code": "50",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/50.svg"
+     },
+     {
+      "code": "51",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/51.svg"
+     },
+     {
+      "code": "52",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/52.svg"
+     },
+     {
+      "code": "53",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/53.svg"
+     },
+     {
+      "code": "54",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/54.svg"
+     },
+     {
+      "code": "56",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/56.svg"
+     },
+     {
+      "code": "57",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/57.svg"
+     },
+     {
+      "code": "58",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/58.svg"
+     },
+     {
+      "code": "59",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/59.svg"
+     },
+     {
+      "code": "60",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/60.svg"
+     },
+     {
+      "code": "61",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/61.svg"
+     },
+     {
+      "code": "63",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/63.svg"
+     },
+     {
+      "code": "64",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/64.svg"
+     },
+     {
+      "code": "65",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/65.svg"
+     },
+     {
+      "code": "66",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/66.svg"
+     },
+     {
+      "code": "67",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/67.svg"
+     },
+     {
+      "code": "68",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/68.svg"
+     },
+     {
+      "code": "69",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/69.svg"
+     },
+     {
+      "code": "70",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/70.svg"
+     },
+     {
+      "code": "71",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/71.svg"
+     },
+     {
+      "code": "76",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/76.svg"
+     },
+     {
+      "code": "77",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/77.svg"
+     },
+     {
+      "code": "78",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/78.svg"
+     },
+     {
+      "code": "79",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/79.svg"
+     },
+     {
+      "code": "80",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/80.svg"
+     },
+     {
+      "code": "81",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/81.svg"
+     },
+     {
+      "code": "82",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/82.svg"
+     },
+     {
+      "code": "83",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/83.svg"
+     },
+     {
+      "code": "84",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/84.svg"
+     },
+     {
+      "code": "85",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/85.svg"
+     },
+     {
+      "code": "86",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/86.svg"
+     },
+     {
+      "code": "87",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/87.svg"
+     },
+     {
+      "code": "88",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/88.svg"
+     },
+     {
+      "code": "89",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/89.svg"
+     },
+     {
+      "code": "90",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/90.svg"
+     },
+     {
+      "code": "91",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/91.svg"
+     },
+     {
+      "code": "92",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/92.svg"
+     },
+     {
+      "code": "93",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/93.svg"
+     },
+     {
+      "code": "94",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/94.svg"
+     },
+     {
+      "code": "95",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/95.svg"
+     },
+     {
+      "code": "96",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/96.svg"
+     },
+     {
+      "code": "97",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/97.svg"
+     },
+     {
+      "code": "98",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/98.svg"
+     },
+     {
+      "code": "99",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/99.svg"
+     },
+     {
+      "code": "100",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/100.svg"
+     },
+     {
+      "code": "101",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/101.svg"
+     },
+     {
+      "code": "102",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/102.svg"
+     },
+     {
+      "code": "103",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/103.svg"
+     },
+     {
+      "code": "104",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/104.svg"
+     },
+     {
+      "code": "105",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/105.svg"
+     },
+     {
+      "code": "106",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/106.svg"
+     },
+     {
+      "code": "107",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/107.svg"
+     },
+     {
+      "code": "108",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/108.svg"
+     },
+     {
+      "code": "113",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/113.svg"
+     },
+     {
+      "code": "114",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/114.svg"
+     },
+     {
+      "code": "115",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/115.svg"
+     },
+     {
+      "code": "116",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/116.svg"
+     },
+     {
+      "code": "117",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/117.svg"
+     },
+     {
+      "code": "118",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/118.svg"
+     },
+     {
+      "code": "119",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/119.svg"
+     },
+     {
+      "code": "120",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/120.svg"
+     },
+     {
+      "code": "121",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/121.svg"
+     },
+     {
+      "code": "122",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/122.svg"
+     },
+     {
+      "code": "123",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/123.svg"
+     },
+     {
+      "code": "124",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/124.svg"
+     },
+     {
+      "code": "125",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/125.svg"
+     },
+     {
+      "code": "126",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/126.svg"
+     },
+     {
+      "code": "127",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/127.svg"
+     },
+     {
+      "code": "128",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/128.svg"
+     },
+     {
+      "code": "129",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/129.svg"
+     },
+     {
+      "code": "130",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/130.svg"
+     },
+     {
+      "code": "131",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/131.svg"
+     },
+     {
+      "code": "132",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/132.svg"
+     },
+     {
+      "code": "133",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/133.svg"
+     },
+     {
+      "code": "135",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/135.svg"
+     },
+     {
+      "code": "136",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/136.svg"
+     },
+     {
+      "code": "137",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/137.svg"
+     },
+     {
+      "code": "138",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/138.svg"
+     },
+     {
+      "code": "139",
+      "img": "/img/catalogus/deuren/ekoline-panelen/met-opleggingen/139.svg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "ekovitre-glaspanelen",
+  "title": "EkoVitre glaspanelen",
+  "bullets": [
+   "panelen van 36 mm dik",
+   "maximale paneelhoogte 2200 mm",
+   "maximale paneelbreedte 950 mm"
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Eko Vitre is niet alleen stijlvol, maar ook veilig en zeer energiezuinig. De panelen zijn gemaakt van twee bladen VSG-glas, waarvan er één een gezandstraald patroon heeft."
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Binnendeuren catalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Buitendeuren_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/deuren/ekovitre-glaspanelen/hero.webp",
+   "w": 1200,
+   "h": 1200
+  },
+  "variants": [
+   {
+    "name": null,
+    "slug": "alle",
+    "models": [
+     {
+      "code": "01",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/01.svg"
+     },
+     {
+      "code": "02",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/02.svg"
+     },
+     {
+      "code": "03",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/03.svg"
+     },
+     {
+      "code": "04",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/04.svg"
+     },
+     {
+      "code": "05",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/05.svg"
+     },
+     {
+      "code": "06",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/06.svg"
+     },
+     {
+      "code": "07",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/07.svg"
+     },
+     {
+      "code": "08",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/08.svg"
+     },
+     {
+      "code": "09",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/09.svg"
+     },
+     {
+      "code": "10",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/10.svg"
+     },
+     {
+      "code": "11",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/11.svg"
+     },
+     {
+      "code": "12",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/12.svg"
+     },
+     {
+      "code": "13",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/13.svg"
+     },
+     {
+      "code": "14",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/14.svg"
+     },
+     {
+      "code": "15",
+      "img": "/img/catalogus/deuren/ekovitre-glaspanelen/alle/15.svg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "classicline-panelen",
+  "title": "ClassicLine panelen",
+  "bullets": [
+   "36 en 48 mm dikke panelen",
+   "polyurethaanschuim vulling"
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De vulling wordt vervaardigd op basis van PVC-folie, een speciale plaat die bestand is tegen externe factoren, lijm en polyurethaanplaat."
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Binnendeuren catalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Buitendeuren_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/deuren/classicline-panelen/hero.webp",
+   "w": 1200,
+   "h": 1200
+  },
+  "variants": [
+   {
+    "name": null,
+    "slug": "alle",
+    "models": [
+     {
+      "code": "01",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/01.svg"
+     },
+     {
+      "code": "02",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/02.svg"
+     },
+     {
+      "code": "03",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/03.svg"
+     },
+     {
+      "code": "04",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/04.svg"
+     },
+     {
+      "code": "05",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/05.svg"
+     },
+     {
+      "code": "06",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/06.svg"
+     },
+     {
+      "code": "07",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/07.svg"
+     },
+     {
+      "code": "08",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/08.svg"
+     },
+     {
+      "code": "09",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/09.svg"
+     },
+     {
+      "code": "10",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/10.svg"
+     },
+     {
+      "code": "11",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/11.svg"
+     },
+     {
+      "code": "12",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/12.svg"
+     },
+     {
+      "code": "13",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/13.svg"
+     },
+     {
+      "code": "14",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/14.svg"
+     },
+     {
+      "code": "15",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/15.svg"
+     },
+     {
+      "code": "16",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/16.svg"
+     },
+     {
+      "code": "18",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/18.svg"
+     },
+     {
+      "code": "19",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/19.svg"
+     },
+     {
+      "code": "20",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/20.svg"
+     },
+     {
+      "code": "21",
+      "img": "/img/catalogus/deuren/classicline-panelen/alle/21.svg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "ekogreen-reliefpanelen",
+  "title": "EkoGreen reliëfpanelen",
+  "bullets": [
+   "Paneeldikte: 24–48 mm",
+   "massieve of beglaasde deurpanelen",
+   "Hydro Exterior HDF-plaat + XPS-isolatie",
+   "enkelzijdig (E-K), dubbelzijdig (E-M) relief, gefreesd of 3D-relief (verzonken versieringen beschikbaar tegen meerprijs)",
+   "Veiligheidsglas 33.1 in de beglazingssecties",
+   "beglazing met glaslatten (type ON), zonder glaslatten (type O)",
+   "maximale afmeting 1100 x 2800 mm",
+   "minimale afmeting 560 x 1770 mm",
+   "Tot = 0,66 W/m²K (voor 44–48 mm dikke panelen)"
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "EkoGreen panelen zijn een product dat Italiaanse stijl combineert met de hoogste prestaties die beschikbaar zijn voor deze productklasse. Ze onderscheiden zich door de bijzondere nadruk op ecologie, die niet alleen tot uiting komt in de verminderde koolstofvoetafdruk en het gebruik van PEFC-gecertificeerd hout, maar ook in de duidelijk verbeterde thermische isolatie, die met ongeveer 40% toeneemt in vergelijking met typische panelen."
+   },
+   {
+    "t": "p",
+    "x": "EkoGreen is een merk dat bekend staat om zijn rijkdom en verscheidenheid aan beschikbare stijlen. Elk paneel kan worden voorzien van EkoGreen extensies met reliëf, EkoGreen bodempanelen met reliëf (Sottotraversi) en EkoGreen binnenluiken (Scuretti)."
+   },
+   {
+    "t": "p",
+    "x": "De mogelijkheid om deuren perfect te laten passen bij elk huis of appartement, ongeacht hun bouwstijl, wordt gegarandeerd door inox en houtnerf frames, gefreesde lijnen en ondiepe reliëffrezen en inzetstukken: houtskool, houtnerf, aluminium, steen, koper, 3D-effect en inzetstukken met meerdere kamers. Panelen zijn verkrijgbaar in alle designs van het fineerpalet."
+   },
+   {
+    "t": "p",
+    "x": "De esthetiek en duurzaamheid van de EkoGreen panelen worden ook gegarandeerd door de meerlaagse PVC-Acryl film, die oververhitting van de deurelementen voorkomt (temperatuurtolerantie van –50°C tot 120°C), tot 80% van de UV-straling reflecteert (gepatenteerde Solar Shield technologie) en het bovendien mogelijk maakt om decoraties met een 3D-effect te creëren."
+   },
+   {
+    "t": "p",
+    "x": "Met behoud van de standaardafmetingen en een gewichtsbesparing van 30% maken EkoGreen-panelen het mogelijk om de ontsnapping van warmte tot 40% te beperken. Afhankelijk van de dikte van de deur kan een Up.p tot 0,66 W/m2K worden bereikt (voor panelen met een dikte van 44–48 mm), wat praktisch onmogelijk was met traditionele technologieën. De Hydro Exterior HDF-panelen worden dankzij de gebruikte lijmen en harsen niet aangetast door water en de XPS-isolatie ertussen is een goede isolator. Deze combinatie zorgt ook voor een effectieve geluidsisolatie."
+   },
+   {
+    "t": "p",
+    "x": "EkoGreen panelen maken gebruik van beglazing met 33.1 veiligheidsglas met warme kaders om warmtebruggen te elimineren. Het glas kan helder of gesatineerd zijn."
+   },
+   {
+    "t": "p",
+    "x": "Elke combinatie van EkoGreen-panelen en bijbehorende onderdelen is mogelijk. De maximale afmeting van een enkel paneel is 1100 x 2800 mm, de minimale afmeting is 200 x 1500 mm."
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Binnendeuren catalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Buitendeuren_NL.pdf"
+   },
+   {
+    "t": "EkoGreen folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_EkoGreen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/deuren/ekogreen-reliefpanelen/hero.webp",
+   "w": 1200,
+   "h": 1200
+  },
+  "variants": [
+   {
+    "name": "EkoGreen reliëfpanelen",
+    "slug": "ekogreen-reliefpanelen",
+    "models": [
+     {
+      "code": "002",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/002.svg"
+     },
+     {
+      "code": "002V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/002v01.svg"
+     },
+     {
+      "code": "002V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/002v02.svg"
+     },
+     {
+      "code": "002V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/002v03.svg"
+     },
+     {
+      "code": "003",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/003.svg"
+     },
+     {
+      "code": "003V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/003v02.svg"
+     },
+     {
+      "code": "003V04",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/003v04.svg"
+     },
+     {
+      "code": "003V06",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/003v06.svg"
+     },
+     {
+      "code": "006",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/006.svg"
+     },
+     {
+      "code": "006V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/006v01.svg"
+     },
+     {
+      "code": "006V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/006v02.svg"
+     },
+     {
+      "code": "007",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/007.svg"
+     },
+     {
+      "code": "007V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/007v01.svg"
+     },
+     {
+      "code": "007V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/007v02.svg"
+     },
+     {
+      "code": "010V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/010v01.svg"
+     },
+     {
+      "code": "012",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/012.svg"
+     },
+     {
+      "code": "012V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/012v01.svg"
+     },
+     {
+      "code": "012V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/012v02.svg"
+     },
+     {
+      "code": "012V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/012v03.svg"
+     },
+     {
+      "code": "023V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/023v02.svg"
+     },
+     {
+      "code": "029",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/029.svg"
+     },
+     {
+      "code": "029V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/029v01.svg"
+     },
+     {
+      "code": "029V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/029v03.svg"
+     },
+     {
+      "code": "029V05",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/029v05.svg"
+     },
+     {
+      "code": "043",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/043.svg"
+     },
+     {
+      "code": "062",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/062.svg"
+     },
+     {
+      "code": "062V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/062v02.svg"
+     },
+     {
+      "code": "062V04",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/062v04.svg"
+     },
+     {
+      "code": "062V06",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/062v06.svg"
+     },
+     {
+      "code": "086",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/086.svg"
+     },
+     {
+      "code": "086V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/086v01.svg"
+     },
+     {
+      "code": "086V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/086v03.svg"
+     },
+     {
+      "code": "086V05",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/086v05.svg"
+     },
+     {
+      "code": "088V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/088v01.svg"
+     },
+     {
+      "code": "093",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/093.svg"
+     },
+     {
+      "code": "093V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/093v01.svg"
+     },
+     {
+      "code": "093V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/093v02.svg"
+     },
+     {
+      "code": "093V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/093v03.svg"
+     },
+     {
+      "code": "096",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/096.svg"
+     },
+     {
+      "code": "096V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/096v03.svg"
+     },
+     {
+      "code": "097",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/097.svg"
+     },
+     {
+      "code": "098V10",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/098v10.svg"
+     },
+     {
+      "code": "102",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/102.svg"
+     },
+     {
+      "code": "102V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/102v01.svg"
+     },
+     {
+      "code": "102V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/102v02.svg"
+     },
+     {
+      "code": "112V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/112v01.svg"
+     },
+     {
+      "code": "173V03Sx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/173v03sx.svg"
+     },
+     {
+      "code": "177Dx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/177dx.svg"
+     },
+     {
+      "code": "177Sx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/177sx.svg"
+     },
+     {
+      "code": "177V01Dx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/177v01dx.svg"
+     },
+     {
+      "code": "177V01Sx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/177v01sx.svg"
+     },
+     {
+      "code": "188V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/188v01.svg"
+     },
+     {
+      "code": "190Dx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/190dx.svg"
+     },
+     {
+      "code": "190V01Dx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/190v01dx.svg"
+     },
+     {
+      "code": "190V02Dx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/190v02dx.svg"
+     },
+     {
+      "code": "190V03Dx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/190v03dx.svg"
+     },
+     {
+      "code": "358V04Sx",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ekogreen-reliefpanelen/358v04sx.svg"
+     }
+    ]
+   },
+   {
+    "name": "EcoGreen extensies ingedrukt",
+    "slug": "ecogreen-extensies-ingedrukt",
+    "models": [
+     {
+      "code": "201",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/201.svg"
+     },
+     {
+      "code": "201V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/201v01.svg"
+     },
+     {
+      "code": "202",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/202.svg"
+     },
+     {
+      "code": "202V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/202v01.svg"
+     },
+     {
+      "code": "202V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/202v02.svg"
+     },
+     {
+      "code": "202V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/202v03.svg"
+     },
+     {
+      "code": "206",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/206.svg"
+     },
+     {
+      "code": "206V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/206v01.svg"
+     },
+     {
+      "code": "206V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/206v02.svg"
+     },
+     {
+      "code": "208",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/208.svg"
+     },
+     {
+      "code": "208V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/208v01.svg"
+     },
+     {
+      "code": "208V02",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/208v02.svg"
+     },
+     {
+      "code": "213",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/213.svg"
+     },
+     {
+      "code": "213V01",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/213v01.svg"
+     },
+     {
+      "code": "213V03",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/213v03.svg"
+     },
+     {
+      "code": "221",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-extensies-ingedrukt/221.svg"
+     }
+    ]
+   },
+   {
+    "name": "EcoGreen reliëfbodempanelen",
+    "slug": "ecogreen-reliefbodempanelen",
+    "models": [
+     {
+      "code": "Acquamarina",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/acquamarina.svg"
+     },
+     {
+      "code": "Clara",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/clara.svg"
+     },
+     {
+      "code": "Luna",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/luna.svg"
+     },
+     {
+      "code": "Milano",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/milano.svg"
+     },
+     {
+      "code": "Roma",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/roma.svg"
+     },
+     {
+      "code": "Stella",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/stella.svg"
+     },
+     {
+      "code": "Violet",
+      "img": "/img/catalogus/deuren/ekogreen-reliefpanelen/ecogreen-reliefbodempanelen/violet.svg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "model-pvc-deuren",
+  "title": "Model PVC deuren",
+  "bullets": [
+   "Ideal 4000, Ideal 7000, Ideal Neo",
+   "EkoSun 6, EkoSun 70",
+   "S8000, S9000",
+   "greenEvolution 76, bluEvolution 82, bluEvolution 92",
+   "Synego",
+   "Voor het gebruik van andere systemen is contact met de verkoopafdeling vereist"
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Modeldeuren van PVC zijn een populaire oplossing wanneer er buitendeuren nodig zijn met zeer goede gebruikseigenschappen en een aantrekkelijk uiterlijk, zonder de investeringskosten significant te verhogen. Een belangrijk voordeel is de esthetische samenhang met raamprofielen."
+   },
+   {
+    "t": "h",
+    "x": "Belangrijkste kenmerken van modeldeuren van PVC:"
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Zeer goede prijs-kwaliteitverhouding",
+     "Breed assortiment aan eenvoudige, economische modellen en premiumoplossingen",
+     "Perfecte esthetische afstemming met ramen door het gebruik van dezelfde profielen"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Kies voor modeldeuren van PVC als:"
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Je op zoek bent naar een warm product tegen een betaalbare prijs",
+     "Het belangrijk voor je is dat je PVC-ramen en deuren perfect bij elkaar passen",
+     "Je van plan bent om de deuren uit te rusten met stevige sloten en beslag"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Modeldeuren van PVC zijn beschikbaar in de volgende systemen:"
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Ideal 4000, Ideal 7000, Ideal Neo",
+     "EkoSun 6, EkoSun 70",
+     "S8000, S9000",
+     "greenEvolution Flex, bluEvolution 82, bluEvolution 92",
+     "Voor het gebruik van andere systemen is contact met de verkoopafdeling vereist"
+    ]
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Binnendeuren catalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Buitendeuren_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/deuren/model-pvc-deuren/hero.webp",
+   "w": 1200,
+   "h": 1200
+  },
+  "variants": [
+   {
+    "name": null,
+    "slug": "alle",
+    "models": [
+     {
+      "code": "02",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/02.svg"
+     },
+     {
+      "code": "03",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/03.svg"
+     },
+     {
+      "code": "04",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/04.svg"
+     },
+     {
+      "code": "05",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/05.svg"
+     },
+     {
+      "code": "06",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/06.svg"
+     },
+     {
+      "code": "07",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/07.svg"
+     },
+     {
+      "code": "08",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/08.svg"
+     },
+     {
+      "code": "09",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/09.svg"
+     },
+     {
+      "code": "10",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/10.svg"
+     },
+     {
+      "code": "11",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/11.svg"
+     },
+     {
+      "code": "12",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/12.svg"
+     },
+     {
+      "code": "13",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/13.svg"
+     },
+     {
+      "code": "14",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/14.svg"
+     },
+     {
+      "code": "15",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/15.svg"
+     },
+     {
+      "code": "16",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/16.svg"
+     },
+     {
+      "code": "17",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/17.svg"
+     },
+     {
+      "code": "18",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/18.svg"
+     },
+     {
+      "code": "19",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/19.svg"
+     },
+     {
+      "code": "20",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/20.svg"
+     },
+     {
+      "code": "21",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/21.svg"
+     },
+     {
+      "code": "22",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/22.svg"
+     },
+     {
+      "code": "23",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/23.svg"
+     },
+     {
+      "code": "24",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/24.svg"
+     },
+     {
+      "code": "25",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/25.svg"
+     },
+     {
+      "code": "26",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/26.svg"
+     },
+     {
+      "code": "27",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/27.svg"
+     },
+     {
+      "code": "28",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/28.svg"
+     },
+     {
+      "code": "29",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/29.svg"
+     },
+     {
+      "code": "30",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/30.svg"
+     },
+     {
+      "code": "31",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/31.svg"
+     },
+     {
+      "code": "32",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/32.svg"
+     },
+     {
+      "code": "33",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/33.svg"
+     },
+     {
+      "code": "34",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/34.svg"
+     },
+     {
+      "code": "35",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/35.svg"
+     },
+     {
+      "code": "36",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/36.svg"
+     },
+     {
+      "code": "37",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/37.svg"
+     },
+     {
+      "code": "38",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/38.svg"
+     },
+     {
+      "code": "39",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/39.svg"
+     },
+     {
+      "code": "40",
+      "img": "/img/catalogus/deuren/model-pvc-deuren/alle/40.svg"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "slug": "vleugel-overdekkende-panelen-in-pvc",
+  "title": "Vleugel overdekkende panelen in PVC",
+  "bullets": [
+   "Up van 0,5 W/m²K",
+   "Paneelhoogte van 1500 tot 2270 mm (2280 mm voor gelakte panelen)",
+   "Paneelbreedte van 500 tot 990 mm",
+   "Paneeldikte van 36 tot 70 mm"
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De aantrekkelijke esthetiek van een volledig overdekt deurblad, een rijke kleurenselectie, beglazing en accessoires maken vleugel overdekkende panelen altijd opvallend. Het is een uitzonderlijk duurzame optie, met een stevige kern en een GFK-buitenplaat, die samen uitstekende prestatiekenmerken bieden."
+   },
+   {
+    "t": "h",
+    "x": "De 3 belangrijkste kenmerken van vleugel overdekkende panelen:"
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Zeer goede thermische en akoestische isolatie",
+     "GFK-plaat, die het gehele deurblad aan de buitenkant afdekt",
+     "Binnenplaat versierd met een omkadering in RVS of in de kleur van het paneel, wat vervanging van glas mogelijk maakt bij beschadiging"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Kies vleugel overdekkende panelen als:"
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Je op zoek bent naar warme en betrouwbare buitendeuren voor elk huis tegen een aantrekkelijke prijs",
+     "Je het perfecte ontwerp voor jezelf wilt kiezen uit vele kant-en-klare opties, die elk uniek opvallen met een afgedekt deurblad",
+     "Je de mogelijkheid wilt hebben, om elk element van je deuren aan te passen aan je individuele behoeften, van afmetingen en dikte tot kleursamenstelling en toebehoren, tot het type deurtrekker"
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Meer informatie over vleugel overdekkende panelen:"
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Het paneel bestaat uit een GFK-buitenplaat, een kern (thermisch isolerende sandwich met versterking), en een HPL-plaat aan de binnenkant",
+     "De GFK-plaat aan de buitenkant dekt het deurblad volledig af, vormt een oppervlakte zonder verspringingen en versterkt de structurele sterkte",
+     "Deurkruk aan de binnenkant",
+     "Deurtrekker aan de buitenkant, rechtstreeks gemonteerd op het paneel of ingebouwd in het paneel",
+     "Beglazing met maximaal driedubbele glaspaketten",
+     "Beglazing met een ruime keuze aan decoratieve ruiten",
+     "Bij modellen met een roestvrijstalen of zwarte omkadering rondom de beglazing aan de buitenkant, is deze omkadering ook standaard aan de binnenkant aanwezig",
+     "Bij modellen zonder omkadering rond de beglazing aan de buitenkant, is er aan de binnenkant rondom het glas een HPL-rand in de kleur van de binnenplaat",
+     "Decoratieve infrezingen in elke RAL K5 Classic kleur op de buitenkant van de deur",
+     "Omkaderingen in roestvrij staal, zwart of zilver, volledig geïntegreerd in het paneel (afhankelijk van het model)",
+     "Panelen afgewerkt met decoratieve folies of gelakt in kleuren van de RAL K5 Classic palette",
+     "Mogelijkheid om twee verschillende kleuren te gebruiken op geselecteerde panelen",
+     "De kleur van de binnenkant is onafhankelijk van de buitenkant"
+    ]
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Vleugel overdekkende panelen in PVC folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_PVC-overlay-panelen_NL.pdf"
+   },
+   {
+    "t": "Binnendeuren catalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Buitendeuren_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/hero.webp",
+   "w": 1200,
+   "h": 1200
+  },
+  "variants": [
+   {
+    "name": null,
+    "slug": "alle",
+    "models": [
+     {
+      "code": "Aida",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/aida.svg"
+     },
+     {
+      "code": "Amanda",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/amanda.svg"
+     },
+     {
+      "code": "Amelie",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/amelie.svg"
+     },
+     {
+      "code": "Aneta",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/aneta.svg"
+     },
+     {
+      "code": "Angelika",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/angelika.svg"
+     },
+     {
+      "code": "Barbara",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/barbara.svg"
+     },
+     {
+      "code": "Brigitte",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/brigitte.svg"
+     },
+     {
+      "code": "Denisa",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/denisa.svg"
+     },
+     {
+      "code": "Donatela",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/donatela.svg"
+     },
+     {
+      "code": "Doris",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/doris.svg"
+     },
+     {
+      "code": "Ester",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/ester.svg"
+     },
+     {
+      "code": "Flavia",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/flavia.svg"
+     },
+     {
+      "code": "Flora",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/flora.svg"
+     },
+     {
+      "code": "Gita",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/gita.svg"
+     },
+     {
+      "code": "Ida",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/ida.svg"
+     },
+     {
+      "code": "Isabela",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/isabela.svg"
+     },
+     {
+      "code": "Kim",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/kim.svg"
+     },
+     {
+      "code": "Kira",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/kira.svg"
+     },
+     {
+      "code": "Laura",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/laura.svg"
+     },
+     {
+      "code": "Lily",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/lily.svg"
+     },
+     {
+      "code": "Manon",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/manon.svg"
+     },
+     {
+      "code": "Marion",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/marion.svg"
+     },
+     {
+      "code": "Megan",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/megan.svg"
+     },
+     {
+      "code": "Milena",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/milena.svg"
+     },
+     {
+      "code": "Miranda",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/miranda.svg"
+     },
+     {
+      "code": "Miriam",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/miriam.svg"
+     },
+     {
+      "code": "Mirka",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/mirka.svg"
+     },
+     {
+      "code": "Nela",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/nela.svg"
+     },
+     {
+      "code": "Odette",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/odette.svg"
+     },
+     {
+      "code": "Paris",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/paris.svg"
+     },
+     {
+      "code": "Patricie",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/patricie.svg"
+     },
+     {
+      "code": "Penelope",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/penelope.svg"
+     },
+     {
+      "code": "Radana",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/radana.svg"
+     },
+     {
+      "code": "Raisa",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/raisa.svg"
+     },
+     {
+      "code": "Rosalie",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/rosalie.svg"
+     },
+     {
+      "code": "Sarah",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/sarah.svg"
+     },
+     {
+      "code": "Sofie",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/sofie.svg"
+     },
+     {
+      "code": "Tania",
+      "img": "/img/catalogus/deuren/vleugel-overdekkende-panelen-in-pvc/alle/tania.svg"
+     }
+    ]
+   }
+  ]
+ }
+]

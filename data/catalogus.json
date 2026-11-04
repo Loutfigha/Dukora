@@ -1,0 +1,5111 @@
+[
+ {
+  "cat": "pvc-ramen",
+  "sub": null,
+  "slug": "ideal-7000-nl",
+  "title": "Ideal 7000 NL",
+  "tags": [
+   "PVC",
+   "aluplast",
+   "Ramen"
+  ],
+  "bullets": [
+   "KOMO certificaat",
+   "inbouwdiepte 120 mm",
+   "beglazing tot 52 mm (standaard 24 mm)",
+   "2 anti-slam punten per vleugel",
+   "standaard gesloten staal in het frame",
+   "beschikbare kernkleuren: crème, wit, antraciet"
+  ],
+  "numbers": [
+   {
+    "n": "0,76",
+    "l": "Uw voor Ug = 0,5 (Swiss spacer Ultimate)*"
+   },
+   {
+    "n": "2",
+    "l": "afdichtingen"
+   },
+   {
+    "n": "5/6",
+    "l": "kamer"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De IDEAL is een zeer populair systeem voor warme schrijnwerksystemen. Met hun verschillende opties zijn ze geïnstalleerd in miljoenen huizen over de hele wereld. Gebruikers waarderen het om zijn thermische en akoestische isolatieparameters samengevoegd met de uitstekende prijs/prestatieverhouding."
+   },
+   {
+    "t": "p",
+    "x": "De IDEAL 7000 NL is een uitvoering van het systeem die speciaal voor de Nederlandse markt is ontwikkeld. De profielen kunnen onder een hoek van 45 graden worden gelast met behulp van de esthetische technieken van V-super of 90 graden met de HVL-technologie. Door dit type laswerk lijken de ramen meer op houten constructies."
+   },
+   {
+    "t": "p",
+    "x": "De ramen kunnen worden besteld in effen kleuren of met een houtnerf patroon. De folies kunnen aan de binnen- en buitenkant van het raam worden geplaatst. Dankzij het feit dat ze onafhankelijk kunnen worden gekozen, passen de IDEAL 7000 NL ramen gemakkelijk bij elke gevel en elk interieur."
+   },
+   {
+    "t": "p",
+    "x": "Het systeem heeft een KOMO-certificaat en heeft een inbraakwerendheidsklasse RC2 (volgens de norm EN 1627 / NEN 5096)."
+   },
+   {
+    "t": "p",
+    "x": "*De bovenstaande Uw-waarde is gegeven voor een referentieraam van 1230 x 1480 mm."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-ramen/ideal-7000-nl.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "synego-slide",
+  "title": "Synego Slide",
+  "tags": [
+   "PVC",
+   "Rehau",
+   "Schuifsystemen"
+  ],
+  "bullets": [
+   "Inbouwdiepte 156 mm",
+   "Beglazing met pakketten tot 51 mm",
+   "5 anti-inbraakpunten als standaard",
+   "Breed scala aan basiskleuren"
+  ],
+  "numbers": [
+   {
+    "n": "0,73",
+    "l": "Uw voor Ug = 0,5 (Ultimate afstandhouder)"
+   },
+   {
+    "n": "1",
+    "l": "Rails"
+   },
+   {
+    "n": "5",
+    "l": "Kamers"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het PVC-schuifsysteem werkt vooral goed als alternatief voor klassieke balkondeuren. Met behoud van zeer goede thermische en akoestische parameters, kunt u het gebruik van de ruimte optimaliseren en de hoeveelheid natuurlijk licht dat het interieur binnenkomt vergroten. De bediening is handig en vereist, vanwege de relatief kleine afmetingen van de constructie, niet veel kracht."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Het is een moderner alternatief voor typische balkondeuren en PSK-oplossingen, met behoud van zeer goede prestatieparameters",
+     "De structuur is zeer eenvoudig, wat zich vertaalt in een lager risico op schade tijdens transport, eenvoudigere installatie en eenvoudigere bediening",
+     "Maakt het gebruik van triple-beglazing eenheden mogelijk, die samen met warme profielen zorgen voor thermisch comfort binnen"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Andere Synego-producten kiest en volledige esthetische consistentie van al zijn schrijnwerk verwacht",
+     "Rekent op een hoge duurzaamheid van het schrijnwerk en de eenvoudige reiniging, wat wordt gegarandeerd door de High-Definition Finishing profiel afwerking technologie",
+     "Extra inbraakbeveiliging waardeert die wordt geboden door beslag met anti-inbraak nokken"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Beschikbaar in schema A",
+     "Profiel warmteoverdrachtscoëfficiënt: Uf vanaf 1,30 W/m²K",
+     "Akoestische isolatie: Rw(C;Ctr) tot 44 (-1,-3) dB",
+     "HDF-profiel afwerking – gladder en duurzamer oppervlak",
+     "Esthetische V-Super lassen met hoge duurzaamheid",
+     "Wind Belastingsweerstand: tot klasse B3",
+     "Waterdichtheid: tot klasse 8A",
+     "Luchtdoorlatendheid: tot klasse 4",
+     "Profielhoogte – frame/vleugel: 65/101 mm mm",
+     "Profieldiepte – frame/vleugel: 156/80 mm",
+     "Maximale vleugelmaat 2000 x 2500 mm (breedte x hoogte)",
+     "Maximale breedte van de gehele constructie: 4 m",
+     "Maximaal vleugelgewicht: 200 kg",
+     "EcoPuls-certificaat – garantie voor het gebruik van 40 tot 75% gerecycled materiaal in profielen"
+    ]
+   }
+  ],
+  "colors": [
+   {
+    "name": "REH 01",
+    "img": "/img/catalogus/kleuren/ae1d438cce.webp"
+   },
+   {
+    "name": "REH 02",
+    "img": "/img/catalogus/kleuren/c2ab57d517.webp"
+   },
+   {
+    "name": "REH 03",
+    "img": "/img/catalogus/kleuren/9802731b20.webp"
+   },
+   {
+    "name": "REH 04",
+    "img": "/img/catalogus/kleuren/3c89990071.webp"
+   },
+   {
+    "name": "REH 05",
+    "img": "/img/catalogus/kleuren/d23ab4f1d8.webp"
+   },
+   {
+    "name": "REH 06",
+    "img": "/img/catalogus/kleuren/714ea10f63.webp"
+   },
+   {
+    "name": "REH 07",
+    "img": "/img/catalogus/kleuren/c11b104e32.webp"
+   },
+   {
+    "name": "REH 08",
+    "img": "/img/catalogus/kleuren/f3268993d9.webp"
+   },
+   {
+    "name": "REH 09",
+    "img": "/img/catalogus/kleuren/f66998b135.webp"
+   },
+   {
+    "name": "REH 10",
+    "img": "/img/catalogus/kleuren/72d6d9faae.webp"
+   },
+   {
+    "name": "REH 11",
+    "img": "/img/catalogus/kleuren/459a86d767.webp"
+   },
+   {
+    "name": "REH 12",
+    "img": "/img/catalogus/kleuren/ef94db4d81.webp"
+   },
+   {
+    "name": "REH 13",
+    "img": "/img/catalogus/kleuren/6d8cc1e266.webp"
+   },
+   {
+    "name": "REH 14",
+    "img": "/img/catalogus/kleuren/a997d39f1d.webp"
+   },
+   {
+    "name": "REH 15",
+    "img": "/img/catalogus/kleuren/f081c5b261.webp"
+   },
+   {
+    "name": "REH 16",
+    "img": "/img/catalogus/kleuren/283177d80d.webp"
+   },
+   {
+    "name": "REH 17",
+    "img": "/img/catalogus/kleuren/9b51685c2e.webp"
+   },
+   {
+    "name": "REH 18",
+    "img": "/img/catalogus/kleuren/c0c0c47b1e.webp"
+   },
+   {
+    "name": "REH 19",
+    "img": "/img/catalogus/kleuren/de0393c578.webp"
+   },
+   {
+    "name": "REH 20",
+    "img": "/img/catalogus/kleuren/cd6b2bfe7c.webp"
+   },
+   {
+    "name": "REH 21",
+    "img": "/img/catalogus/kleuren/c89e4c7d61.webp"
+   },
+   {
+    "name": "REH 22",
+    "img": "/img/catalogus/kleuren/f8b9573c9a.webp"
+   },
+   {
+    "name": "REH 23",
+    "img": "/img/catalogus/kleuren/ed6b672cff.webp"
+   },
+   {
+    "name": "REH 24",
+    "img": "/img/catalogus/kleuren/053a1dc388.webp"
+   },
+   {
+    "name": "REH 25",
+    "img": "/img/catalogus/kleuren/e8b8cd5b14.webp"
+   },
+   {
+    "name": "REH 26",
+    "img": "/img/catalogus/kleuren/482d127ba9.webp"
+   },
+   {
+    "name": "REH 27",
+    "img": "/img/catalogus/kleuren/d322975213.webp"
+   },
+   {
+    "name": "REH 28",
+    "img": "/img/catalogus/kleuren/31abc1d757.webp"
+   },
+   {
+    "name": "REH 29",
+    "img": "/img/catalogus/kleuren/0dac9c2814.webp"
+   },
+   {
+    "name": "REH 30",
+    "img": "/img/catalogus/kleuren/21f7c2bdc2.webp"
+   },
+   {
+    "name": "REH 31",
+    "img": "/img/catalogus/kleuren/8b7483a307.webp"
+   },
+   {
+    "name": "REH 32",
+    "img": "/img/catalogus/kleuren/fd31af828f.webp"
+   },
+   {
+    "name": "REH 33",
+    "img": "/img/catalogus/kleuren/f5afe206b3.webp"
+   },
+   {
+    "name": "REH 34",
+    "img": "/img/catalogus/kleuren/76f2a99b01.webp"
+   },
+   {
+    "name": "REH 35",
+    "img": "/img/catalogus/kleuren/5bd1d48b8c.webp"
+   },
+   {
+    "name": "REH 36",
+    "img": "/img/catalogus/kleuren/5f394d4092.webp"
+   },
+   {
+    "name": "REH 37",
+    "img": "/img/catalogus/kleuren/21a5eb2fe9.webp"
+   },
+   {
+    "name": "REH 38",
+    "img": "/img/catalogus/kleuren/dbfc35e5c3.webp"
+   },
+   {
+    "name": "REH 39",
+    "img": "/img/catalogus/kleuren/ebeebf4d4a.webp"
+   },
+   {
+    "name": "REH 40",
+    "img": "/img/catalogus/kleuren/068914ebfa.webp"
+   },
+   {
+    "name": "REH 41",
+    "img": "/img/catalogus/kleuren/3be0a3cc50.webp"
+   },
+   {
+    "name": "REH 42",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "REH 43",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "REH 44",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Synego folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Synego_NL.pdf"
+   },
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/synego-slide.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "synego-hst",
+  "title": "Synego HST",
+  "tags": [
+   "PVC",
+   "Rehau",
+   "Schuifsystemen"
+  ],
+  "bullets": [
+   "Inbouwdiepte 190 mm",
+   "Beglazing met pakketten tot 51 mm",
+   "Standaard 5 anti-inbraakpunten",
+   "Breed scala aan basiskleuren",
+   "Het systeem is verkrijgbaar in de schema's A, C, G"
+  ],
+  "numbers": [
+   {
+    "n": "0,86",
+    "l": "Uw voor Ug = 0,5 (Ultimate afstandhouder)"
+   },
+   {
+    "n": "1–2",
+    "l": "Rails"
+   },
+   {
+    "n": "5",
+    "l": "Kamers"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het Synego HST-hefschuifsysteem vormt de perfecte balans tussen esthetiek en functionaliteit binnen de productfamilie. Het biedt uitstekende thermische isolatie-eigenschappen, beschermt effectief tegen lawaai en het bedienen van de vleugels is relatief eenvoudig. Grote beglazing en een onberispelijk oppervlak van profielen gemaakt met HDF-technologie zijn een enorme meerwaarde voor elk interieur."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Biedt slanke profielen die passen in moderne interieurs, verkrijgbaar in een breed scala aan basiskleuren",
+     "Biedt uitstekende gebruikersparameters die kenmerkend zijn voor hoogwaardige HST-oplossingen, waaronder veel natuurlijk licht en ruimtebesparing",
+     "Is een perfecte aanvulling op Synego PVC-ramen, waarmee het een harmonieus stilistisch geheel kan vormen"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Thermisch en akoestisch comfort in het interieur verwacht bij het gebruik van een groot schuifsysteem",
+     "Op zoek is naar de hoogste kwaliteit profiel afwerking, die alleen wordt geboden door esthetische V-Perfect lassen en High-Definition Finishing, een technologie die het mogelijk maakt poriën in profielen te sluiten, hun duurzaamheid te verhogen en het schoonmaken te vergemakkelijken",
+     "Geïnteresseerd is in een verhoogde veiligheidsstandaard, maar geen behoefte heeft om bij te betalen voor aanzienlijk duurdere inbraakwerende RC-klassen"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Beschikbaar in schema: A, C, G",
+     "Profiel Warmteoverdrachtscoëfficiënt: Uf vanaf 1,30 W/m²K",
+     "Geluidsisolatie: Rw(C;Ctr) tot 43 (-1,-3) dB",
+     "HDF-profielafwerking – gladder en duurzamer oppervlak",
+     "V-Perfect lassen met verhoogde duurzaamheid en betere esthetiek",
+     "Windbelastingsweerstand: tot klasse B3",
+     "Waterdichtheid: tot klasse 9A",
+     "Luchtdoorlatendheid: tot klasse 4",
+     "Vleugel/kozijnprofielvouw hoogte: 179 mm",
+     "Maximale vleugelafmetingen 3000 x 2600 mm (breedte x hoogte)",
+     "Maximale breedte van de hele structuur: 10 m",
+     "Maximaal vleugelgewicht: 400 kg (tandem)",
+     "EcoPuls certificaat – garantie dat in profielen 40 tot 75% gerecycled materiaal wordt gebruikt"
+    ]
+   }
+  ],
+  "colors": [
+   {
+    "name": "REH 01",
+    "img": "/img/catalogus/kleuren/ae1d438cce.webp"
+   },
+   {
+    "name": "REH 02",
+    "img": "/img/catalogus/kleuren/c2ab57d517.webp"
+   },
+   {
+    "name": "REH 03",
+    "img": "/img/catalogus/kleuren/9802731b20.webp"
+   },
+   {
+    "name": "REH 04",
+    "img": "/img/catalogus/kleuren/3c89990071.webp"
+   },
+   {
+    "name": "REH 05",
+    "img": "/img/catalogus/kleuren/d23ab4f1d8.webp"
+   },
+   {
+    "name": "REH 06",
+    "img": "/img/catalogus/kleuren/714ea10f63.webp"
+   },
+   {
+    "name": "REH 07",
+    "img": "/img/catalogus/kleuren/c11b104e32.webp"
+   },
+   {
+    "name": "REH 08",
+    "img": "/img/catalogus/kleuren/f3268993d9.webp"
+   },
+   {
+    "name": "REH 09",
+    "img": "/img/catalogus/kleuren/f66998b135.webp"
+   },
+   {
+    "name": "REH 10",
+    "img": "/img/catalogus/kleuren/72d6d9faae.webp"
+   },
+   {
+    "name": "REH 11",
+    "img": "/img/catalogus/kleuren/459a86d767.webp"
+   },
+   {
+    "name": "REH 12",
+    "img": "/img/catalogus/kleuren/ef94db4d81.webp"
+   },
+   {
+    "name": "REH 13",
+    "img": "/img/catalogus/kleuren/6d8cc1e266.webp"
+   },
+   {
+    "name": "REH 14",
+    "img": "/img/catalogus/kleuren/a997d39f1d.webp"
+   },
+   {
+    "name": "REH 15",
+    "img": "/img/catalogus/kleuren/f081c5b261.webp"
+   },
+   {
+    "name": "REH 16",
+    "img": "/img/catalogus/kleuren/283177d80d.webp"
+   },
+   {
+    "name": "REH 17",
+    "img": "/img/catalogus/kleuren/9b51685c2e.webp"
+   },
+   {
+    "name": "REH 18",
+    "img": "/img/catalogus/kleuren/c0c0c47b1e.webp"
+   },
+   {
+    "name": "REH 19",
+    "img": "/img/catalogus/kleuren/de0393c578.webp"
+   },
+   {
+    "name": "REH 20",
+    "img": "/img/catalogus/kleuren/cd6b2bfe7c.webp"
+   },
+   {
+    "name": "REH 21",
+    "img": "/img/catalogus/kleuren/c89e4c7d61.webp"
+   },
+   {
+    "name": "REH 22",
+    "img": "/img/catalogus/kleuren/f8b9573c9a.webp"
+   },
+   {
+    "name": "REH 23",
+    "img": "/img/catalogus/kleuren/ed6b672cff.webp"
+   },
+   {
+    "name": "REH 24",
+    "img": "/img/catalogus/kleuren/053a1dc388.webp"
+   },
+   {
+    "name": "REH 25",
+    "img": "/img/catalogus/kleuren/e8b8cd5b14.webp"
+   },
+   {
+    "name": "REH 26",
+    "img": "/img/catalogus/kleuren/482d127ba9.webp"
+   },
+   {
+    "name": "REH 27",
+    "img": "/img/catalogus/kleuren/d322975213.webp"
+   },
+   {
+    "name": "REH 28",
+    "img": "/img/catalogus/kleuren/31abc1d757.webp"
+   },
+   {
+    "name": "REH 29",
+    "img": "/img/catalogus/kleuren/0dac9c2814.webp"
+   },
+   {
+    "name": "REH 30",
+    "img": "/img/catalogus/kleuren/21f7c2bdc2.webp"
+   },
+   {
+    "name": "REH 31",
+    "img": "/img/catalogus/kleuren/8b7483a307.webp"
+   },
+   {
+    "name": "REH 32",
+    "img": "/img/catalogus/kleuren/fd31af828f.webp"
+   },
+   {
+    "name": "REH 33",
+    "img": "/img/catalogus/kleuren/f5afe206b3.webp"
+   },
+   {
+    "name": "REH 34",
+    "img": "/img/catalogus/kleuren/76f2a99b01.webp"
+   },
+   {
+    "name": "REH 35",
+    "img": "/img/catalogus/kleuren/5bd1d48b8c.webp"
+   },
+   {
+    "name": "REH 36",
+    "img": "/img/catalogus/kleuren/5f394d4092.webp"
+   },
+   {
+    "name": "REH 37",
+    "img": "/img/catalogus/kleuren/21a5eb2fe9.webp"
+   },
+   {
+    "name": "REH 38",
+    "img": "/img/catalogus/kleuren/dbfc35e5c3.webp"
+   },
+   {
+    "name": "REH 39",
+    "img": "/img/catalogus/kleuren/ebeebf4d4a.webp"
+   },
+   {
+    "name": "REH 40",
+    "img": "/img/catalogus/kleuren/068914ebfa.webp"
+   },
+   {
+    "name": "REH 41",
+    "img": "/img/catalogus/kleuren/3be0a3cc50.webp"
+   },
+   {
+    "name": "REH 42",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "REH 43",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "REH 44",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Synego folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Synego_NL.pdf"
+   },
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/synego-hst.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "harmonicasysteem",
+  "title": "Harmonicasysteem",
+  "tags": [
+   "PVC",
+   "schuifsystemen",
+   "Harmonicasysteem"
+  ],
+  "bullets": [
+   "constructies bestaande uit 3 tot 6 vleugels",
+   "mogelijkheid tot het bouwen van structuren tot 5300 mm lengte",
+   "vleugelgewicht tot 80 kg",
+   "accordeonconstructies gebaseerd op het Ideal 4000 systeem"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het vouwsysteem is de ideale verbinding tussen het interieur en de tuin, het balkon of het terras. Ze zijn uiterst gemakkelijk in het gebruik en zullen zelfs de meest veeleisende gebruikers verleiden met hun eigenschappen. Het systeem is verkrijgbaar in een brede waaier van kleuren."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/harmonicasysteem.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "patio",
+  "title": "Patio",
+  "tags": [
+   "PVC",
+   "aluplast",
+   "schuifsystemen"
+  ],
+  "bullets": [
+   "basis schuifdeursysteem",
+   "microventilatie in de hoek van de actieve vleugel als standaard",
+   "mogelijkheid om kantelsteun met handvat te installeren",
+   "trekhendel hoeken"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "PSK deuren zijn een alternatief voor balkonramen. Dit systeem maakt zowel schuiven als kantelen van de vleugel mogelijk. Door het gebruik van speciale looprails opent het systeem niet naar binnen, waardoor ruimte in de ruimte wordt bespaard."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/patio.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "easy-slide-st60",
+  "title": "Easy Slide ST60",
+  "tags": [
+   "PVC",
+   "aluplast",
+   "schuifsystemen"
+  ],
+  "bullets": [
+   "inbouwdiepte 60 mm",
+   "beglazingspakketten met breedten van 4 tot 20 mm",
+   "eenvoudige schuifraamfunctie",
+   "max gewicht vleugel - 60 kg"
+  ],
+  "numbers": [
+   {
+    "n": "1-2",
+    "l": "Rails"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het Easy Slide systeem garandeert een ruimtebesparende interieurinrichting. Aanbevolen voor kleinere schuifdeuren. Een van de meest economische schuifsystemen."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/easy-slide-st60.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "multi-slide-st80",
+  "title": "Multi Slide ST80",
+  "tags": [
+   "PVC",
+   "Schuifsystemen",
+   "aluplast"
+  ],
+  "bullets": [
+   "beglazing met pakketjes met een breedte van 4 tot 33 mm",
+   "maximale afmeting van schuifdeur - 3200 x 2200 mm",
+   "maximum gewicht van 60 kg per vleugel",
+   "maximale vleugelafmetingen - 700 x 2300 mm of 1300 x 1950 mm",
+   "eenvoudige schuifraamfunctie"
+  ],
+  "numbers": [
+   {
+    "n": "2-3",
+    "l": "Rails"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het economisch geprijsde Multi Slide schuifraamsysteem is uiterst ruimtebesparend. Speciaal ontworpen voor kleine kamers waar het gebruik van balkondeuren niet mogelijk is."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/multi-slide-st80.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "smart-slide",
+  "title": "Smart Slide",
+  "tags": [
+   "PVC",
+   "schuifsystemen",
+   "aluplast"
+  ],
+  "bullets": [
+   "inbouwdiepte 140 mm",
+   "beglazing met pakketten met een breedte tot 42 mm",
+   "maximum afmeting van de vleugel - 1,5 x 2,3 m",
+   "design classic-line",
+   "systeem uitgerust met TPE-afdichtingen"
+  ],
+  "numbers": [
+   {
+    "n": "1",
+    "l": "Rails"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Eenvoudige en intuïtieve bediening ingesloten in het Smart Slide systeem. Het innovatieve sluitmechanisme maakt dit systeem vergelijkbaar met de oplossingen die in hefschuifdeuren worden gebruikt."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/smart-slide.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "hst-85",
+  "title": "HST 85",
+  "tags": [
+   "PVC",
+   "schuifsystemen",
+   "aluplast"
+  ],
+  "bullets": [
+   "inbouwdiepte 197 mm",
+   "max vleugelgewicht 400 kg",
+   "maximale bouwafmeting - 6700 x 2700 mm (witte uitvoering)*",
+   "maximale structuurafmeting - 6700 x 2500 mm (kleurenstructuur)*",
+   "mogelijkheid om een elektrische aandrijving te gebruiken (schema A)"
+  ],
+  "numbers": [
+   {
+    "n": "1-2",
+    "l": "Rails"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Energie-efficiënt schuifdeursysteem. Het maakt groot formaat beglazing mogelijk met behoud van de beste thermische isolatieparameters. Als enige van de HST-systemen kunnen er Aluskin aluminium overlays op worden aangebracht."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/hst-85.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "evolutiondrive-sf",
+  "title": "evolutionDrive SF",
+  "tags": [
+   "PVC",
+   "schuifsystemen",
+   "Salamander"
+  ],
+  "bullets": [
+   "inbouwdiepte 76 mm",
+   "beglazing met pakketten tot 28 mm",
+   "maximale vleugelafmetingen (BxH) – 1700 x 2400 mm",
+   "maximale constructie afmetingen – 3500 x 2480 mm*",
+   "maximaal vleugelgewicht – 120 kg",
+   "breed scala aan folies"
+  ],
+  "numbers": [
+   {
+    "n": "1,3",
+    "l": "Uw voor Ug = 1,0 (Ultimate afstandhouder)**"
+   },
+   {
+    "n": "1",
+    "l": "Rails"
+   },
+   {
+    "n": "3",
+    "l": "Kamers"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "evolutionDrive SF is een gebruiksvriendelijk schuifsysteem met borstelafdichtingen, ontworpen voor gebruik in warme klimaten en gemaakt met maximale veelzijdigheid in gedachten. Het werkt goed in commerciële en privéruimtes, inclusief kleine ruimtes, waar het bruikbare ruimte bespaart, waardoor het gemakkelijker te regelen is. Het is de perfecte aanvulling op bluEvolution en greenEvolution ramen."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Bespaart bruikbare ruimte in kleine huizen en appartementen en in openbare gebouwen",
+     "Vergemakkelijkt de ventilatie van de kamer dankzij de mogelijkheid om de beweegbare vleugel in elke positie te zetten, waardoor een luchtstroom met de gewenste intensiteit wordt gegarandeerd",
+     "Biedt grote beglazing die een betere verlichting van interieurs met natuurlijk zonlicht mogelijk maakt"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Van plan is om volledig compatibele greenEvolution raam- en deursystemen te gebruiken en een perfecte esthetische consistentie verwacht",
+     "Op zoek is naar eenvoudige oplossingen met grote mogelijkheden die een gemakkelijke controle van de investeringskosten mogelijk maken",
+     "HST-oplossingen niet kan gebruiken vanwege technische redenen en de bouwomstandigheden in zijn huis of appartement lichtere systemen vereisen"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Beschikbaar in de schema's A, C, D",
+     "Profiel warmteoverdrachtscoëfficiënt: Uf vanaf 1,80 W/m²K",
+     "Geluidsisolatie: Rw(C;Ctr) tot 44 (-1,-3) dB",
+     "Esthetische V-Super lassen met hoge duurzaamheid",
+     "Borstelafdichtingen",
+     "Profielhoogte – frame/vleugel: 52/88 mm",
+     "Profiel diepte – frame 76 mm",
+     "Maximale breedte van de gehele constructie: 3500 mm"
+    ]
+   },
+   {
+    "t": "p",
+    "x": "*maximale constructieoppervlakte: 6 m² **Uw-waarde wordt gegeven voor een referentie segment met afmetingen 2180 x 1480 mm"
+   }
+  ],
+  "colors": [
+   {
+    "name": "SAL-03",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "SAL-06",
+    "img": "/img/catalogus/kleuren/327289a94f.webp"
+   },
+   {
+    "name": "SAL-08",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "SAL-10",
+    "img": "/img/catalogus/kleuren/e989dc60a0.webp"
+   },
+   {
+    "name": "SAL-11",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "SAL-18",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "SAL-19",
+    "img": "/img/catalogus/kleuren/735eb537a4.webp"
+   },
+   {
+    "name": "SAL-21",
+    "img": "/img/catalogus/kleuren/b09547cea1.webp"
+   },
+   {
+    "name": "SAL-25",
+    "img": "/img/catalogus/kleuren/9369e5f328.webp"
+   },
+   {
+    "name": "SAL-26",
+    "img": "/img/catalogus/kleuren/8bf9d5859d.webp"
+   },
+   {
+    "name": "SAL-27",
+    "img": "/img/catalogus/kleuren/a1fa498f4a.webp"
+   },
+   {
+    "name": "SAL-30",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "SAL-33",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "SAL-34",
+    "img": "/img/catalogus/kleuren/296fe2ba70.webp"
+   },
+   {
+    "name": "SAL-37",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "SAL-39",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "SAL-42",
+    "img": "/img/catalogus/kleuren/4cf0955cf6.webp"
+   },
+   {
+    "name": "SAL-43",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "SAL-44",
+    "img": "/img/catalogus/kleuren/e1a2d17c7a.webp"
+   },
+   {
+    "name": "SAL-50",
+    "img": "/img/catalogus/kleuren/2d1d028cf8.webp"
+   },
+   {
+    "name": "SAL-51",
+    "img": "/img/catalogus/kleuren/4be4f2287e.webp"
+   },
+   {
+    "name": "SAL-52",
+    "img": "/img/catalogus/kleuren/26d352ea1d.webp"
+   },
+   {
+    "name": "SAL-55 (70)",
+    "img": "/img/catalogus/kleuren/494962c085.webp"
+   },
+   {
+    "name": "SAL-59",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "SAL-69",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "SAL-71",
+    "img": "/img/catalogus/kleuren/9963d53054.webp"
+   },
+   {
+    "name": "SAL-72",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "SAL-73",
+    "img": "/img/catalogus/kleuren/ff38e9ee2d.webp"
+   },
+   {
+    "name": "SAL-74",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "SAL-77",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "SAL-78",
+    "img": "/img/catalogus/kleuren/d6c60af2d9.webp"
+   },
+   {
+    "name": "SAL-84",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "SAL-87",
+    "img": "/img/catalogus/kleuren/89230816a4.webp"
+   },
+   {
+    "name": "SAL-88",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "SAL-90",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "SAL-91",
+    "img": "/img/catalogus/kleuren/8245d118ba.webp"
+   },
+   {
+    "name": "SAL-92",
+    "img": "/img/catalogus/kleuren/bbad4d8ea0.webp"
+   },
+   {
+    "name": "SAL-95",
+    "img": "/img/catalogus/kleuren/c4ce556a6e.webp"
+   },
+   {
+    "name": "SAL-96",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "SAL-98",
+    "img": "/img/catalogus/kleuren/51fe31534b.webp"
+   },
+   {
+    "name": "SAL-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "SAL-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "SAL-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "SAL-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "SAL-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "SAL-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "SAL-113",
+    "img": "/img/catalogus/kleuren/cc085e8203.webp"
+   },
+   {
+    "name": "SAL-115",
+    "img": "/img/catalogus/kleuren/a411bca84c.webp"
+   },
+   {
+    "name": "SAL-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "SAL-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/evolutiondrive-sf.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "evolutiondrive-82",
+  "title": "EvolutionDrive 82",
+  "tags": [
+   "PVC",
+   "schuifsystemen",
+   "Salamander"
+  ],
+  "bullets": [
+   "inbouwdiepte 194 mm",
+   "beglazingspakket breedte tot 52 mm",
+   "basiskleur: wit of crème",
+   "vleugelbreedte 82 mm",
+   "mogelijkheid om lage drempel te plaatsen",
+   "mogelijkheid tot toepassing van aluminium deklagen (schema's A , C , D , G , K)",
+   "mogelijkheid om een elektrische aandrijving te gebruiken (schema A)"
+  ],
+  "numbers": [
+   {
+    "n": "1-2",
+    "l": "Rails"
+   },
+   {
+    "n": "5",
+    "l": "Kamer"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Een hefschuifdeursysteem dat de productie van grote glasoppervlakken mogelijk maakt met behoud van zeer goede thermische prestaties. Kenmerkend voor het systeem is de mogelijkheid het uit te rusten met een lage drempel, waardoor het gebruik van barrièrevrije bouwoplossingen mogelijk wordt."
+   }
+  ],
+  "colors": [
+   {
+    "name": "SAL-03",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "SAL-06",
+    "img": "/img/catalogus/kleuren/327289a94f.webp"
+   },
+   {
+    "name": "SAL-08",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "SAL-10",
+    "img": "/img/catalogus/kleuren/e989dc60a0.webp"
+   },
+   {
+    "name": "SAL-11",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "SAL-18",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "SAL-19",
+    "img": "/img/catalogus/kleuren/735eb537a4.webp"
+   },
+   {
+    "name": "SAL-21",
+    "img": "/img/catalogus/kleuren/b09547cea1.webp"
+   },
+   {
+    "name": "SAL-25",
+    "img": "/img/catalogus/kleuren/9369e5f328.webp"
+   },
+   {
+    "name": "SAL-26",
+    "img": "/img/catalogus/kleuren/8bf9d5859d.webp"
+   },
+   {
+    "name": "SAL-27",
+    "img": "/img/catalogus/kleuren/a1fa498f4a.webp"
+   },
+   {
+    "name": "SAL-30",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "SAL-33",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "SAL-34",
+    "img": "/img/catalogus/kleuren/296fe2ba70.webp"
+   },
+   {
+    "name": "SAL-37",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "SAL-39",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "SAL-42",
+    "img": "/img/catalogus/kleuren/4cf0955cf6.webp"
+   },
+   {
+    "name": "SAL-43",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "SAL-44",
+    "img": "/img/catalogus/kleuren/e1a2d17c7a.webp"
+   },
+   {
+    "name": "SAL-50",
+    "img": "/img/catalogus/kleuren/2d1d028cf8.webp"
+   },
+   {
+    "name": "SAL-51",
+    "img": "/img/catalogus/kleuren/4be4f2287e.webp"
+   },
+   {
+    "name": "SAL-52",
+    "img": "/img/catalogus/kleuren/26d352ea1d.webp"
+   },
+   {
+    "name": "SAL-55 (70)",
+    "img": "/img/catalogus/kleuren/494962c085.webp"
+   },
+   {
+    "name": "SAL-59",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "SAL-69",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "SAL-71",
+    "img": "/img/catalogus/kleuren/9963d53054.webp"
+   },
+   {
+    "name": "SAL-72",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "SAL-73",
+    "img": "/img/catalogus/kleuren/ff38e9ee2d.webp"
+   },
+   {
+    "name": "SAL-74",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "SAL-77",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "SAL-78",
+    "img": "/img/catalogus/kleuren/d6c60af2d9.webp"
+   },
+   {
+    "name": "SAL-84",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "SAL-87",
+    "img": "/img/catalogus/kleuren/89230816a4.webp"
+   },
+   {
+    "name": "SAL-88",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "SAL-90",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "SAL-91",
+    "img": "/img/catalogus/kleuren/8245d118ba.webp"
+   },
+   {
+    "name": "SAL-92",
+    "img": "/img/catalogus/kleuren/bbad4d8ea0.webp"
+   },
+   {
+    "name": "SAL-95",
+    "img": "/img/catalogus/kleuren/c4ce556a6e.webp"
+   },
+   {
+    "name": "SAL-96",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "SAL-98",
+    "img": "/img/catalogus/kleuren/51fe31534b.webp"
+   },
+   {
+    "name": "SAL-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "SAL-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "SAL-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "SAL-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "SAL-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "SAL-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "SAL-113",
+    "img": "/img/catalogus/kleuren/cc085e8203.webp"
+   },
+   {
+    "name": "SAL-115",
+    "img": "/img/catalogus/kleuren/a411bca84c.webp"
+   },
+   {
+    "name": "SAL-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "SAL-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/evolutiondrive-82.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "ekosun-hst",
+  "title": "EkoSun HST",
+  "tags": [
+   "PVC",
+   "Schuifsystemen",
+   "EkoSun"
+  ],
+  "bullets": [
+   "vleugelhoogte 100 mm",
+   "maximale bouwhoogte 2,85 m",
+   "maximaal draagvermogen van de vleugel 400 kg",
+   "rail hoogte 13 mm",
+   "breed scala van fineer",
+   "verkrijgbaar in de schema's A, C, G en K"
+  ],
+  "numbers": [
+   {
+    "n": "1",
+    "l": "Rails"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "HST is uiterst handig en maakt het mogelijk om ruime beglaasde structuren te creëren. Het lage profiel garandeert een voldoende lichtinval, terwijl de waterdichtheid op het hoogste niveau wordt gewaarborgd."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP 02",
+    "img": "/img/catalogus/kleuren/abb32135cb.webp"
+   },
+   {
+    "name": "AP 05",
+    "img": "/img/catalogus/kleuren/665677bb24.webp"
+   },
+   {
+    "name": "AP 06",
+    "img": "/img/catalogus/kleuren/82141f9a7a.webp"
+   },
+   {
+    "name": "AP 15",
+    "img": "/img/catalogus/kleuren/06897c6213.webp"
+   },
+   {
+    "name": "AP 19",
+    "img": "/img/catalogus/kleuren/1d5bcd8247.webp"
+   },
+   {
+    "name": "AP 20",
+    "img": "/img/catalogus/kleuren/8d8cfa20c3.webp"
+   },
+   {
+    "name": "AP 23",
+    "img": "/img/catalogus/kleuren/cb81b40818.webp"
+   },
+   {
+    "name": "AP 27",
+    "img": "/img/catalogus/kleuren/a3e9838eb0.webp"
+   },
+   {
+    "name": "AP 28",
+    "img": "/img/catalogus/kleuren/b4f0d1d799.webp"
+   },
+   {
+    "name": "AP 29",
+    "img": "/img/catalogus/kleuren/785980d76d.webp"
+   },
+   {
+    "name": "AP 30",
+    "img": "/img/catalogus/kleuren/91f98291e8.webp"
+   },
+   {
+    "name": "AP 32",
+    "img": "/img/catalogus/kleuren/04e3914a91.webp"
+   },
+   {
+    "name": "AP 33",
+    "img": "/img/catalogus/kleuren/f68b57b16c.webp"
+   },
+   {
+    "name": "AP 34",
+    "img": "/img/catalogus/kleuren/8e58e3a8c6.webp"
+   },
+   {
+    "name": "AP 40",
+    "img": "/img/catalogus/kleuren/10130b4d53.webp"
+   },
+   {
+    "name": "AP 41",
+    "img": "/img/catalogus/kleuren/d2111e00dc.webp"
+   },
+   {
+    "name": "AP 43",
+    "img": "/img/catalogus/kleuren/c22706aeca.webp"
+   },
+   {
+    "name": "AP 44",
+    "img": "/img/catalogus/kleuren/ec5a0be61f.webp"
+   },
+   {
+    "name": "AP 50",
+    "img": "/img/catalogus/kleuren/b47bed1181.webp"
+   },
+   {
+    "name": "AP 52",
+    "img": "/img/catalogus/kleuren/e3320311d4.webp"
+   },
+   {
+    "name": "AP 60",
+    "img": "/img/catalogus/kleuren/b0235b5eab.webp"
+   },
+   {
+    "name": "AP 61",
+    "img": "/img/catalogus/kleuren/0f7d6e1e7e.webp"
+   },
+   {
+    "name": "AP 63",
+    "img": "/img/catalogus/kleuren/3c736d1e78.webp"
+   },
+   {
+    "name": "AP 70",
+    "img": "/img/catalogus/kleuren/f2bcd4702a.webp"
+   },
+   {
+    "name": "AP 71",
+    "img": "/img/catalogus/kleuren/f55f86837b.webp"
+   },
+   {
+    "name": "AP 88",
+    "img": "/img/catalogus/kleuren/5b278638d5.webp"
+   },
+   {
+    "name": "AP 95",
+    "img": "/img/catalogus/kleuren/f13c277783.webp"
+   },
+   {
+    "name": "AP 106",
+    "img": "/img/catalogus/kleuren/5b4fd6b8ea.webp"
+   },
+   {
+    "name": "AP 106r",
+    "img": "/img/catalogus/kleuren/7923efea91.webp"
+   },
+   {
+    "name": "AP 118",
+    "img": "/img/catalogus/kleuren/be593d41c2.webp"
+   },
+   {
+    "name": "DO 119",
+    "img": "/img/catalogus/kleuren/ddf5d8c690.webp"
+   },
+   {
+    "name": "DO 120",
+    "img": "/img/catalogus/kleuren/92b54c288b.webp"
+   },
+   {
+    "name": "DO 172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/ekosun-hst.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "ekosun-slide",
+  "title": "EkoSun Slide",
+  "tags": [
+   "PVC",
+   "EkoSun",
+   "Schuifsystemen"
+  ],
+  "bullets": [
+   "inbouwdiepte vleugels: 81 mm",
+   "inbouwdiepte kader: 157,5 mm",
+   "beglazing tot 52 mm",
+   "versterkingen met hoge stijfheid in de vleugels",
+   "schema A"
+  ],
+  "numbers": [
+   {
+    "n": "0,77",
+    "l": "Uw voor Ug = 0,5 (Ultimate afstandhouder)"
+   },
+   {
+    "n": "1",
+    "l": "Rails"
+   },
+   {
+    "n": "5",
+    "l": "Kamers"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het EkoSun Slide PVC-schuifsysteem is een moderne oplossing, ontworpen als alternatief voor zowel toegankelijke PSK-systemen als de grootste, meest prestigieuze hefschuifsystemen (HST)."
+   },
+   {
+    "t": "p",
+    "x": "De strakke vormgeving en beperkte constructieve eisen zorgen voor een brede inzetbaarheid. Hoge dichtheid in combinatie met uitstekende statische parameters maken het tot een uitstekende keuze voor wie op zoek is naar praktische schuifdeuren van uitzonderlijke kwaliteit, geproduceerd door de toonaangevende fabrikant in Europa en perfect afgestemd op de eisen van energiezuinige en passieve bouw."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "helpt lichte, ruime interieurs te creëren dankzij zeer grote glasoppervlakken",
+     "verbindt de woonkamer comfortabel met het terras, waardoor drempels tussen ruimtes worden geminimaliseerd",
+     "maakt het mogelijk om grote, indrukwekkende constructies te creëren door effectieve versterkingen in de vleugelprofielen te gebruiken"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "een schuifoplossing zoekt voor een betaalbare prijs, aanzienlijk lager dan die van HST-schuifsystemen",
+     "thermische isolatie als absolute prioriteit ziet, in de verwachting van een zo laag mogelijke energierekening",
+     "relatief kleine kamers heeft, waarin elke uitgespaarde vierkante centimeter vrije ruimte ten volle wordt gewaardeerd"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "beschikbaar in schema A",
+     "warmtedoorgangscoëfficiënt van profielen: Uf vanaf 1,3 W/m²K",
+     "geluidsisolatie: Rw tot 38 dB",
+     "esthetische V-Super lassen met hoge duurzaamheid",
+     "weerstand tegen windbelasting: tot klasse B3",
+     "waterdichtheid: tot klasse 2A",
+     "luchtdoorlatendheid: tot klasse 3",
+     "maximale afmetingen van de witte vleugel: 1975 x 2367 mm (B x H)",
+     "maximale afmetingen van de gekleurde vleugel: 1875 x 2307 mm (B x H)",
+     "maximale afmetingen van de gehele constructie in het wit: 4000 x 2460 mm (B x H)",
+     "maximale afmetingen van de gehele constructie in kleur: 3800 x 2400 mm (B x H)",
+     "maximaal gewicht van de vleugel: 200 kg"
+    ]
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/ekosun-slide.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "gealan-hst",
+  "title": "Gealan HST",
+  "tags": [
+   "PVC",
+   "Gealan",
+   "schuifsystemen"
+  ],
+  "bullets": [
+   "inbouwdiepte 190 mm",
+   "beglazingspakketten met breedten van 20 tot 56 mm",
+   "vleugelbreedte 82,5 mm",
+   "drempel met hoogte 50 of 68 mm"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Perfecte verlichting van kamers en eenvoudig verschuiven van vleugels. Allemaal dankzij een goed doordacht ontwerp. Een uitstekende isolatie wordt verzekerd door twee of drie niveaus van afdichting."
+   }
+  ],
+  "colors": [
+   {
+    "name": "GEA 01",
+    "img": "/img/catalogus/kleuren/c213bd03f2.webp"
+   },
+   {
+    "name": "GEA 02",
+    "img": "/img/catalogus/kleuren/e86806be5e.webp"
+   },
+   {
+    "name": "GEA 03",
+    "img": "/img/catalogus/kleuren/f73e694269.webp"
+   },
+   {
+    "name": "GEA 04",
+    "img": "/img/catalogus/kleuren/637612f62e.webp"
+   },
+   {
+    "name": "GEA 07",
+    "img": "/img/catalogus/kleuren/7fb6cb2b78.webp"
+   },
+   {
+    "name": "GEA 08",
+    "img": "/img/catalogus/kleuren/a97b976e78.webp"
+   },
+   {
+    "name": "GEA 09",
+    "img": "/img/catalogus/kleuren/d798eadb4b.webp"
+   },
+   {
+    "name": "GEA 10",
+    "img": "/img/catalogus/kleuren/5545cc4e3e.webp"
+   },
+   {
+    "name": "GEA 11",
+    "img": "/img/catalogus/kleuren/3965d47922.webp"
+   },
+   {
+    "name": "GEA 12",
+    "img": "/img/catalogus/kleuren/595e41734a.webp"
+   },
+   {
+    "name": "GEA 13",
+    "img": "/img/catalogus/kleuren/f14b767daa.webp"
+   },
+   {
+    "name": "GEA 16",
+    "img": "/img/catalogus/kleuren/485fde5c81.webp"
+   },
+   {
+    "name": "GEA 17",
+    "img": "/img/catalogus/kleuren/732ec4785d.webp"
+   },
+   {
+    "name": "GEA 19",
+    "img": "/img/catalogus/kleuren/ad6a1306b9.webp"
+   },
+   {
+    "name": "GEA 20",
+    "img": "/img/catalogus/kleuren/d3505c5942.webp"
+   },
+   {
+    "name": "GEA 21",
+    "img": "/img/catalogus/kleuren/35d33ab484.webp"
+   },
+   {
+    "name": "GEA 22",
+    "img": "/img/catalogus/kleuren/209935c878.webp"
+   },
+   {
+    "name": "GEA 23",
+    "img": "/img/catalogus/kleuren/0cc4951d0b.webp"
+   },
+   {
+    "name": "GEA 24",
+    "img": "/img/catalogus/kleuren/e0e20e5b29.webp"
+   },
+   {
+    "name": "GEA 25",
+    "img": "/img/catalogus/kleuren/79a0c445ca.webp"
+   },
+   {
+    "name": "GEA 27",
+    "img": "/img/catalogus/kleuren/6d5e1291f0.webp"
+   },
+   {
+    "name": "GEA 28",
+    "img": "/img/catalogus/kleuren/18ddb8ff76.webp"
+   },
+   {
+    "name": "GEA 30",
+    "img": "/img/catalogus/kleuren/379d0153f6.webp"
+   },
+   {
+    "name": "GEA 31",
+    "img": "/img/catalogus/kleuren/76f93ba155.webp"
+   },
+   {
+    "name": "GEA 32",
+    "img": "/img/catalogus/kleuren/ab8ca76492.webp"
+   },
+   {
+    "name": "GEA 34",
+    "img": "/img/catalogus/kleuren/3b1c6fc547.webp"
+   },
+   {
+    "name": "GEA 35",
+    "img": "/img/catalogus/kleuren/05f1236fe1.webp"
+   },
+   {
+    "name": "GEA 37",
+    "img": "/img/catalogus/kleuren/7f7ba7549e.webp"
+   },
+   {
+    "name": "GEA 40",
+    "img": "/img/catalogus/kleuren/fe180b3b22.webp"
+   },
+   {
+    "name": "GEA 41",
+    "img": "/img/catalogus/kleuren/b1b529f6ac.webp"
+   },
+   {
+    "name": "GEA 42",
+    "img": "/img/catalogus/kleuren/db5ad469a4.webp"
+   },
+   {
+    "name": "GEA 43",
+    "img": "/img/catalogus/kleuren/18383c0d7f.webp"
+   },
+   {
+    "name": "GEA 46",
+    "img": "/img/catalogus/kleuren/f8bacae672.webp"
+   },
+   {
+    "name": "GEA 055",
+    "img": "/img/catalogus/kleuren/d011ed679c.webp"
+   },
+   {
+    "name": "GEA 056",
+    "img": "/img/catalogus/kleuren/9f62049c2a.webp"
+   },
+   {
+    "name": "GEA 057",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "GEA 058",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "GEA 059",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "GEA 060",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "GEA 061",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "GEA 062",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "GEA 063",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "GEA 064",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "GEA 065",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/gealan-hst.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "evolutiondrive-plus",
+  "title": "evolutionDrive Plus+",
+  "tags": [
+   "SCHUIFSYSTEMEN",
+   "PVC",
+   "Salamander"
+  ],
+  "bullets": [
+   "inbouwdiepte 152 mm",
+   "Beglazing tot 49 mm breed",
+   "basiskleur: wit of crème",
+   "beschikbaar in schema's A en C",
+   "maximale afmeting van vaste raamvleugels (LxH) – 4000 x 2480 mm",
+   "maximale afmeting van schuifraam (HxL) – 2000 x 2400 mm",
+   "maximaal vleugelgewicht – 170 kg"
+  ],
+  "numbers": [
+   {
+    "n": "1",
+    "l": "Rails"
+   },
+   {
+    "n": "5",
+    "l": "Kamers"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De evolutionDrive Plus+ is een schuifsysteem van PVC dat alle belangrijke voordelen van schuifoplossingen behoudt, maar de thermische isolatie dichter bij het niveau brengt dat typisch is voor ramen en deuren met vleugelbeslag."
+   },
+   {
+    "t": "p",
+    "x": "De evolutionDrive Plus+ maakt gebruik van speciaal beslag dat de druk van de vleugel op het kozijn over de hele omtrek verhoogt. Samen met een systeem met drie pakkingen en een dubbele afdichting over de hele omtrek, zorgen zij voor een effectieve afdichting, wat zich vertaalt in een lage warmtedoorgangscoëfficiënt door de hele constructie."
+   },
+   {
+    "t": "p",
+    "x": "Met het beslag kan de handgreep in elke vleugelstand in de gesloten stand worden gezet. Op deze manier is het mogelijk om de ventilatie te verbeteren door een kleine opening te creëren of zelfs een doorgang voor huisdieren te realiseren."
+   },
+   {
+    "t": "p",
+    "x": "Het systeem maakt gebruik van gesloten versterkingen van 1,5 en 2,5 mm dik gegalvaniseerd staal, waardoor de statische parameters van de structuur worden verhoogd en de duurzaamheid wordt vergroot. Hierdoor is een maximaal vleugeloppervlak tot 4,8 m2 mogelijk."
+   },
+   {
+    "t": "p",
+    "x": "De evolutionDrive Plus+ is vervaardigd met oplossingen die de installatie vereenvoudigen. De behoefte aan onderhoud is ook tot een minimum beperkt, bijvoorbeeld door het gebruik van loopwagens met lineaire kogellagers met geharde assen. Bovendien zorgt het gebruik van een gladde V-Super las voor een esthetisch aantrekkelijk uiterlijk."
+   }
+  ],
+  "colors": [
+   {
+    "name": "SAL-03",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "SAL-06",
+    "img": "/img/catalogus/kleuren/327289a94f.webp"
+   },
+   {
+    "name": "SAL-08",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "SAL-10",
+    "img": "/img/catalogus/kleuren/e989dc60a0.webp"
+   },
+   {
+    "name": "SAL-11",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "SAL-18",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "SAL-19",
+    "img": "/img/catalogus/kleuren/735eb537a4.webp"
+   },
+   {
+    "name": "SAL-21",
+    "img": "/img/catalogus/kleuren/b09547cea1.webp"
+   },
+   {
+    "name": "SAL-25",
+    "img": "/img/catalogus/kleuren/9369e5f328.webp"
+   },
+   {
+    "name": "SAL-26",
+    "img": "/img/catalogus/kleuren/8bf9d5859d.webp"
+   },
+   {
+    "name": "SAL-27",
+    "img": "/img/catalogus/kleuren/a1fa498f4a.webp"
+   },
+   {
+    "name": "SAL-30",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "SAL-33",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "SAL-34",
+    "img": "/img/catalogus/kleuren/296fe2ba70.webp"
+   },
+   {
+    "name": "SAL-37",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "SAL-39",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "SAL-42",
+    "img": "/img/catalogus/kleuren/4cf0955cf6.webp"
+   },
+   {
+    "name": "SAL-43",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "SAL-44",
+    "img": "/img/catalogus/kleuren/e1a2d17c7a.webp"
+   },
+   {
+    "name": "SAL-50",
+    "img": "/img/catalogus/kleuren/2d1d028cf8.webp"
+   },
+   {
+    "name": "SAL-51",
+    "img": "/img/catalogus/kleuren/4be4f2287e.webp"
+   },
+   {
+    "name": "SAL-52",
+    "img": "/img/catalogus/kleuren/26d352ea1d.webp"
+   },
+   {
+    "name": "SAL-55 (70)",
+    "img": "/img/catalogus/kleuren/494962c085.webp"
+   },
+   {
+    "name": "SAL-59",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "SAL-69",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "SAL-71",
+    "img": "/img/catalogus/kleuren/9963d53054.webp"
+   },
+   {
+    "name": "SAL-72",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "SAL-73",
+    "img": "/img/catalogus/kleuren/ff38e9ee2d.webp"
+   },
+   {
+    "name": "SAL-74",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "SAL-77",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "SAL-78",
+    "img": "/img/catalogus/kleuren/d6c60af2d9.webp"
+   },
+   {
+    "name": "SAL-84",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "SAL-87",
+    "img": "/img/catalogus/kleuren/89230816a4.webp"
+   },
+   {
+    "name": "SAL-88",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "SAL-90",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "SAL-91",
+    "img": "/img/catalogus/kleuren/8245d118ba.webp"
+   },
+   {
+    "name": "SAL-92",
+    "img": "/img/catalogus/kleuren/bbad4d8ea0.webp"
+   },
+   {
+    "name": "SAL-95",
+    "img": "/img/catalogus/kleuren/c4ce556a6e.webp"
+   },
+   {
+    "name": "SAL-96",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "SAL-98",
+    "img": "/img/catalogus/kleuren/51fe31534b.webp"
+   },
+   {
+    "name": "SAL-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "SAL-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "SAL-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "SAL-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "SAL-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "SAL-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "SAL-113",
+    "img": "/img/catalogus/kleuren/cc085e8203.webp"
+   },
+   {
+    "name": "SAL-115",
+    "img": "/img/catalogus/kleuren/a411bca84c.webp"
+   },
+   {
+    "name": "SAL-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "SAL-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/evolutiondrive-plus.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "pvc-schuifsystemen",
+  "sub": null,
+  "slug": "smart-slide-neo",
+  "title": "Smart Slide NEO",
+  "tags": [
+   "Aluplast",
+   "Schuifsystemen",
+   "pvc"
+  ],
+  "bullets": [
+   "inbouwdiepte 154 mm",
+   "beglazing met pakketten tot 54 mm breed",
+   "maximale vleugelbreedte 4200 mm",
+   "maximale vleugelhoogte 2490 mm",
+   "het systeem is verkrijgbaar in de schema's A en C"
+  ],
+  "numbers": [
+   {
+    "n": "1",
+    "l": "Rails"
+   },
+   {
+    "n": "5",
+    "l": "Kamer"
+   }
+  ],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het schuifsysteem Smart Slide NEO is een aantrekkelijk alternatief voor klassieke oplossingen zoals PSK/Patio. Het is des te interessanter omdat het gebaseerd is op eenvoudige, bewezen oplossingen, waardoor het gebruik ervan geen uitdaging vormt voor zowel de gebruiker als de installateur."
+   },
+   {
+    "t": "p",
+    "x": "De bedieningsgemak en betrouwbaarheid van het Smart Slide NEO systeem worden op een uitzonderlijk esthetische manier gepresenteerd. Optisch lichte, minimalistische profielen die refereren aan de Scandinavische stijl, en hun ongebruikelijke vorm, atypisch voor PVC-producten, bieden een betere belichting van interieurs en werken uitstekend in moderne arrangementen."
+   },
+   {
+    "t": "p",
+    "x": "Perfecte lassen en een rijke keuze aan kleuren, inclusief houtachtige fineer, zullen elke liefhebber van mooi decor bekoren. In kleine appartementen bieden schuifdeuren en ramen meer ruimte. En wanneer er meer ruimte is, kunnen de indrukwekkende maximale afmetingen van de constructie volledig worden benut."
+   },
+   {
+    "t": "p",
+    "x": "Smart Slide NEO onderscheidt zich ook door zijn technische parameters. Een lage warmtedoorgangscoëfficiënt, ondersteund door extra afdichtingsdruk rondom de actieve vleugel, maakt het systeem overal toepasbaar waar lage verwarmingskosten een prioriteit zijn."
+   }
+  ],
+  "colors": [
+   {
+    "name": "AP-01",
+    "img": "/img/catalogus/kleuren/b3acf8aa95.webp"
+   },
+   {
+    "name": "AP-02",
+    "img": "/img/catalogus/kleuren/3c4db6e380.webp"
+   },
+   {
+    "name": "AP-03 (aludec)",
+    "img": "/img/catalogus/kleuren/2871140aba.webp"
+   },
+   {
+    "name": "AP-04 (aludec)",
+    "img": "/img/catalogus/kleuren/8f68ee48e0.webp"
+   },
+   {
+    "name": "AP-05",
+    "img": "/img/catalogus/kleuren/289d8ef4de.webp"
+   },
+   {
+    "name": "AP-06",
+    "img": "/img/catalogus/kleuren/1e341a72d6.webp"
+   },
+   {
+    "name": "AP-07 (aludec)",
+    "img": "/img/catalogus/kleuren/99a7c55c9f.webp"
+   },
+   {
+    "name": "AP-08 (aludec)",
+    "img": "/img/catalogus/kleuren/7fb5f26261.webp"
+   },
+   {
+    "name": "AP-11",
+    "img": "/img/catalogus/kleuren/42ea74c0bc.webp"
+   },
+   {
+    "name": "AP-12 (aludec)",
+    "img": "/img/catalogus/kleuren/2ed065ce81.webp"
+   },
+   {
+    "name": "AP-14 (aludec)",
+    "img": "/img/catalogus/kleuren/0b9bd19615.webp"
+   },
+   {
+    "name": "AP-15",
+    "img": "/img/catalogus/kleuren/5915abfa88.webp"
+   },
+   {
+    "name": "AP-19",
+    "img": "/img/catalogus/kleuren/59e9bc2bb3.webp"
+   },
+   {
+    "name": "AP-20",
+    "img": "/img/catalogus/kleuren/54b345aef4.webp"
+   },
+   {
+    "name": "AP-21",
+    "img": "/img/catalogus/kleuren/2e9de19b72.webp"
+   },
+   {
+    "name": "AP-22",
+    "img": "/img/catalogus/kleuren/b663aa4771.webp"
+   },
+   {
+    "name": "AP-23",
+    "img": "/img/catalogus/kleuren/8683b0201d.webp"
+   },
+   {
+    "name": "AP-25",
+    "img": "/img/catalogus/kleuren/e1974fd125.webp"
+   },
+   {
+    "name": "AP-26",
+    "img": "/img/catalogus/kleuren/b18f5fe50e.webp"
+   },
+   {
+    "name": "AP-27",
+    "img": "/img/catalogus/kleuren/7c6531cc4f.webp"
+   },
+   {
+    "name": "AP-28",
+    "img": "/img/catalogus/kleuren/8e50955043.webp"
+   },
+   {
+    "name": "AP-29",
+    "img": "/img/catalogus/kleuren/2faf64a19b.webp"
+   },
+   {
+    "name": "AP-30",
+    "img": "/img/catalogus/kleuren/fd46b300f2.webp"
+   },
+   {
+    "name": "AP-32",
+    "img": "/img/catalogus/kleuren/e5480e9d76.webp"
+   },
+   {
+    "name": "AP-34",
+    "img": "/img/catalogus/kleuren/140c9da501.webp"
+   },
+   {
+    "name": "AP-35",
+    "img": "/img/catalogus/kleuren/ba4bfd9b25.webp"
+   },
+   {
+    "name": "AP-36 (aludec)",
+    "img": "/img/catalogus/kleuren/7047af6e7a.webp"
+   },
+   {
+    "name": "AP-37 (aludec)",
+    "img": "/img/catalogus/kleuren/821b9563d4.webp"
+   },
+   {
+    "name": "AP-39",
+    "img": "/img/catalogus/kleuren/0dd7234ffa.webp"
+   },
+   {
+    "name": "AP-40",
+    "img": "/img/catalogus/kleuren/65e4887203.webp"
+   },
+   {
+    "name": "AP-41",
+    "img": "/img/catalogus/kleuren/d451e7edc4.webp"
+   },
+   {
+    "name": "AP-43",
+    "img": "/img/catalogus/kleuren/15506ee9a5.webp"
+   },
+   {
+    "name": "AP-44",
+    "img": "/img/catalogus/kleuren/bba5ecd9ae.webp"
+   },
+   {
+    "name": "AP-47",
+    "img": "/img/catalogus/kleuren/4240aadf9a.webp"
+   },
+   {
+    "name": "AP-50",
+    "img": "/img/catalogus/kleuren/f6cf214ce4.webp"
+   },
+   {
+    "name": "AP-52",
+    "img": "/img/catalogus/kleuren/540c920726.webp"
+   },
+   {
+    "name": "AP-60",
+    "img": "/img/catalogus/kleuren/40dce9856a.webp"
+   },
+   {
+    "name": "AP-61",
+    "img": "/img/catalogus/kleuren/8716d0228e.webp"
+   },
+   {
+    "name": "AP-62",
+    "img": "/img/catalogus/kleuren/caccb6a338.webp"
+   },
+   {
+    "name": "AP-63",
+    "img": "/img/catalogus/kleuren/0e691d6b17.webp"
+   },
+   {
+    "name": "AP-65",
+    "img": "/img/catalogus/kleuren/ad461114b4.webp"
+   },
+   {
+    "name": "AP-69",
+    "img": "/img/catalogus/kleuren/667f21772f.webp"
+   },
+   {
+    "name": "AP-70",
+    "img": "/img/catalogus/kleuren/6b7beb69a2.webp"
+   },
+   {
+    "name": "AP-71",
+    "img": "/img/catalogus/kleuren/a15cd82ca9.webp"
+   },
+   {
+    "name": "AP-75",
+    "img": "/img/catalogus/kleuren/2235062f63.webp"
+   },
+   {
+    "name": "AP-79",
+    "img": "/img/catalogus/kleuren/377aadf0e3.webp"
+   },
+   {
+    "name": "AP-88",
+    "img": "/img/catalogus/kleuren/51e45118f6.webp"
+   },
+   {
+    "name": "AP-95",
+    "img": "/img/catalogus/kleuren/f21443c053.webp"
+   },
+   {
+    "name": "AP-102",
+    "img": "/img/catalogus/kleuren/494687837a.webp"
+   },
+   {
+    "name": "AP-103",
+    "img": "/img/catalogus/kleuren/a13c91935a.webp"
+   },
+   {
+    "name": "AP-105",
+    "img": "/img/catalogus/kleuren/c70bf10393.webp"
+   },
+   {
+    "name": "AP-106",
+    "img": "/img/catalogus/kleuren/426d6f936a.webp"
+   },
+   {
+    "name": "AP-107",
+    "img": "/img/catalogus/kleuren/ae80216ba3.webp"
+   },
+   {
+    "name": "AP-108",
+    "img": "/img/catalogus/kleuren/be479caba9.webp"
+   },
+   {
+    "name": "AP-109",
+    "img": "/img/catalogus/kleuren/100b516075.webp"
+   },
+   {
+    "name": "AP-110",
+    "img": "/img/catalogus/kleuren/0afb88755d.webp"
+   },
+   {
+    "name": "AP-111",
+    "img": "/img/catalogus/kleuren/7b7d211ed8.webp"
+   },
+   {
+    "name": "AP-112",
+    "img": "/img/catalogus/kleuren/b206b86f31.webp"
+   },
+   {
+    "name": "AP-113",
+    "img": "/img/catalogus/kleuren/fa7e7291c9.webp"
+   },
+   {
+    "name": "AP-115",
+    "img": "/img/catalogus/kleuren/08378e813b.webp"
+   },
+   {
+    "name": "AP-116",
+    "img": "/img/catalogus/kleuren/6e6370f62f.webp"
+   },
+   {
+    "name": "AP-121",
+    "img": "/img/catalogus/kleuren/1dcc206fa0.webp"
+   },
+   {
+    "name": "AP-122",
+    "img": "/img/catalogus/kleuren/44cce35c97.webp"
+   },
+   {
+    "name": "AP-172",
+    "img": "/img/catalogus/kleuren/938b0a30ec.webp"
+   }
+  ],
+  "pdfs": [
+   {
+    "t": "Productcatalogus (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Catalogus/Catalogus_Product-mini_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/pvc-schuifsystemen/smart-slide-neo.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "prime",
+  "title": "Prime",
+  "tags": [
+   "horren",
+   "ramen"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "gaas: glasvezel gecoat met PVC in de kleuren: grijs, zwart",
+   "fitting: uitwendig, met niet-invasieve haken en duurzame pakkingen",
+   "afmetingen: afgestemd op de behoeften van de klant",
+   "kan snel worden verplaatst of gedemonteerd",
+   "compatibiliteit met anti-smog gaas",
+   "nu verkrijgbaar voor Naturo 68, 80 en 92 houten ramen"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Een systeem van horren met een geëxtrudeerd aluminium frame en borstelafdichting. Ze worden op het kozijn gemonteerd door middel van speciale platen. De Prime hor kan ook gebruikt worden op afgewerkte ramen in de Naturo 68, Naturo 80 en Naturo 92. Voor de eerste twee systemen zijn er 18 mm veiligheidsmontageplaten met veren en extra borstelafdichtingen om het hout te beschermen. Voor Naturo 92 zijn de montageplaten 19 mm breed."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/prime.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "prime-flat",
+  "title": "Prime Flat",
+  "tags": [
+   "Horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "Frame van geëxtrudeerd aluminium",
+   "Gelakte coating in RAL-kleuren",
+   "Vezelglazen gaas bedekt met PVC",
+   "Compatibel met opzetrolluiken (10,5 mm frame)",
+   "Beschikbare gaassoorten: aluminium, antismog en zonwerend"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De Prime Flat Frame Hor biedt een eenvoudige en effectieve manier om uw huis te beschermen tegen insecten. Montage en demontage zijn gemakkelijk en vereisen geen technische kennis of speciale vaardigheden. Dankzij het veilige installatiesysteem is het risico op schade aan uw raam minimaal, zelfs voor onervaren gebruikers."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Lichtgewicht en duurzaam frame van corrosiebestendig geëxtrudeerd aluminium",
+     "Mechanisch bestandvezelglazen gaas met PVC-coating (zwart of grijs)",
+     "Compatibel met aluminium-, PVC- en houten ramen uit de Naturo-reeks"
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "U een eenvoudige montage van buitenaf wilt, uitgevoerd vanuit de binnenruimte, met behulp van flexibele metalen klemmen die de raamprofielen niet beschadigen.",
+     "U liever een montagesysteem gebruikt met veerklemmen die ook veilig zijn voor raamprofielen? Maak gebruik van de rekenmachine-optie die beschikbaar is op Eko4u.",
+     "U de kleur van het frame wilt afstemmen op uw ramen en gevel met behulp van de betrouwbare RAL-kleurenwaaier."
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Constructie van geëxtrudeerde aluminium profielen",
+     "Frames met een diepte van 10,5 mm en een breedte van 21 mm",
+     "Poedercoating in RAL-kleuren",
+     "Montage aan de buitenzijde",
+     "Mogelijkheid tot aanpassing van afmetingen aan individuele klantwensen",
+     "Beschikbaarheid van specialistische gaassoorten: antismog, anti-allergisch, klassiek met verhoogde transparantie, geschikt voor huisdieren en aluminium."
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Met de Prime Flat Frame Hor haalt u een betrouwbare en esthetische oplossing in huis, afgestemd op uw behoeften en de uitstraling van uw woning."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/prime-flat.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "prime-nl",
+  "title": "Prime NL",
+  "tags": [
+   "Horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "Rooster: PVC gecoat glasvezel in zwart of grijs",
+   "Montage: in de vensteropening met gebruikmaking van niet-invasieve stoppers en duurzame pakkingen",
+   "Afmetingen: op maat",
+   "Compatibel met anti-smog, aluminium en anti-zonnegaas"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Prime NL is hoofdzakelijk bestemd voor het NL systeem – Ideal 7000."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/prime-nl.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "mrs",
+  "title": "MRS",
+  "tags": [
+   "horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "frame: geplooid aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "coating - houtnerf afwerking: gouden eik, walnoot, mahonie",
+   "gaas: glasvezel gecoat met PVC in de kleuren: grijs, zwart",
+   "afmetingen: afgestemd op de behoeften van de klant",
+   "montage: extern – niet-invasieve haken en veren"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het enige muskietennet in ons aanbod dat verkrijgbaar is in houtachtige kleuren. MRS is ontworpen om te worden geïnstalleerd op PVC-ramen."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mrs.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "mrsz",
+  "title": "MRSZ",
+  "tags": [
+   "Horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "Rooster: PVC gecoat glasvezel in zwart of grijs",
+   "RVS montagebeugels"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het systeem is ontworpen om in aluminium ramen te worden geïnstalleerd. Speciale montagebeugels van roestvrij staal zorgen voor een eenvoudige en snelle montage."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mrsz.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "mzn",
+  "title": "MZN",
+  "tags": [
+   "Horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium profiel",
+   "Rooster: PVC gecoat glasvezel in zwart of grijs",
+   "Max hoogte met box 2500 mm",
+   "Maximale breedte met doos 2000 mm"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Rolklamboe met een klein formaat cassette, waardoor hij in elke nis past. De rem maakt het mogelijk de onderste lamel voorzichtig aan de kist te sluiten."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mzn.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "mzh",
+  "title": "MZH",
+  "tags": [
+   "Horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium profiel",
+   "Rooster: PVC gecoat glasvezel in zwart of grijs",
+   "Afmetingen: op maat",
+   "Montage: aan de wand van het gebouw of in een nis"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Opgerold muskietennet voorzien van een haak. Door de vorm van de grendel is hij uiterst gemakkelijk te gebruiken. De haak zorgt voor extra afdichting van het onderste gedeelte van het muskietennet."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mzh.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "horren",
+  "slug": "pg-sz",
+  "title": "PG/SZ",
+  "tags": [
+   "Horren",
+   "Ramen"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium profiel",
+   "Coating: poederlak in elke kleur uit het RAL-palet",
+   "Net: glasvezel met PVC-coating in de kleuren: grijs, zwart",
+   "Montage: buiten, met behulp van niet-invasieve veren en duurzame afdichtingen",
+   "Maximale afmeting zonder dwarsbalk: 1200 × 1200 mm",
+   "Maximale afmeting met dwarsbalk: 1300 × 2300 mm"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De inzethor PG/SZ is ontworpen voor Aluplast- en Salamander-systemen en wordt van buitenaf in het raam geplaatst. Deze wordt bevestigd met behulp van veren, die de hor op een eenvoudige en doeltreffende manier tegen verschuiven beveiligen."
+   },
+   {
+    "t": "p",
+    "x": "De PG/SZ inzethor is voorzien van een 5x7 borstelafdichting en twee handgrepen aan de rechter- en linkerkant om het plaatsen en verwijderen te vergemakkelijken."
+   },
+   {
+    "t": "p",
+    "x": "Standaard is de PG/SZ uitgerust met de veren die bekend zijn van de MRS-hor, met twee stuks in elke hoek. Bij grotere horren kunnen extra klemmen of veren op het langere profiel nuttig blijken."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/pg-sz.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "muggengaas-voor-deuren",
+  "slug": "deurklamboe",
+  "title": "Deurklamboe",
+  "tags": [
+   "horren",
+   "deuren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "gaas: glasvezel met PVC-coating",
+   "montage: buiten, muggengaasraam geschroefd op raamkozijn",
+   "afmetingen: afgestemd op de behoeften van de klant",
+   "mogelijkheid om een dubbel muskietennet met beweegbare paal te produceren",
+   "verplaatsbare paal en schopplaat mogelijk"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Deurklamboe is een uitstekende oplossing voor gebruik in doorgangen, zoals ingangs- of balkondeuren. Het maakt een gemakkelijke toegang tot de kamer mogelijk dankzij het robuuste openingssysteem."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/deurklamboe.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "muggengaas-voor-deuren",
+  "slug": "rojaflex",
+  "title": "Rojaflex",
+  "tags": [
+   "horren",
+   "deuren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "gaas: glasvezel met PVC-coating",
+   "net verkrijgbaar in grijs of zwart",
+   "afmetingen: afgestemd op de behoeften van de klant",
+   "uitvoering met of zonder deurframe",
+   "mogelijkheid tot montage met handgreep en schopplaat"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het muskietennet is voorzien van borstelafdichtingen die een nog betere bescherming bieden tegen insecten. Geschikt voor montage op deuren."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/rojaflex.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "muggengaas-voor-deuren",
+  "slug": "saloon",
+  "title": "SALOON",
+  "tags": [
+   "Horren",
+   "deuren"
+  ],
+  "bullets": [
+   "Profiel: geëxtrudeerd aluminium profiel",
+   "de insectenhor bestaat enkel uit de vleugel met drie scharnieren zonder zelfsluitende functie",
+   "Net: glasvezel / PVC (standaard)",
+   "Breedte: van 30 tot 130 cm",
+   "Hoogte: 50 tot 250 cm",
+   "Opening aan één kant",
+   "Met aluminium versterkte structuur",
+   "Speciale netten beschikbaar",
+   "Profielen in alle RAL-kleuren"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De eenzijdig te openen deur hor Saloon onderscheidt zich door het gladde, afgeronde profiel aan de buitenkant. Het is een stevig en bestendig muskietennet, dat wordt verzekerd door aluminium beschermplaten en interne hoeken die de structuur versterken."
+   },
+   {
+    "t": "p",
+    "x": "De hor kan worden voorzien van een speciaal net, bijvoorbeeld een anti-allergienet of een waterdicht net, zodat de deur open kan blijven staan als het regent."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/saloon.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "muggengaas-voor-deuren",
+  "slug": "mro",
+  "title": "MRO",
+  "tags": [
+   "Horren",
+   "deuren"
+  ],
+  "bullets": [
+   "Kader: geëxtrudeerde aluminium profielen",
+   "Gaas: glasvezel met PVC-coating (standaard)",
+   "Hoogte: van 600 tot 2500 mm met verbindingsprofiel",
+   "Breedte: van 400 tot 1500 mm met verbindingsprofiel",
+   "Mogelijkheid tot toepassing van speciaal gaas",
+   "Stalen magneetstrip (wit)",
+   "Poedercoating van profielen in alle RAL-kleuren, standaard Aluprof-kleuren en geselecteerde houtnerfkleuren"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De MRO kaderhor voor balkondeuren sluit perfect aan bij modern schrijnwerk. Dit komt onder andere door de afgeronde profielen, afgestemd op de esthetiek van de meest populaire oplossingen op de markt. De MRO deurhor kan worden toegepast op een breed scala aan deuren, zelfs bij conflicten met de klink, dankzij de montage op een onafhankelijk aluminium kader."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Effectieve bescherming tegen insecten, en dankzij speciaal gaas kan deze hor een nog veelzijdigere bescherming bieden.",
+     "Beschikt over duurzame profielen van geëxtrudeerd aluminium, die op een manier zijn verbonden die de hele constructie extra verstevigt.",
+     "Maakt comfortabel openen en sluiten mogelijk door middel van een speciaal gevormd verbindingsprofiel of handgrepen, en zelfsluitende scharnieren."
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "...een zeer goede afdichting verwacht, gegarandeerd door borsteldichtingen rondom de hor.",
+     "...waarde hecht aan een interessante kleurkeuze voor het schrijnwerk en wil dat de hor zo goed mogelijk bij de rest van het gebouw past.",
+     "...een verhoogde bescherming van de hor wenst door een schopplaat die bij de MRO hor tot wel 300 mm hoog kan zijn en voorzien is van een borsteldichting."
+    ]
+   },
+   {
+    "t": "ul",
+    "x": [
+     "Verbinding kader: Door middel van interne aluminium hoekverbindingen, of optioneel door persen of het gebruik van drukschroeven.",
+     "Montagemogelijkheden: Op de deurvleugel of op een onvolledig aluminium kader.",
+     "Scharnieren: Zelfsluitende aluminium scharnieren (montage op het kozijn) of PVC scharnieren (montage op het kozijn of in de muur).",
+     "Handgrepen: Mogelijkheid tot montage van een ergonomische handgreep aan de binnen- en/of buitenzijde, of toepassing van een speciaal gevormde dwarsbalk.",
+     "Onderprofiel (schopplaat): Optioneel, verkrijgbaar in hoogtes van 100 en 300 mm, voorzien van een borsteldichting.",
+     "Witte stalen magneetstrip die een goede sluiting garandeert (aanbevolen door de systeemleverancier)",
+     "Speciaal gaas: Beschikbaarheid van geselecteerde speciale gaastypes."
+    ]
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mro.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "schuivende-hor",
+  "title": "Schuivende hor",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "coating: poedercoating in elke RAL-kleur",
+   "gaas: glasvezel gecoat met PVC in de kleuren: grijs, zwart",
+   "keuze uit twee kleuren pakking: grijs, zwart",
+   "montage: uitwendig, geleiders met schroeven aan raamkozijn bevestigd",
+   "compatibiliteit met anti-smog gaas",
+   "mogelijkheid tot montage van twee vleugels"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het schuivende muskietennet systeem maakt gebruik van een mechanisme van parallelle geleiders in het bovenste en onderste deel van het frame. Deze oplossing is speciaal voor HST- en PSK-schuifsystemen."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/schuivende-hor.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "mph-harmony",
+  "title": "MPH Harmony",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "maximale vleugelbreedte tot 4 m",
+   "het gaas vouwt in een accordeon bij het sluiten en verbergt in het zijprofiel",
+   "gebruik van een lage drempel"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het MPH Harmony muskietennet is ontworpen om ruimte te besparen. Het is bestemd voor montage op terrasdeuren en balkonnissen."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mph-harmony.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "mph-verti",
+  "title": "MPH Verti",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "maximale vleugelbreedte tot 2,3 m",
+   "coating: poedercoating in elke RAL-kleur",
+   "gaas: geplooid"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het muskietennet is bedoeld voor balkon- en terrasdeuren waar het wegens plaatsgebrek niet mogelijk is om verschuifbare muskietennetten te installeren."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mph-verti.webp",
+   "w": 920,
+   "h": 689
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "slider",
+  "title": "Slider",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium",
+   "Gaas: glasvezel / PVC (standaard)",
+   "Breedte: tot 150 cm",
+   "Hoogte: tot 250 cm",
+   "Borstelafdichtingen rondom",
+   "Speciale netten beschikbaar",
+   "Profielen in alle RAL-kleuren"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De Slider schuif hor is gemonteerd op glijders die op vloerhoogte kunnen staan, zonder drempel. Daardoor is het de ideale aanvulling op drempelloze schuifdeursystemen."
+   },
+   {
+    "t": "p",
+    "x": "De stijfheid van dergelijke grote constructies wordt gewaarborgd door de ingeklemde aluminium binnenhoek. Borstelafdichtingen rond de hele omtrek helpen de dichtheid te garanderen."
+   },
+   {
+    "t": "p",
+    "x": "Een onderscheidend kenmerk van de hor is het gebruik van een glad esthetisch profiel, dat aan de buitenkant is afgerond. Het frame kan worden gespoten in alle RAL-kleuren."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/slider.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "fit-zag",
+  "title": "Fit-Zag",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium",
+   "Rooster: glasvezel / PVC (standaard)",
+   "Breedte: tot 240 cm",
+   "Hoogte: tot 260 cm",
+   "Kan in grote nissen worden geplaatst",
+   "Verven van profielen in alle RAL-kleuren"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De Fit-Zag schuif-hor is een handig schuifbaar product dat ideaal is voor het beveiligen van doorgangen tot 240 cm breed. Het kan worden geïnstalleerd in de nis of op de nis met een extra profiel. Het onderscheidende kenmerk is dat het tussen het raam en het buitenrolluik kan worden gemonteerd."
+   },
+   {
+    "t": "p",
+    "x": "De aanwezigheid van een Fit-Zag hor beperkt de functionaliteit van de deur niet. Het maakt gebruik van een schuifprofiel waarin de handgreep is vervangen door een uitsparing. Het sluit magnetisch."
+   },
+   {
+    "t": "p",
+    "x": "De horprofielen kunnen in elke RAL-kleur worden gelakt."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/fit-zag.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "top-zag",
+  "title": "Top-Zag",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "Frame: geëxtrudeerd aluminium",
+   "Net: glasvezel / PVC (standaard)",
+   "Breedte: tot 400 cm (tot 800 cm voor een paar deuren)",
+   "Hoogte: tot 300 cm",
+   "Kan worden geïnstalleerd in zeer grote nissen",
+   "Speciale netten verkrijgbaar",
+   "Profielen gelakt in alle RAL-kleuren"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De Top-Zag hor kan zelfs in zeer grote nissen met een breedte tot 800 cm worden gebruikt. Het is ook geschikt voor smallere openingen. Het kan in de nis of op de nis worden geïnstalleerd. Voor grote netten van meer dan 10 m² zijn speciaal versterkte profielen nodig."
+   },
+   {
+    "t": "p",
+    "x": "De Top-Zag hor gaat niet ten koste van de functionaliteit van de deur. De traditionele handgreep wordt vervangen door een groef in het profiel, die magnetisch sluit. Bij montage op een hoekraam kan de middenstijl vervallen."
+   },
+   {
+    "t": "p",
+    "x": "De horprofielen kunnen in elke RAL-kleur worden gelakt."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/top-zag.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "mph-harmony-dual",
+  "title": "MPH Harmony Dual",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium profiel",
+   "maximale vleugelbreedte tot 2,7 m",
+   "het gaas vouwt in een accordeon bij het sluiten en verbergt in het zijprofiel",
+   "gebruik van een lage drempel",
+   "mogelijkheid om een hor in een hoek te maken zonder paal"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "Het MPH Harmony muskietennet is ontworpen om ruimte te besparen. Het is bestemd voor montage op terrasdeuren en balkonnissen."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/mph-harmony-dual.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "jolly",
+  "title": "Jolly",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "frame: geëxtrudeerd aluminium",
+   "net: glasvezel / PVC (standaard)",
+   "kleur net: grijs",
+   "breedte: tot 1600 mm*",
+   "hoogte: 1400 tot 2800 mm*",
+   "profielen gelakt in geselecteerde RAL-kleuren of afgewerkt met geselecteerde folie op houteffecten"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De Jolly oprolbare schuifhor wordt aanbevolen voor ramen en terrasdeuren. Het openen en sluiten van buiten en binnen wordt vergemakkelijkt door een speciale handgreep over de volledige hoogte van het profiel. Jolly is ook uitgerust met oprolbare rails in het zijprofiel, die tot taak hebben het net af te sluiten en te stabiliseren."
+   },
+   {
+    "t": "p",
+    "x": "De bodembeugel van deze hor is slechts 5 mm hoog en het openen en sluiten gaat soepel, ondanks het gebruik van veren die het net oprollen. Dit maakt het zeer geschikt voor intensief gebruikte ruimtes."
+   },
+   {
+    "t": "p",
+    "x": "Het monteren van de Jolly hor in de geleiders gaat snel en eenvoudig dankzij de bajonetklemmen. Het opzetten van de hor is met een \"klik\" gebeurd en voor het verwijderen hoeft alleen het pakket uit de clips gehaald te worden. Dit is een van de handigste oplossingen op de markt."
+   },
+   {
+    "t": "p",
+    "x": "*De hoogte van de hor moet groter zijn dan de breedte van de hor."
+   }
+  ],
+  "colors": [],
+  "pdfs": [
+   {
+    "t": "Horren folder (PDF)",
+    "u": "https://pliki.ekookna.pl/files/nl/Marketingmateriaal/Folders/Folder_Horren-voor-ramen_NL.pdf"
+   }
+  ],
+  "image": {
+   "src": "/img/catalogus/horren/jolly.webp",
+   "w": 920,
+   "h": 690
+  }
+ },
+ {
+  "cat": "horren",
+  "sub": "uitschuifbare-horren",
+  "slug": "mrp",
+  "title": "MRP",
+  "tags": [
+   "Uitschuifbare horren"
+  ],
+  "bullets": [
+   "Kader: geëxtrudeerd aluminium",
+   "Max. breedte: 1700 mm",
+   "Max. hoogte: 2500 mm",
+   "Max. oppervlakte: 4,25 m²",
+   "Dubbelvleugelige passerende configuratie",
+   "Profielen gelakt in geselecteerde RAL-kleuren of houtnerf"
+  ],
+  "numbers": [],
+  "desc": [
+   {
+    "t": "p",
+    "x": "De MRP-schuifhor beschermt alle beglaasde nissen van balkons, terrassen en zelfs serres perfect tegen insecten. Het kader, waarop het horrengaas is gespannen, is gemaakt van massieve aluminium profielen (geëxtrudeerd aluminium – een synoniem voor duurzaamheid) en glijdt soepel tussen de bovenste en onderste geleiderail, zonder de toegang tot de beschermde ruimte op enigerlei wijze te beperken."
+   },
+   {
+    "t": "p",
+    "x": "Kenmerkend voor de MRP-schuifhor is dat het de enige schuifhor is met elkaar passerende delen in een dubbelvleugelige configuratie."
+   },
+   {
+    "t": "ul",
+    "x": [
+     "materiaal van het kader: geëxtrudeerd aluminium",
+     "max. breedte: 1700 mm",
+     "max. systeembreedte: 3200 mm (verlenging van de Z-rail tot 6000 mm mogelijk)",
+     "max. hoogte: 2000 mm",
+     "max. oppervlakte: 4,2 m²",
+     "mogelijkheid om gespecialiseerd gaas te gebruiken"
+    ]
+   }
+  ],
+  "colors": [],
+  "pdfs": [],
+  "image": {
+   "src": "/img/catalogus/horren/mrp.webp",
+   "w": 920,
+   "h": 690
+  }
+ }
+]

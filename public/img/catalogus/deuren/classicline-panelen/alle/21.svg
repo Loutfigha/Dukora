@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.8" height="165.8" viewBox="0 0 71.8 165.8">
+  <g id="classicline_pvc_21" transform="translate(949.33 2342.57)">
+    <g id="PANEL7K40" transform="translate(-948.93 -2342.17)">
+      <g id="LWPOLYLINE" transform="translate(0 0)">
+        <rect id="Rectangle_33" data-name="Rectangle 33" width="71" height="165" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="_x32_2" transform="translate(-887.901 -2342.17)">
+      <g id="LWPOLYLINE_106_" transform="translate(0 0)">
+        <line id="Line_4659" data-name="Line 4659" y2="165" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="ROUTER4K50" transform="translate(-939.05 -2342.17)">
+      <g id="LWPOLYLINE_10_" transform="translate(51.149 0)">
+        <line id="Line_4660" data-name="Line 4660" y2="165" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_11_" transform="translate(0 0)">
+        <line id="Line_4661" data-name="Line 4661" y2="165" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_12_" transform="translate(5.87 115.825)">
+        <path id="Path_9014" data-name="Path 9014" d="M-461.88,1271.5v-31.709h0a.275.275,0,0,1,.275-.275h3.886a.274.274,0,0,1,.226.119,18.593,18.593,0,0,0,25.879,4.761,18.612,18.612,0,0,0,4.756-4.761.275.275,0,0,1,.226-.119h3.886a.275.275,0,0,1,.275.275V1271.5h0a.275.275,0,0,1-.275.275h-38.859a.274.274,0,0,1-.275-.275v-4.079" transform="translate(461.88 -1239.52)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_13_" transform="translate(23.732 14.573)">
+        <path id="Path_9015" data-name="Path 9015" d="M94.662-1887.526l-1.45-3.814a.275.275,0,0,0-.355-.159.275.275,0,0,0-.159.159l-1.45,3.814a1.842,1.842,0,0,0,1.015,2.4,1.842,1.842,0,0,0,2.4-1.015,1.843,1.843,0,0,0,0-1.384h0" transform="translate(-91.113 1891.517)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_14_" transform="translate(26.637 14.186)">
+        <path id="Path_9016" data-name="Path 9016" d="M185.4-1902.826l-4.028-.651a.275.275,0,0,0-.315.228.275.275,0,0,0,.058.218l2.578,3.163a1.842,1.842,0,0,0,2.585.32,1.842,1.842,0,0,0,.32-2.585,1.841,1.841,0,0,0-1.2-.692h0" transform="translate(-181.05 1903.48)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_15_" transform="translate(18.577 14.186)">
+        <path id="Path_9017" data-name="Path 9017" d="M-66.829-1902.825l4.028-.651a.275.275,0,0,1,.218.058.275.275,0,0,1,.039.387l-2.578,3.163a1.842,1.842,0,0,1-1.2.692,1.842,1.842,0,0,1-2.079-1.57,1.841,1.841,0,0,1,1.57-2.078h0" transform="translate(68.416 1903.48)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_16_" transform="translate(23.732 88.809)">
+        <path id="Path_9018" data-name="Path 9018" d="M94.669,406.636l-1.45,3.814a.275.275,0,0,1-.514,0l-1.45-3.814a1.842,1.842,0,1,1,3.415,0h0" transform="translate(-91.12 -404.101)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_17_" transform="translate(26.637 91.401)">
+        <path id="Path_9019" data-name="Path 9019" d="M185.394,487.915l-4.028.651a.275.275,0,0,1-.257-.445l2.578-3.163a1.842,1.842,0,1,1,1.707,2.957h0" transform="translate(-181.047 -484.248)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_18_" transform="translate(18.577 91.4)">
+        <path id="Path_9020" data-name="Path 9020" d="M-66.829,487.91l4.028.651a.275.275,0,0,0,.315-.228.275.275,0,0,0-.058-.218l-2.578-3.163a1.842,1.842,0,0,0-2.585-.32,1.842,1.842,0,0,0-.32,2.585,1.841,1.841,0,0,0,1.2.692h0" transform="translate(68.417 -484.243)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_19_" transform="translate(23.732 115.407)">
+        <path id="Path_9021" data-name="Path 9021" d="M94.662,1230.584l-1.45-3.814a.275.275,0,0,0-.514,0l-1.45,3.814a1.842,1.842,0,1,0,3.414,0h0" transform="translate(-91.113 -1226.593)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_20_" transform="translate(26.637 115.02)">
+        <path id="Path_9022" data-name="Path 9022" d="M185.4,1215.284l-4.028-.651a.275.275,0,0,0-.257.445l2.578,3.163a1.842,1.842,0,1,0,1.707-2.957h0" transform="translate(-181.05 -1214.63)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_21_" transform="translate(18.577 115.02)">
+        <path id="Path_9023" data-name="Path 9023" d="M-66.829,1215.285l4.028-.651a.275.275,0,0,1,.218.058.275.275,0,0,1,.039.387l-2.578,3.163a1.842,1.842,0,0,1-1.2.692,1.842,1.842,0,0,1-2.079-1.57,1.841,1.841,0,0,1,1.57-2.078h0" transform="translate(68.416 -1214.63)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_22_" transform="translate(5.871 14.992)">
+        <path id="Path_9024" data-name="Path 9024" d="M-422.462-1874.218v-4.078a.275.275,0,0,0-.275-.275h-3.886a.274.274,0,0,0-.226.119,18.61,18.61,0,0,1-4.756,4.761,18.593,18.593,0,0,1-25.879-4.761.274.274,0,0,0-.226-.119H-461.6a.275.275,0,0,0-.275.275v79.375a.275.275,0,0,0,.275.275h3.886a.274.274,0,0,0,.226-.119,18.614,18.614,0,0,1,4.756-4.761,18.593,18.593,0,0,1,25.879,4.761.275.275,0,0,0,.226.119h3.886a.275.275,0,0,0,.275-.275V-1878.3" transform="translate(461.87 1878.57)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="_x32_2_x5F_2" transform="translate(-939.05 -2342.17)">
+      <g id="LWPOLYLINE_24_" transform="translate(0 0)">
+        <line id="Line_4662" data-name="Line 4662" y2="165" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="P1015_x5F_3_x5F_2_x5F_2_x5F_3" transform="translate(-939.05 -2342.17)">
+      <g id="LWPOLYLINE_90_" transform="translate(0 0)">
+        <line id="Line_4663" data-name="Line 4663" y2="165" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="giulla_dxf_x5F_1_x5F_2" transform="translate(-939.05 -2333.049)">
+      <g id="LWPOLYLINE_26_" transform="translate(0 100.833)">
+        <path id="Path_9025" data-name="Path 9025" d="M-620.512,1101.99h28.251v-44H-643.41v44h22.9" transform="translate(643.41 -1057.99)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_27_" transform="translate(0 0)">
+        <path id="Path_9026" data-name="Path 9026" d="M-620.512-1968.454h28.251v-91.667H-643.41v91.667h22.9" transform="translate(643.41 2060.12)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="P1013_x5F_3" transform="translate(-939.05 -2333.049)">
+      <g id="LWPOLYLINE_30_" transform="translate(0 100.833)">
+        <path id="Path_9027" data-name="Path 9027" d="M-620.512,1101.99h28.251v-44H-643.41v44h22.9" transform="translate(643.41 -1057.99)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_31_" transform="translate(0 0)">
+        <path id="Path_9028" data-name="Path 9028" d="M-620.512-1968.454h28.251v-91.667H-643.41v91.667h22.9" transform="translate(643.41 2060.12)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="ROUTER0K10" transform="translate(-937.513 -2331.491)">
+      <g id="LWPOLYLINE_83_" transform="translate(0 100.833)">
+        <path id="Path_9029" data-name="Path 9029" d="M-578.911,1147.063h31.765V1106.18H-595.22v40.883h26.409" transform="translate(595.22 -1106.18)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_82_" transform="translate(0 0)">
+        <path id="Path_9030" data-name="Path 9030" d="M-578.911-1923.38h31.765v-88.55H-595.22v88.55h26.409" transform="translate(595.22 2011.93)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="P1013_x5F_2_x5F_2" transform="translate(-939.05 -2333.049)">
+      <g id="LWPOLYLINE_34_" transform="translate(0 100.833)">
+        <path id="Path_9031" data-name="Path 9031" d="M-620.512,1101.99h28.251v-44H-643.41v44h22.9" transform="translate(643.41 -1057.99)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_35_" transform="translate(0 0)">
+        <path id="Path_9032" data-name="Path 9032" d="M-620.512-1968.454h28.251v-91.667H-643.41v91.667h22.9" transform="translate(643.41 2060.12)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="giulla_x5F_giallo_dxf_x5F_1" transform="translate(-933.201 -2226.345)">
+      <g id="LWPOLYLINE_79_" transform="translate(0 0)">
+        <path id="Path_9033" data-name="Path 9033" d="M-461.88,1271.5v-31.709h0a.275.275,0,0,1,.275-.275h3.89a.275.275,0,0,1,.226.119,18.625,18.625,0,0,0,25.906,4.761,18.621,18.621,0,0,0,4.761-4.761.275.275,0,0,1,.226-.119h3.89a.275.275,0,0,1,.275.275V1271.5h0a.275.275,0,0,1-.275.275h-38.9a.274.274,0,0,1-.275-.275" transform="translate(461.88 -1239.52)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="P1015_x5F_3" transform="translate(-933.201 -2226.345)">
+      <g id="LWPOLYLINE_37_" transform="translate(0 0)">
+        <path id="Path_9034" data-name="Path 9034" d="M-461.88,1271.5v-31.709h0a.275.275,0,0,1,.275-.275h3.89a.275.275,0,0,1,.226.119,18.625,18.625,0,0,0,25.906,4.761,18.621,18.621,0,0,0,4.761-4.761.275.275,0,0,1,.226-.119h3.89a.275.275,0,0,1,.275.275V1271.5h0a.275.275,0,0,1-.275.275h-38.9a.274.274,0,0,1-.275-.275" transform="translate(461.88 -1239.52)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="giulla__x5F_kwiat_dxf_x5F_1" transform="translate(-920.477 -2327.984)">
+      <g id="LWPOLYLINE_77_" transform="translate(5.159 0.387)">
+        <path id="Path_9035" data-name="Path 9035" d="M94.662-1887.526l-1.45-3.814a.275.275,0,0,0-.355-.159.275.275,0,0,0-.159.159l-1.45,3.814a1.842,1.842,0,0,0,1.015,2.4,1.842,1.842,0,0,0,2.4-1.015,1.843,1.843,0,0,0,0-1.384" transform="translate(-91.113 1891.517)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_76_" transform="translate(8.067 0)">
+        <path id="Path_9036" data-name="Path 9036" d="M185.4-1902.826l-4.028-.651a.275.275,0,0,0-.315.228.275.275,0,0,0,.058.218l2.578,3.163a1.842,1.842,0,0,0,2.585.32,1.842,1.842,0,0,0,.32-2.585,1.841,1.841,0,0,0-1.2-.692" transform="translate(-181.05 1903.48)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_75_" transform="translate(0 0)">
+        <path id="Path_9037" data-name="Path 9037" d="M-66.829-1902.825l4.028-.651a.275.275,0,0,1,.218.058.275.275,0,0,1,.039.387l-2.578,3.163a1.842,1.842,0,0,1-1.2.692,1.842,1.842,0,0,1-2.079-1.57,1.841,1.841,0,0,1,1.57-2.078" transform="translate(68.416 1903.48)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_74_" transform="translate(5.159 74.623)">
+        <path id="Path_9038" data-name="Path 9038" d="M94.669,406.636l-1.45,3.814a.275.275,0,0,1-.514,0l-1.45-3.814a1.842,1.842,0,1,1,3.415,0" transform="translate(-91.12 -404.101)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_73_" transform="translate(8.067 77.214)">
+        <path id="Path_9039" data-name="Path 9039" d="M185.394,487.915l-4.028.651a.275.275,0,0,1-.257-.445l2.578-3.163a1.842,1.842,0,1,1,1.707,2.957" transform="translate(-181.047 -484.248)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_72_" transform="translate(0 77.214)">
+        <path id="Path_9040" data-name="Path 9040" d="M-66.829,487.91l4.028.651a.275.275,0,0,0,.315-.228.275.275,0,0,0-.058-.218l-2.578-3.163a1.842,1.842,0,0,0-2.585-.32,1.842,1.842,0,0,0-.32,2.585,1.841,1.841,0,0,0,1.2.692" transform="translate(68.417 -484.243)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_71_" transform="translate(5.159 101.22)">
+        <path id="Path_9041" data-name="Path 9041" d="M94.662,1230.584l-1.45-3.814a.275.275,0,0,0-.514,0l-1.45,3.814a1.842,1.842,0,1,0,3.414,0" transform="translate(-91.113 -1226.593)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_70_" transform="translate(8.067 100.833)">
+        <path id="Path_9042" data-name="Path 9042" d="M185.4,1215.284l-4.028-.651a.275.275,0,0,0-.257.445l2.578,3.163a1.842,1.842,0,1,0,1.707-2.957" transform="translate(-181.05 -1214.63)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_69_" transform="translate(0 100.833)">
+        <path id="Path_9043" data-name="Path 9043" d="M-66.829,1215.285l4.028-.651a.275.275,0,0,1,.218.058.275.275,0,0,1,.039.387l-2.578,3.163a1.842,1.842,0,0,1-1.2.692,1.842,1.842,0,0,1-2.079-1.57,1.841,1.841,0,0,1,1.57-2.078" transform="translate(68.416 -1214.63)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="P1015_x5F_3_x5F_2" transform="translate(-920.477 -2327.984)">
+      <g id="LWPOLYLINE_47_" transform="translate(5.159 0.387)">
+        <path id="Path_9044" data-name="Path 9044" d="M94.662-1887.526l-1.45-3.814a.275.275,0,0,0-.355-.159.275.275,0,0,0-.159.159l-1.45,3.814a1.842,1.842,0,0,0,1.015,2.4,1.842,1.842,0,0,0,2.4-1.015,1.843,1.843,0,0,0,0-1.384" transform="translate(-91.113 1891.517)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_48_" transform="translate(8.067 0)">
+        <path id="Path_9045" data-name="Path 9045" d="M185.4-1902.826l-4.028-.651a.275.275,0,0,0-.315.228.275.275,0,0,0,.058.218l2.578,3.163a1.842,1.842,0,0,0,2.585.32,1.842,1.842,0,0,0,.32-2.585,1.841,1.841,0,0,0-1.2-.692" transform="translate(-181.05 1903.48)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_49_" transform="translate(0 0)">
+        <path id="Path_9046" data-name="Path 9046" d="M-66.829-1902.825l4.028-.651a.275.275,0,0,1,.218.058.275.275,0,0,1,.039.387l-2.578,3.163a1.842,1.842,0,0,1-1.2.692,1.842,1.842,0,0,1-2.079-1.57,1.841,1.841,0,0,1,1.57-2.078" transform="translate(68.416 1903.48)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_50_" transform="translate(5.159 74.623)">
+        <path id="Path_9047" data-name="Path 9047" d="M94.669,406.636l-1.45,3.814a.275.275,0,0,1-.514,0l-1.45-3.814a1.842,1.842,0,1,1,3.415,0" transform="translate(-91.12 -404.101)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_51_" transform="translate(8.067 77.214)">
+        <path id="Path_9048" data-name="Path 9048" d="M185.394,487.915l-4.028.651a.275.275,0,0,1-.257-.445l2.578-3.163a1.842,1.842,0,1,1,1.707,2.957" transform="translate(-181.047 -484.248)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_52_" transform="translate(0 77.214)">
+        <path id="Path_9049" data-name="Path 9049" d="M-66.829,487.91l4.028.651a.275.275,0,0,0,.315-.228.275.275,0,0,0-.058-.218l-2.578-3.163a1.842,1.842,0,0,0-2.585-.32,1.842,1.842,0,0,0-.32,2.585,1.841,1.841,0,0,0,1.2.692" transform="translate(68.417 -484.243)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_53_" transform="translate(5.159 101.22)">
+        <path id="Path_9050" data-name="Path 9050" d="M94.662,1230.584l-1.45-3.814a.275.275,0,0,0-.514,0l-1.45,3.814a1.842,1.842,0,1,0,3.414,0" transform="translate(-91.113 -1226.593)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_54_" transform="translate(8.067 100.833)">
+        <path id="Path_9051" data-name="Path 9051" d="M185.4,1215.284l-4.028-.651a.275.275,0,0,0-.257.445l2.578,3.163a1.842,1.842,0,1,0,1.707-2.957" transform="translate(-181.05 -1214.63)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+      <g id="LWPOLYLINE_55_" transform="translate(0 100.833)">
+        <path id="Path_9052" data-name="Path 9052" d="M-66.829,1215.285l4.028-.651a.275.275,0,0,1,.218.058.275.275,0,0,1,.039.387l-2.578,3.163a1.842,1.842,0,0,1-1.2.692,1.842,1.842,0,0,1-2.079-1.57,1.841,1.841,0,0,1,1.57-2.078" transform="translate(68.416 -1214.63)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="giulla_x5F_giallo_2_dxf_x5F_1" transform="translate(-933.2 -2327.179)">
+      <g id="LWPOLYLINE_59_" transform="translate(0 0)">
+        <path id="Path_9053" data-name="Path 9053" d="M-422.42-1878.315a.275.275,0,0,0-.275-.275h-3.89a.274.274,0,0,0-.226.119,18.623,18.623,0,0,1-4.761,4.761,18.625,18.625,0,0,1-25.906-4.761.275.275,0,0,0-.226-.119h-3.89a.275.275,0,0,0-.275.275v79.376a.275.275,0,0,0,.275.275h3.89a.274.274,0,0,0,.226-.119,18.621,18.621,0,0,1,4.761-4.761,18.625,18.625,0,0,1,25.906,4.761.275.275,0,0,0,.226.119h3.89a.275.275,0,0,0,.275-.275v-79.376" transform="translate(461.87 1878.59)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+    <g id="P1015_x5F_3_x5F_2_x5F_2" transform="translate(-933.2 -2327.179)">
+      <g id="LWPOLYLINE_57_" transform="translate(0 0)">
+        <path id="Path_9054" data-name="Path 9054" d="M-422.42-1878.315a.275.275,0,0,0-.275-.275h-3.89a.274.274,0,0,0-.226.119,18.623,18.623,0,0,1-4.761,4.761,18.625,18.625,0,0,1-25.906-4.761.275.275,0,0,0-.226-.119h-3.89a.275.275,0,0,0-.275.275v79.376a.275.275,0,0,0,.275.275h3.89a.274.274,0,0,0,.226-.119,18.621,18.621,0,0,1,4.761-4.761,18.625,18.625,0,0,1,25.906,4.761.275.275,0,0,0,.226.119h3.89a.275.275,0,0,0,.275-.275v-79.376" transform="translate(461.87 1878.59)" fill="none" stroke="#706f6f" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="0.8"/>
+      </g>
+    </g>
+  </g>
+</svg>

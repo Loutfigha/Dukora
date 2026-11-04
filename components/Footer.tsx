@@ -12,17 +12,16 @@ export default function Footer() {
         <div className="grid gap-[clamp(32px,4vw,56px)] nav:grid-cols-[1.4fr_1fr_1fr_1fr]">
           <div>
             <Link href="/" className="text-[21px] font-bold tracking-[-.04em] text-white hover:text-white">Dukora</Link>
-            <p className="mt-5 max-w-[290px] text-[15px] leading-[1.6]">Kozijnen, deuren en schuifpuien. Geleverd en geplaatst door onze eigen mensen, in heel Nederland.</p>
+            <p className="mt-5 max-w-[290px] text-[15px] leading-[1.6]">PVC ramen, deuren, schuifsystemen en horren. Geleverd en geplaatst door onze eigen mensen, in heel Nederland.</p>
             <TLink href={SITE.phoneHref} track="tel_footer" className="mt-5 block text-[19px] font-semibold text-white hover:text-accent-light">{SITE.phone}</TLink>
           </div>
           <div>
-            <h3 className={headCls}>Kozijnen</h3>
+            <h3 className={headCls}>Assortiment</h3>
             <div className="flex flex-col gap-3">
-              <Link className={linkCls} href="/kunststof-kozijnen">Kunststof</Link>
-              <Link className={linkCls} href="/aluminium-kozijnen">Aluminium</Link>
-              <Link className={linkCls} href="/houten-kozijnen">Hout</Link>
-              <Link className={linkCls} href="/kunststof-kozijnen">Deuren</Link>
-              <Link className={linkCls} href="/aluminium-kozijnen">Schuifpuien</Link>
+              <Link className={linkCls} href="/pvc-ramen">PVC ramen</Link>
+              <Link className={linkCls} href="/pvc-deuren">PVC deuren</Link>
+              <Link className={linkCls} href="/pvc-schuifsystemen">PVC schuifsystemen</Link>
+              <Link className={linkCls} href="/horren">Horren</Link>
             </div>
           </div>
           <div>
@@ -32,7 +31,7 @@ export default function Footer() {
               <Link className={linkCls} href="/projecten">Projecten</Link>
               <Link className={linkCls} href="/#werkwijze">Werkwijze</Link>
               <Link className={linkCls} href="/#reviews">Reviews</Link>
-              <Link className={linkCls} href="/kunststof-kozijnen#veelgestelde-vragen">Veelgestelde vragen</Link>
+              <Link className={linkCls} href="/contact">Stel een vraag</Link>
             </div>
           </div>
           <div>

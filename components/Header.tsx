@@ -21,15 +21,15 @@ export default function Header() {
               key={n.href}
               href={n.href}
               aria-current={pathname === n.href ? 'page' : undefined}
-              className="px-[13px] py-[9px] text-[14.5px] font-medium text-[#3A3F45] hover:text-ink aria-[current=page]:text-ink"
+              className="whitespace-nowrap px-2 py-[9px] text-[14px] font-medium text-[#3A3F45] hover:text-ink aria-[current=page]:text-ink [@media(min-width:1180px)]:px-[13px] [@media(min-width:1180px)]:text-[14.5px]"
             >
               {n.label}
             </Link>
           ))}
         </nav>
         <div className="hidden flex-none items-center gap-[18px] nav:flex">
-          <TLink href={SITE.phoneHref} track="tel_click" className="text-[14.5px] font-medium tracking-[-.01em] text-ink hover:text-accent">{SITE.phone}</TLink>
-          <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary gap-[9px] px-5 py-[13px] text-[14.5px]">
+          <TLink href={SITE.phoneHref} track="tel_click" className="hidden text-[14.5px] font-medium tracking-[-.01em] text-ink hover:text-accent [@media(min-width:1180px)]:inline">{SITE.phone}</TLink>
+          <TLink href="/offerte-aanvragen" track="cta_offerte_nav" className="btn-primary gap-[9px] whitespace-nowrap px-4 py-[13px] text-[14.5px] [@media(min-width:1180px)]:px-5">
             Offerte aanvragen<Arrow size={13} />
           </TLink>
         </div>

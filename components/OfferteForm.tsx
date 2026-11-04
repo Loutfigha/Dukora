@@ -9,8 +9,8 @@ import Arrow from './Arrow';
 const STORE = 'dukora-offerte';
 const TOTAL = 7;
 
-const MATERIAAL = ['Kunststof', 'Aluminium', 'Hout', 'Weet ik nog niet'];
-const ONDERDELEN = ['Kozijnen', 'Deuren', 'Schuifpui', 'Gevel', 'Meerdere onderdelen'];
+const MATERIAAL = ['Kunststof', 'Weet ik nog niet'];
+const ONDERDELEN = ['Ramen', 'Deuren', 'Schuifsysteem', 'Horren', 'Meerdere onderdelen'];
 const AANTAL = ['1 tot 5', '6 tot 10', '11 tot 20', 'Meer dan 20', 'Weet ik niet'];
 const WONING = ['Tussenwoning', 'Hoekwoning', 'Twee onder een kap', 'Vrijstaand', 'Appartement', 'Anders'];
 
@@ -170,9 +170,9 @@ export default function OfferteFormView() {
         <form onSubmit={submit} noValidate className="mt-[clamp(32px,4vw,48px)]">
           {step === 1 && (
             <fieldset className="m-0 border-0 p-0">
-              <legend className={legend}>Wat voor kozijnen zoekt u?</legend>
-              <p className={hint}>Weet u het nog niet? Dat is geen probleem — dan adviseren wij.</p>
-              <Options name="materiaal" type="radio" values={MATERIAAL} labels={{ 'Weet ik nog niet': 'Ik weet het nog niet' }} selected={[f.materiaal]} onChange={(v) => set('materiaal', v)} min={200} errId="err-materiaal" />
+              <legend className={legend}>Welk materiaal zoekt u?</legend>
+              <p className={hint}>Wij werken met PVC. Weet u het nog niet? Dat is geen probleem — dan adviseren wij.</p>
+              <Options name="materiaal" type="radio" values={MATERIAAL} labels={{ Kunststof: 'Kunststof (PVC)', 'Weet ik nog niet': 'Ik weet het nog niet' }} selected={[f.materiaal]} onChange={(v) => set('materiaal', v)} min={200} errId="err-materiaal" />
               <Err id="materiaal">{err('materiaal')}</Err>
             </fieldset>
           )}
