@@ -81,9 +81,9 @@ export default function Home() {
       {/* 1. Hero */}
       <section className="relative flex min-h-[min(92vh,900px)] items-end overflow-hidden bg-ink-deep">
         <div className="absolute inset-0">
-          <Photo priority quiet placeholder="Hero — moderne Nederlandse woning met nieuwe kozijnen, liggend, min. 2400px breed" className="!bg-ink-deep" />
+          <Photo priority quiet src="/img/foto/hero-woning.webp" alt="Moderne vrijstaande woning met grote ramen en een groen gazon" placeholder="Hero" className="!bg-ink-deep" />
         </div>
-        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_top,rgba(10,12,14,.9)_0%,rgba(10,12,14,.55)_42%,rgba(10,12,14,.1)_86%)]" />
+        <div className="pointer-events-none absolute inset-0 bg-[linear-gradient(to_top,rgba(10,12,14,.92)_0%,rgba(10,12,14,.72)_46%,rgba(10,12,14,.32)_100%)]" />
         <div className="wrap relative pb-[68px]">
           <div className="max-w-[760px]">
             <p className="eyebrow-dark mb-[26px]">Kozijnen &amp; montage · Heel Nederland</p>
@@ -130,7 +130,7 @@ export default function Home() {
             <TLink href="/offerte-aanvragen" track="cta_offerte_waarom" className="link-cta">Bekijk wat het voor uw woning betekent<Arrow size={13} /></TLink>
           </Reveal>
           <Reveal>
-            <Photo aspect="aspect-[4/3]" placeholder="Detailfoto — kozijn van binnenuit, daglicht" sizes="(min-width:961px) 50vw, 100vw" />
+            <Photo aspect="aspect-[4/3]" src="/img/foto/ramen-interieur.webp" alt="Ramen met donkere kozijnen van binnenuit gezien, met daglicht en gordijnen" placeholder="Detailfoto — kozijn van binnenuit, daglicht" sizes="(min-width:961px) 50vw, 100vw" />
             <ol className="m-0 mt-[34px] grid list-none grid-cols-1 border-t border-line p-0 sm:grid-cols-2">
               {WAAROM.map(([t, s], i) => (
                 <li key={t} className={`flex gap-[14px] border-b border-line py-[22px] ${i % 2 === 0 ? 'sm:border-r sm:pr-6' : 'sm:pl-6'}`}>

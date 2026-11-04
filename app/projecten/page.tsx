@@ -75,7 +75,7 @@ export default function Projecten() {
               <p className="mt-3 text-[15.5px] leading-[1.6] text-text-4">PVC schuifsysteem van [X] meter. Twee dagen werk, tuin en keuken lopen nu in elkaar over.</p>
             </Reveal>
             <Reveal as="article">
-              <Photo aspect="aspect-[4/3]" placeholder="Project 4 — tussenwoning voorzijde" sizes="(min-width:961px) 50vw, 100vw" />
+              <Photo aspect="aspect-[4/3]" src="/img/foto/gevel-woning.webp" alt="Gevel van een woning met witte kozijnen op de begane grond en de verdieping" placeholder="Project 4 — tussenwoning voorzijde" sizes="(min-width:961px) 50vw, 100vw" className="[&_img]:object-[50%_35%]" />
               <p className={`${nr} mt-5`}>04</p>
               <h2 className="mt-[10px] text-2xl font-semibold tracking-[-.03em]">Tussenwoning — [Plaats]</h2>
               <p className="mt-3 text-[15.5px] leading-[1.6] text-text-4">Zes kozijnen en een voordeur in één dag vervangen. Bewoners konden dezelfde avond weer normaal wonen.</p>
