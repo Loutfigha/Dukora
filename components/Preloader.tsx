@@ -7,6 +7,7 @@ const SLEUTEL = 'dukora-intro';
 const LANG = { min: 1600, uit: 550 };  // eerste bezoek van een tabblad: de volle animatie
 const KORT = { min: 700, uit: 400 };   // elke volgende pagina: sneller, zodat het niet hindert
 const MAX_MS = 5000;                   // nooit langer wachten dan dit op het laden
+const PAGINAS = ['/', '/contact'];    // het laadscherm hoort alleen bij deze pagina's
 
 // Het beeldmerk bestaat uit vier losse stukken (de verstekverbindingen). Ze schuiven in volgorde
 // naar binnen en vormen samen de D: stijl, bovenbalk, boog, onderbalk.
@@ -21,16 +22,19 @@ const VOLGORDE: { i: number; x: number; y: number; d: number }[] = [
 type Stap = 'zichtbaar' | 'weg' | 'klaar';
 
 /**
- * Laadscherm op elke pagina: de D wordt als kozijnframe in elkaar gezet, daarna verschijnt het
+ * Laadscherm op de homepage en de contactpagina: de D wordt als kozijnframe in elkaar gezet, daarna verschijnt het
+
  * woordmerk en trekt het scherm weg. De eerste keer in een tabblad duurt het langer; bij een
- * volgende pagina (verversen, een link, vooruit of terug) is het een snellere versie.
+ * volgende keer (verversen, een link, vooruit of terug) is het een snellere versie.
  * Verborgen bij `prefers-reduced-motion` en zonder JavaScript. De inhoud staat altijd in de pagina.
  */
 export default function Preloader() {
-  const [stap, setStap] = useState<Stap>('zichtbaar');
+  const pathname = usePathname();
+  const hoortHier = PAGINAS.includes(pathname);
+  // Op andere pagina's wordt het scherm niet eens meegestuurd: geen flits, geen vertraging.
+  const [stap, setStap] = useState<Stap>(hoortHier ? 'zichtbaar' : 'klaar');
   const [kort, setKort] = useState(false); // alleen voor paginawissels binnen de site
   const [n, setN] = useState(0);           // verandert bij elke nieuwe weergave, zodat de animatie opnieuw begint
-  const pathname = usePathname();
   const eerste = useRef(true);
   const timers = useRef<number[]>([]);
   const oudeOverflow = useRef('');
@@ -69,22 +73,32 @@ export default function Preloader() {
 
   // Eerste weergave van dit document (nieuw tabblad, verversen of een link naar een andere pagina).
   useEffect(() => {
+    if (!hoortHier) return;
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) { setStap('klaar'); return; }
     let gezien = false;
     try { gezien = !!sessionStorage.getItem(SLEUTEL); } catch {}
     afspelen(gezien ? KORT : LANG, true, true);
     return () => { opruimen(); document.documentElement.style.overflow = oudeOverflow.current; };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [afspelen, opruimen]);
 
   // Paginawissel binnen de site (links, vooruit en terug): de snelle versie opnieuw afspelen.
   useEffect(() => {
     if (eerste.current) { eerste.current = false; return; }
+    if (!hoortHier) {
+      // Weg van homepage of contact: scherm meteen opruimen en scroll weer vrijgeven.
+      opruimen();
+      document.documentElement.style.overflow = oudeOverflow.current;
+      setStap('klaar');
+      return;
+    }
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
     setKort(true);
     setN((x) => x + 1);
     setStap('zichtbaar');
     afspelen(KORT, false, false);
-  }, [pathname, afspelen]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [pathname]);
 
   if (stap === 'klaar') return null;
   return (
