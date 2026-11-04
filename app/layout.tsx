@@ -9,6 +9,7 @@ import SideTab from '@/components/SideTab';
 import CtaBand from '@/components/CtaBand';
 import Footer from '@/components/Footer';
 import WhatsAppFloat from '@/components/WhatsAppFloat';
+import Preloader from '@/components/Preloader';
 
 const body = localFont({
   src: './fonts/Inter-Variable.woff2',
@@ -37,7 +38,13 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="nl" className={`${body.variable} ${display.variable}`}>
+      <head>
+        {/* Wie het laadscherm deze sessie al zag, krijgt het niet opnieuw: voorkomt een flits bij het laden. */}
+        <script dangerouslySetInnerHTML={{ __html: "try{if(sessionStorage.getItem('dukora-intro'))document.documentElement.setAttribute('data-intro-gezien','')}catch(e){}" }} />
+        <noscript><style>{'.preloader{display:none}'}</style></noscript>
+      </head>
       <body>
+        <Preloader />
         <UtilityBar />
         <Header />
         <TrustBar />
