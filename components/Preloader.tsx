@@ -1,10 +1,12 @@
 'use client';
-import { useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
+import { usePathname } from 'next/navigation';
 import { HORIZONTAAL } from './logo-data';
 
-const MIN_MS = 1600; // minimaal zichtbaar, gerekend vanaf het begin van het laden
-const MAX_MS = 5000; // nooit langer dan dit, ook niet als de pagina traag laadt
 const SLEUTEL = 'dukora-intro';
+const LANG = { min: 1600, uit: 550 };  // eerste bezoek van een tabblad: de volle animatie
+const KORT = { min: 700, uit: 400 };   // elke volgende pagina: sneller, zodat het niet hindert
+const MAX_MS = 5000;                   // nooit langer wachten dan dit op het laden
 
 // Het beeldmerk bestaat uit vier losse stukken (de verstekverbindingen). Ze schuiven in volgorde
 // naar binnen en vormen samen de D: stijl, bovenbalk, boog, onderbalk.
@@ -12,53 +14,81 @@ const STUKKEN = HORIZONTAAL.merk.split(/(?=M)/).filter(Boolean);
 const VOLGORDE: { i: number; x: number; y: number; d: number }[] = [
   { i: 3, x: -16, y: 0, d: 0 }, // linkerstijl
   { i: 2, x: 0, y: -16, d: 1 }, // bovenbalk
-  { i: 1, x: 16, y: 0, d: 2 }, // boog rechts
-  { i: 0, x: 0, y: 16, d: 3 }, // onderbalk
+  { i: 1, x: 16, y: 0, d: 2 },  // boog rechts
+  { i: 0, x: 0, y: 16, d: 3 },  // onderbalk
 ];
 
+type Stap = 'zichtbaar' | 'weg' | 'klaar';
+
 /**
- * Laadscherm bij het eerste bezoek van een sessie. De D wordt als kozijnframe in elkaar gezet,
- * daarna verschijnt het woordmerk en trekt het scherm weg. Verborgen bij `prefers-reduced-motion`,
- * zonder JavaScript en bij een volgend bezoek in dezelfde sessie (zie het script in layout.tsx).
+ * Laadscherm op elke pagina: de D wordt als kozijnframe in elkaar gezet, daarna verschijnt het
+ * woordmerk en trekt het scherm weg. De eerste keer in een tabblad duurt het langer; bij een
+ * volgende pagina (verversen, een link, vooruit of terug) is het een snellere versie.
+ * Verborgen bij `prefers-reduced-motion` en zonder JavaScript. De inhoud staat altijd in de pagina.
  */
 export default function Preloader() {
-  const [stap, setStap] = useState<'zichtbaar' | 'weg' | 'klaar'>('zichtbaar');
+  const [stap, setStap] = useState<Stap>('zichtbaar');
+  const [kort, setKort] = useState(false); // alleen voor paginawissels binnen de site
+  const [n, setN] = useState(0);           // verandert bij elke nieuwe weergave, zodat de animatie opnieuw begint
+  const pathname = usePathname();
+  const eerste = useRef(true);
+  const timers = useRef<number[]>([]);
+  const oudeOverflow = useRef('');
 
-  useEffect(() => {
-    let gezien = false;
-    try { gezien = !!sessionStorage.getItem(SLEUTEL); } catch {}
-    if (gezien || window.matchMedia('(prefers-reduced-motion: reduce)').matches) { setStap('klaar'); return; }
+  const opruimen = useCallback(() => {
+    timers.current.forEach(clearTimeout);
+    timers.current = [];
+  }, []);
 
+  const afspelen = useCallback((modus: typeof LANG, vanafNavigatie: boolean, wachtOpLaden: boolean) => {
+    opruimen();
     const root = document.documentElement;
-    const oud = root.style.overflow;
+    oudeOverflow.current = root.style.overflow;
     root.style.overflow = 'hidden';
-    const timers: number[] = [];
+    const start = vanafNavigatie ? 0 : performance.now();
     let afgerond = false;
 
     const afronden = () => {
       if (afgerond) return;
       afgerond = true;
-      const wacht = Math.max(0, MIN_MS - performance.now());
-      timers.push(window.setTimeout(() => {
+      const wacht = Math.max(0, modus.min - (performance.now() - start));
+      timers.current.push(window.setTimeout(() => {
         setStap('weg');
-        timers.push(window.setTimeout(() => {
+        timers.current.push(window.setTimeout(() => {
           setStap('klaar');
-          root.style.overflow = oud;
+          root.style.overflow = oudeOverflow.current;
           try { sessionStorage.setItem(SLEUTEL, '1'); } catch {}
-        }, 550));
+        }, modus.uit));
       }, wacht));
     };
 
-    if (document.readyState === 'complete') afronden();
+    if (!wachtOpLaden || document.readyState === 'complete') afronden();
     else window.addEventListener('load', afronden, { once: true });
-    timers.push(window.setTimeout(afronden, MAX_MS));
+    timers.current.push(window.setTimeout(afronden, MAX_MS));
+  }, [opruimen]);
 
-    return () => { timers.forEach(clearTimeout); window.removeEventListener('load', afronden); root.style.overflow = oud; };
-  }, []);
+  // Eerste weergave van dit document (nieuw tabblad, verversen of een link naar een andere pagina).
+  useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) { setStap('klaar'); return; }
+    let gezien = false;
+    try { gezien = !!sessionStorage.getItem(SLEUTEL); } catch {}
+    afspelen(gezien ? KORT : LANG, true, true);
+    return () => { opruimen(); document.documentElement.style.overflow = oudeOverflow.current; };
+  }, [afspelen, opruimen]);
+
+  // Paginawissel binnen de site (links, vooruit en terug): de snelle versie opnieuw afspelen.
+  useEffect(() => {
+    if (eerste.current) { eerste.current = false; return; }
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    setKort(true);
+    setN((x) => x + 1);
+    setStap('zichtbaar');
+    afspelen(KORT, false, false);
+  }, [pathname, afspelen]);
 
   if (stap === 'klaar') return null;
   return (
-    <div className="preloader" data-weg={stap === 'weg' ? '' : undefined} aria-hidden="true">
+    <div key={n} className="preloader" data-kort={kort ? '' : undefined} data-weg={stap === 'weg' ? '' : undefined} aria-hidden="true">
       <svg viewBox={HORIZONTAAL.viewBox} className="w-[clamp(220px,30vw,360px)]" fill="#fff">
         <g fillRule="evenodd">
           {VOLGORDE.map((v) => (
