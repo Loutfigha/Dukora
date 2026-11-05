@@ -1,0 +1,39 @@
+{
+  "id": "2026-11-14-eerste-winter",
+  "titel": "De eerste winter",
+  "pilaar": "tips",
+  "stijl": "tekst",
+  "formaten": [
+    "instagram-post",
+    "instagram-portret",
+    "instagram-story",
+    "linkedin"
+  ],
+  "inhoud": {
+    "kop": "Het verschil merkt u de eerste winter.",
+    "cta": "Plan een gratis adviesgesprek",
+    "url": "dukora.nl"
+  },
+  "alt": "Tekstafbeelding op een donkere achtergrond: Het verschil merkt u de eerste winter.",
+  "tekst": {
+    "instagram": "Oude kozijnen laten warmte, geluid en vocht door. Met goede profielen en HR++ of triple glas blijft de warmte binnen en is het merkbaar stiller in huis.\n\nHet verschil merkt u de eerste winter.\n\nPlan een gratis adviesgesprek, via de link in onze bio.",
+    "linkedin": "Het verschil tussen oude en nieuwe kozijnen merkt u de eerste winter: de warmte blijft binnen, het is stiller in huis en er is geen schilderwerk meer.\n\nDat vraagt wel om de juiste combinatie van profiel, glas en montage. Wij komen graag langs om mee te kijken.\n\ndukora.nl"
+  },
+  "hashtags": {
+    "instagram": [
+      "#kozijnen",
+      "#isolatie",
+      "#energiebesparing",
+      "#wonen"
+    ],
+    "linkedin": [
+      "#isolatie",
+      "#bouw"
+    ]
+  },
+  "publiceer_op": "2026-11-14T08:30:00+01:00",
+  "status": "concept",
+  "bronnen": [
+    "site: home, 'Het verschil merkt u de eerste winter'"
+  ]
+}

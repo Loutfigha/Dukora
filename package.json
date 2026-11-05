@@ -7,7 +7,11 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "social:render": "node social/scripts/render.mjs",
+    "social:check": "node social/scripts/valideer.mjs",
+    "social:stage": "node social/scripts/stage.mjs",
+    "social:publish": "node social/scripts/publiceer.mjs"
   },
   "dependencies": {
     "next": "^14.2.35",
@@ -21,6 +25,7 @@
     "autoprefixer": "^10.6.1",
     "eslint": "^8.57.1",
     "eslint-config-next": "^14.2.35",
+    "playwright-core": "^1.64.1",
     "postcss": "^8.5.29",
     "tailwindcss": "^3.4.19",
     "typescript": "^6.0.3"

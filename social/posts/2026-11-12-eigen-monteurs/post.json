@@ -1,0 +1,41 @@
+{
+  "id": "2026-11-12-eigen-monteurs",
+  "titel": "Eigen monteurs",
+  "pilaar": "team",
+  "stijl": "foto",
+  "formaten": [
+    "instagram-post",
+    "instagram-portret",
+    "linkedin"
+  ],
+  "inhoud": {
+    "kop": "Onze eigen monteurs.\nGeen onderaannemers.",
+    "cta": "Plan een gratis adviesgesprek",
+    "url": "dukora.nl",
+    "foto": "public/img/foto/monteurs-team.webp",
+    "fotoPositie": "50% 35%"
+  },
+  "alt": "Drie Dukora-monteurs plaatsen samen een raam in een stenen gevel.",
+  "tekst": {
+    "instagram": "Bij Dukora meten, plaatsen en leveren dezelfde mensen op. Geen onderaannemers die u nooit eerder zag.\n\nZo weet u steeds wie er komt en wanneer. En als er na de oplevering iets nagekeken moet worden, staan wij er weer.\n\nPlan een gratis adviesgesprek, via de link in onze bio.",
+    "linkedin": "Bij een kozijn draait het om de aansluiting op de muur. Daarom werken wij met eigen monteurs: dezelfde mensen meten in, plaatsen en leveren op.\n\nGeen wisselende gezichten, wel één aanspreekpunt van het eerste bezoek tot de oplevering.\n\nMeer over onze werkwijze: dukora.nl/over-ons"
+  },
+  "hashtags": {
+    "instagram": [
+      "#kozijnen",
+      "#vakmanschap",
+      "#verbouwen",
+      "#wonen"
+    ],
+    "linkedin": [
+      "#vakmanschap",
+      "#bouw"
+    ]
+  },
+  "publiceer_op": "2026-11-12T08:30:00+01:00",
+  "status": "concept",
+  "bronnen": [
+    "site: /over-ons",
+    "site: /#werkwijze"
+  ]
+}

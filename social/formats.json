@@ -1,0 +1,6 @@
+{
+  "instagram-post":    { "platform": "instagram", "w": 1080, "h": 1080, "px": 135, "pt": 108, "pb": 112, "kop": 122, "omschrijving": "Vierkante post (1:1). Binnen het midden blijft het veilig bij het profielraster." },
+  "instagram-portret": { "platform": "instagram", "w": 1080, "h": 1350, "px": 110, "pt": 120, "pb": 130, "kop": 132, "omschrijving": "Staande post (4:5): meeste ruimte in de feed." },
+  "instagram-story":   { "platform": "instagram", "w": 1080, "h": 1920, "px": 90,  "pt": 250, "pb": 300, "kop": 150, "omschrijving": "Story/Reel-omslag (9:16). Bovenste 250 en onderste 300 px blijven vrij voor de interface." },
+  "linkedin":          { "platform": "linkedin",  "w": 1200, "h": 627,  "px": 72,  "pt": 56,  "pb": 56,  "kop": 78,  "omschrijving": "LinkedIn-afbeelding (1,91:1)." }
+}

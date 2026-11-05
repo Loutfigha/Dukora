@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="nl"><meta charset="utf-8"><title>{{TITEL}}</title>
+<style>
+@font-face{font-family:Newsreader;src:url({{FONT_NEWSREADER}});font-weight:300 500}
+@font-face{font-family:Inter;src:url({{FONT_INTER}});font-weight:400 600}
+/* 1rem = 1 ontwerppixel bij een breedte van 1080: alle maten schalen mee met het formaat. */
+html{font-size:calc(100vw / 1080)}
+*{box-sizing:border-box;margin:0}
+body{width:100vw;height:100vh;overflow:hidden;position:relative;font-family:Inter,sans-serif;-webkit-font-smoothing:antialiased;color:#fff}
+.vlak{position:absolute;inset:0;padding:var(--pt) var(--px) var(--pb);display:flex;flex-direction:column}
+.logo{height:54rem;width:auto;align-self:flex-start;position:relative;z-index:2}
+.kop{font-family:Newsreader,serif;font-weight:300;letter-spacing:-.025em;line-height:1.02;font-size:var(--kop)}
+.label{font-size:22rem;font-weight:500;letter-spacing:.14em;text-transform:uppercase;color:#B8CFC0}
+.cta{font-size:30rem;font-weight:500;letter-spacing:-.005em}
+.url{margin-left:auto;font-size:26rem;color:rgba(255,255,255,.72)}
+.rij{display:flex;align-items:center;gap:28rem;position:relative;z-index:2}
+
+/* stijl: tekst (Nacht, typografisch) */
+.s-tekst{background:#161B1D}
+.s-tekst .kop{margin:auto 0}
+.s-tekst .rij{border-top:2rem solid rgba(184,207,192,.45);padding-top:34rem}
+.s-tekst .cta{color:#B8CFC0}
+
+/* stijl: foto (beeld met donkere laag onderin) */
+.s-foto{background:#161B1D}
+.s-foto .foto{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:{{FOTO_POS}}}
+.s-foto .laag{position:absolute;inset:0;background:linear-gradient(to top,rgba(22,27,29,.94) 0%,rgba(22,27,29,.78) 34%,rgba(22,27,29,.18) 62%,rgba(22,27,29,.35) 100%)}
+.s-foto .kop{margin-top:auto;margin-bottom:34rem;position:relative;z-index:2;font-size:calc(var(--kop) * .66)}
+.s-foto .cta{border-bottom:2rem solid #B8CFC0;padding-bottom:6rem}
+
+/* stijl: product (Bos, product op wit met echte cijfers) */
+.s-product{background:#263B31}
+.s-product .blok{margin-top:48rem}
+.s-product .kop{margin-top:22rem;font-size:calc(var(--kop) * .82)}
+.s-product .beeld{display:flex;gap:40rem;align-items:flex-start;margin:auto 0 40rem}
+.s-product .plaat{flex:0 0 560rem;height:370rem;background:#fff;display:flex;align-items:center;justify-content:center}
+.s-product .plaat img{width:100%;height:100%;object-fit:contain;padding:8rem}
+.s-product .feiten{display:flex;flex-direction:column;gap:20rem;min-width:0}
+.s-product .feit b{display:block;font-family:Newsreader,serif;font-weight:300;font-size:54rem;line-height:1;letter-spacing:-.02em}
+.s-product .feit span{display:block;margin-top:6rem;font-size:20rem;line-height:1.3;color:#B8CFC0}
+.s-product .cta{font-size:28rem;border-bottom:2rem solid #B8CFC0;padding-bottom:5rem}
+
+/* staand en story: groter vlak, dus ook grotere logo's, knoppen en teksten */
+.f-instagram-portret .logo{height:64rem}.f-instagram-portret .cta{font-size:34rem}.f-instagram-portret .url{font-size:29rem}
+.f-instagram-story .logo{height:78rem}.f-instagram-story .cta{font-size:42rem}.f-instagram-story .url{font-size:34rem}.f-instagram-story .label{font-size:28rem}
+.f-instagram-story .s-product .cta{font-size:40rem}
+.f-instagram-story .s-foto .kop{font-size:calc(var(--kop) * .74)}
+
+.f-instagram-story .s-product .plaat,.f-instagram-portret .s-product .plaat{flex-basis:560rem}
+.f-instagram-story .s-product .beeld{flex-direction:column;align-items:stretch}
+.f-instagram-story .s-product .plaat{flex:none;width:100%;height:520rem}
+.f-instagram-story .s-product .feiten{flex-direction:row;gap:48rem}
+.f-instagram-story .s-product .feit b{font-size:72rem}
+
+/* liggend (LinkedIn): twee kolommen */
+.f-linkedin .logo{height:42rem}
+.f-linkedin .cta{font-size:24rem}.f-linkedin .url{font-size:21rem}
+.f-linkedin .s-tekst .kop{max-width:80%}
+.f-linkedin .s-foto .kop{max-width:90%;font-size:calc(var(--kop) * .95)}
+.f-linkedin .s-product{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:auto 1fr auto;column-gap:40rem}
+.f-linkedin .s-product .logo{grid-column:1}
+.f-linkedin .s-product .blok{grid-column:1;margin-top:22rem}
+.f-linkedin .s-product .rij{grid-column:1;grid-row:3}
+.f-linkedin .s-product .beeld{grid-column:2;grid-row:1/4;margin:0;flex-direction:column;align-items:stretch;gap:22rem;justify-content:center}
+.f-linkedin .s-product .plaat{flex:none;width:100%;height:290rem}
+.f-linkedin .s-product .feiten{flex-direction:row;gap:30rem}
+.f-linkedin .s-product .feit b{font-size:42rem}.f-linkedin .s-product .feit span{font-size:16rem}
+.f-linkedin .s-product .label{font-size:17rem}
+</style>
+<body class="f-{{FORMAAT}}" style="--px:{{PX}}rem;--pt:{{PT}}rem;--pb:{{PB}}rem;--kop:{{KOP}}rem">
+{{INHOUD}}
+</body></html>

@@ -1,0 +1,56 @@
+{
+  "id": "2026-11-10-ideal-7000-nl",
+  "titel": "Ideal 7000 NL",
+  "pilaar": "product",
+  "stijl": "product",
+  "formaten": [
+    "instagram-post",
+    "instagram-portret",
+    "instagram-story",
+    "linkedin"
+  ],
+  "inhoud": {
+    "label": "PVC ramen · Ideal 7000 NL",
+    "kop": "Gemaakt voor de Nederlandse markt.",
+    "cta": "Vraag een offerte aan",
+    "url": "dukora.nl",
+    "product": "pvc-ramen/ideal-7000-nl",
+    "feiten": [
+      {
+        "n": "0,76",
+        "l": "Uw-waarde in W/m²K"
+      },
+      {
+        "n": "RC2",
+        "l": "inbraakwerend"
+      },
+      {
+        "n": "KOMO",
+        "l": "gecertificeerd"
+      }
+    ]
+  },
+  "alt": "Doorsnede van het Ideal 7000 NL kunststof kozijnprofiel met KOMO-keurmerk, naast de cijfers Uw 0,76, RC2 en KOMO.",
+  "tekst": {
+    "instagram": "De Ideal 7000 NL is een kunststof raamprofiel dat speciaal voor de Nederlandse markt is ontwikkeld.\n\nKOMO-gecertificeerd, inbraakwerend volgens RC2 en een Uw-waarde vanaf 0,76 W/m²K*. Te lassen onder 45 of 90 graden, zodat het ook van dichtbij op hout lijkt.\n\nBenieuwd wat het voor uw woning betekent? Plan een gratis adviesgesprek, via de link in onze bio.\n\n*Bij Ug 0,5, voor een referentiekozijn van 1230 × 1480 mm.",
+    "linkedin": "Nieuwe kozijnen vragen om een profiel dat past bij de Nederlandse woning.\n\nDe Ideal 7000 NL is daarvoor ontwikkeld: KOMO-gecertificeerd, inbraakwerend volgens RC2 en een Uw-waarde vanaf 0,76 W/m²K*. Door het lassen onder 45 of 90 graden lijkt het kozijn van dichtbij op hout.\n\nMeer over het profiel en de specificaties: dukora.nl/pvc-ramen/ideal-7000-nl\n\n*Bij Ug 0,5, voor een referentiekozijn van 1230 × 1480 mm."
+  },
+  "hashtags": {
+    "instagram": [
+      "#kozijnen",
+      "#pvckozijnen",
+      "#verbouwen",
+      "#energiezuinig",
+      "#wonen"
+    ],
+    "linkedin": [
+      "#kozijnen",
+      "#bouw"
+    ]
+  },
+  "publiceer_op": "2026-11-10T08:30:00+01:00",
+  "status": "concept",
+  "bronnen": [
+    "data/catalogus.json: pvc-ramen/ideal-7000-nl"
+  ]
+}
