@@ -12,7 +12,7 @@ import { publiceerLinkedIn, voorbeeldLinkedIn } from './lib/linkedin.mjs';
 const args = parseArgs(process.argv.slice(2));
 const live = !!args.live;
 if (live && process.env.SOCIAL_PUBLISH !== '1') { console.error('Echt publiceren vraagt twee bevestigingen: --live én SOCIAL_PUBLISH=1. Niets verstuurd.'); process.exit(2); }
-const BASIS = (process.env.SOCIAL_BASE_URL || 'https://www.dukora.nl').replace(/\/$/, '');
+const BASIS = (process.env.SOCIAL_BASE_URL || 'https://dukora.nl').replace(/\/$/, '');
 const nu = Date.now();
 
 const tag = (p, naam) => (p.post.hashtags?.[naam] ?? []);

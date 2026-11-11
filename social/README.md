@@ -61,7 +61,7 @@ Omgeving: `IG_USER_ID`, `META_ACCESS_TOKEN`. Instagram haalt de afbeelding op vi
 **LinkedIn**: een app met toegang tot de Community Management API (voor de bedrijfspagina; LinkedIn moet dat goedkeuren) of `w_member_social` (persoonlijk profiel).
 Omgeving: `LINKEDIN_ACCESS_TOKEN`, `LINKEDIN_AUTHOR_URN` (bv. `urn:li:organization:123456`), optioneel `LINKEDIN_VERSION`.
 
-Algemeen: `SOCIAL_BASE_URL` (standaard `https://www.dukora.nl`), `SOCIAL_PUBLISH=1` om `--live` toe te staan.
+Algemeen: `SOCIAL_BASE_URL` (standaard `https://dukora.nl`), `SOCIAL_PUBLISH=1` om `--live` toe te staan.
 
 ## Wat getest is en wat niet
 Getest: renderen van alle stijlen en formaten, de keuring (ook met opzettelijk foute posts), klaarzetten, de volledige publicatieketen tegen een **nagebootste** Instagram- en LinkedIn-server (volgorde van aanroepen, statussen, niet dubbel posten).

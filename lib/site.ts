@@ -1,6 +1,6 @@
 export const SITE = {
   name: 'Dukora',
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://www.dukora.nl',
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? 'https://dukora.nl',
   phone: '+31 6 29 622 245',
   phoneHref: 'tel:+31629622245',
   whatsapp: 'https://wa.me/31629622245',
