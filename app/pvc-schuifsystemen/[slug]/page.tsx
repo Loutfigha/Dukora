@@ -7,8 +7,9 @@ const CAT = 'pvc-schuifsystemen' as const;
 export const dynamicParams = false;
 export const generateStaticParams = () => productsIn(CAT).map((p) => ({ slug: p.slug }));
 
-export function generateMetadata({ params }: { params: { slug: string } }): Metadata {
-  const p = productBySlug(CAT, params.slug);
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
+  const p = productBySlug(CAT, slug);
   if (!p) return {};
   return {
     title: `${p.title} — ${CATEGORIES[CAT].naam}`,
@@ -18,8 +19,9 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   };
 }
 
-export default function Page({ params }: { params: { slug: string } }) {
-  const p = productBySlug(CAT, params.slug);
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const p = productBySlug(CAT, slug);
   if (!p) notFound();
   return <ProductDetail p={p} />;
 }

@@ -17,8 +17,9 @@ const cat = CATEGORIES['pvc-deuren'];
 export const dynamicParams = false;
 export const generateStaticParams = () => DEUREN.map((c) => ({ collectie: c.slug }));
 
-export function generateMetadata({ params }: { params: { collectie: string } }): Metadata {
-  const c = collectieBySlug(params.collectie);
+export async function generateMetadata({ params }: { params: Promise<{ collectie: string }> }): Promise<Metadata> {
+  const { collectie } = await params;
+  const c = collectieBySlug(collectie);
   if (!c) return {};
   return {
     title: `${c.title} — PVC deuren`,
@@ -28,8 +29,9 @@ export function generateMetadata({ params }: { params: { collectie: string } }):
   };
 }
 
-export default function Page({ params }: { params: { collectie: string } }) {
-  const c = collectieBySlug(params.collectie);
+export default async function Page({ params }: { params: Promise<{ collectie: string }> }) {
+  const { collectie } = await params;
+  const c = collectieBySlug(collectie);
   if (!c) notFound();
   const andere = DEUREN.filter((x) => x.slug !== c.slug);
 
